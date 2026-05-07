@@ -59,7 +59,7 @@ LEXICON ReduplicationBound
 0:-%< VerbStems ;
 
 LEXICON LexicalPreverbs
-PV/miyo+:miýo LexicalPreverbsBound ;
+PV/mino+:min1o LexicalPreverbsBound ;
 @R.class.AI@@D.comitative.COM@@P.comitative.COM@PV/wîci+:@R.class.AI@@D.comitative.COM@@P.comitative.COM@wî^COMt2 LexicalPreverbsBound ;
 @R.class.TI@@D.comitative.COM@@P.comitative.COM@PV/wîci+:@R.class.TI@@D.comitative.COM@@P.comitative.COM@wî^COMt2 LexicalPreverbsBound ;
 
