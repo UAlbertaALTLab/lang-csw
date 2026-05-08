@@ -1,4 +1,4 @@
-! Copyright © 2015–2019 Alberta Language Technology Lab (ALTLab)
+! Copyright © 2015–2026 Alberta Language Technology Lab (ALTLab)
 ! http://altlab.artsrn.ualberta.ca/
 !
 ! This program is free software; you can redistribute and/or modify
@@ -24,7 +24,7 @@ define Vowel [ a | â | ê | i | î | o | ô ] ;
 
 define Consonant [ c | h | k | m | n | p | s | t | w | y | ý ] ;
 
-define ConsonantSpecial [ "n2" | "n3" | "t2" | "t3" | "t4" | "w2" | "w3" | "ý2" ] ;
+define ConsonantSpecial [ "n1" | "n2" | "n3" | "s1" | "t2" | "t3" | "t4" | "w2" | "w3" | "ý2" ] ;
 
 define Gx [ w | y | ý ] ;
 
@@ -653,7 +653,7 @@ define o2ooPossNounRule [ o -> ô || .#. [ [ n i ] | [ k i ] | o ] [ t | t2 ] %<
 
 define deep2surfRule [ i2 -> i ,, ii2 -> î ,, n2 -> n ,, n3 -> n ,, t3 -> t ,, w2 -> w ,, y4 -> y ,, ý2 -> ý ] ;
 
-define yNormRule [ ý -> y ] ;
+define yNormRule [ ý -> n ,, n1 -> n ,, s1 -> s ] ;
 
 define rmTriggerRule [ Triggers -> 0 ] ;
 
