@@ -1,32 +1,32 @@
 LEXICON VII_Stems
-kîsikâw:kîsikâ VII-v-SG ;
-kimiwan:kimiwan3 VII-n-SG ;
-@P.diminutive.DIM@kimiwasin:@P.diminutive.DIM@kimiwasin3 VII-n-SG ;
-mâyâtan:mâyâtan3 VII-n ; 
-mihkwâw:mihkwâ VII-v ;
-miywâsin:miywâsin VII-n ;
-pimamon:pimamon VII-n ;
+kîsikâw:kîsikâ VII-v-SG ; ! Ellis: kîšikâw 'be day'
+kimiwan:kimiwan3 VII-n-SG ; ! Ellis: kimiwan 'rain'
+@P.diminutive.DIM@kimiwasin:@P.diminutive.DIM@kimiwasin3 VII-n-SG ; ! Ellis: ??
+mâyâtan:mâyâtan3 VII-n ; ! Ellis: mâlâtan 'be bad'
+mihkwâw:mihkwâ VII-v ; ! Ellis: mihkwâw 'be red'
+miywâsin:miywâsin VII-n ; ! Ellis: milwâšin 'be nice'
+pimamon:pimamon VII-n ; ! Ellis: itamon 'lead (path)'
 
 LEXICON VAI_Stems
-atoskêw:atoskê VAI-ae ;
-nipâw:nipâ VAI-ae ;
-mâtow:mâto VAI-io ;
-mîcisow:mîciso VAI-io ;
-pimisin:pimisin3 VAI-n ;
-mâham:mâha VAI-m ;
-nêhiyawêw:nêhiyawê VAI-ae ;
+atoskêw:atoskê VAI-ae ; ! Ellis: atoskêw 'work'
+nipâw:nipâ VAI-ae ; ! Ellis: nipâw 'sleep'
+mâtow:mâto VAI-io ; ! Ellis: mâtow 'cry'
+mîcisow:mîciso VAI-io ; ! Ellis: mîcisow 'eat'
+pimisin:pimisin3 VAI-n ; ! Ellis: pimišin 'lie'
+mâham:mâha VAI-m ; ! Ellis: mâham 'go downriver'
+nêhiyawêw:nêhiyawê VAI-ae ; ! Ellis: ininîmow 'speak Cree'
 
 LEXICON VTI_Stems
-kîsihtâw:kîsihtâ VTI-ae ;
-mîciw:mîci VTI-io ;
-nâtam:nât VTI-m ;
-wâpahtam:wâpaht VTI-m ;
+kîsihtâw:kîsihtâ VTI-ae ; ! Ellis: kîšihtâw 'finish s.t.'
+mîciw:mîci VTI-io ; ! Ellis: mîciw 'eat s.t'
+nâtam:nât VTI-m ; ! Ellis: nâtam 'fetch s.t.'
+wâpahtam:wâpaht VTI-m ; ! Ellis: wâpahtam 'see s.t.'
 
 LEXICON VTA_Stems
-itêw:it3 VTA-i ;
-kîskiswêw:kîskisw VTA ;
-mowêw:mow2 VTA ;
-nakatêw:nakat3 VTA-t ;
-nitonawêw:nitonaw VTA ;
-wîcihêw:wîcih VTA ;
+itêw:it3 VTA-i ; ! Ellis: itêw 'speak or say to s.o.'
+kîskiswêw:kîskisw VTA ; ! Ellis: kîškišwêw 'cut s.o. off'
+mowêw:mow2 VTA ; ! Ellis: mowêw 'eat s.o.'
+nakatêw:nakat3 VTA-t ; ! Ellis: nakatêw 'leave s.o. behind'
+nitonawêw:nitonaw VTA ; ! Ellis: natawahêw 'look for s.o.', kîtonawêw
+wîcihêw:wîcih VTA ; ! Ellis: wîcihêw 'help s.o.'
 
