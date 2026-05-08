@@ -299,7 +299,7 @@ LEXICON NA_POSS_SUFFIXES
 @U.person.KI@@C.sg@+Px2Pl:@U.person.KI@@C.sg@%>i2wâw  NA_NUMBER_OBV_LOC_SUFFIXES ;
 @U.person.O@@C.sg@+Px3Pl:@U.person.O@@C.sg@0%>i2wâw   NA_NUMBER_OBV_LOC_SUFFIXES ;
 ! Obviative possessor
-@U.person.O@@C.sg@+Px4Sg/Pl:@U.person.O@@C.sg@%>i2thiw NA_NUMBER_OBV_LOC_SUFFIXES ;
+@U.person.O@@C.sg@+Px4Sg/Pl:@U.person.O@@C.sg@%>i2n1iw NA_NUMBER_OBV_LOC_SUFFIXES ;
 ! Unspeficied possessor
 @U.person.MI@+PxX:@U.person.MI@0        NA_NUMBER_OBV_LOC_SUFFIXES ;
 @D.loc.NULL@ NA_POSS_LOC_COMBO_SUFFIXES ;
@@ -314,7 +314,7 @@ LEXICON NA_POSS_LOC_COMBO_SUFFIXES
 @U.person.KI@+Px2Pl+Loc:@U.person.KI@%>i2wâhk  NOUN_ENDLEX ;
 @U.person.O@+Px3Pl+Loc:@U.person.O@0%>i2wâhk   NOUN_ENDLEX ;
 ! Obviative possessor
-@U.person.O@+Px4Sg/Pl+Loc:@U.person.O@%>i2thihk NOUN_ENDLEX ;
+@U.person.O@+Px4Sg/Pl+Loc:@U.person.O@%>i2n1ihk NOUN_ENDLEX ;
 ! Unspecified possessor
 @U.person.MI@+PxX+Loc:@U.person.MI@%>i2hk          NOUN_ENDLEX ;
 @U.person.MI@+PxX+Distr:@U.person.MI@%>i2nâhk      NOUN_ENDLEX ;
@@ -416,7 +416,7 @@ LEXICON NI_POSS_SUFFIXES
 @U.person.KI@@C.sg@+Px2Pl:@U.person.KI@@C.sg@%>i2wâw  NI_NUMBER_LOC_SUFFIXES ;
 @U.person.O@@C.sg@+Px3Pl:@U.person.O@@C.sg@0%>i2wâw   NI_NUMBER_LOC_SUFFIXES ;
 ! Obviative possessor
-@U.person.O@@C.sg@@C.sg@+Px4Sg/Pl:@U.person.O@@C.sg@@C.sg@%>i2thiw NI_NUMBER_LOC_SUFFIXES ;
+@U.person.O@@C.sg@@C.sg@+Px4Sg/Pl:@U.person.O@@C.sg@@C.sg@%>i2n1iw NI_NUMBER_LOC_SUFFIXES ;
 ! Unspecified possessor
 @U.person.MI@+PxX:@U.person.MI@0        NI_NUMBER_LOC_SUFFIXES ;
 NI_POSS_LOC_COMBO_SUFFIXES ;
@@ -440,8 +440,8 @@ LEXICON NI_POSS_LOC_COMBO_SUFFIXES
 @U.person.O@+Px3Pl+Loc:@U.person.O@0%>i2wâhk   NOUN_ENDLEX ;
 @U.person.O@+Px3Pl+Loc:@U.person.O@0%>i2wâh   NOUN_ENDLEX ;
 ! Obviative possessor
-@U.person.O@+Px4Sg/Pl+Loc:@U.person.O@%>i2thihk NOUN_ENDLEX ;
-@U.person.O@+Px4Sg/Pl+Loc:@U.person.O@%>i2thih NOUN_ENDLEX ;
+@U.person.O@+Px4Sg/Pl+Loc:@U.person.O@%>i2n1ihk NOUN_ENDLEX ;
+@U.person.O@+Px4Sg/Pl+Loc:@U.person.O@%>i2n1ih NOUN_ENDLEX ;
 ! Unspecified possessor
 @U.person.MI@+PxX+Loc:@U.person.MI@%>i2hk NOUN_ENDLEX ;
 @U.person.MI@+PxX+Loc:@U.person.MI@%>i2h NOUN_ENDLEX ;
@@ -450,7 +450,7 @@ LEXICON NI_NUMBER_LOC_SUFFIXES
 @D.number.PL@ NI_NUMBER_SUFFIXES_SG ; 
 @D.number.SG@+Pl:@D.number.SG@%>a NOUN_ENDLEX ;
 @R.person.NULL@+Loc:@R.person.NULL@%>i2hk NOUN_ENDLEX ;
-@R.person.NULL@+Loc:@R.person.NULL@%>i2h NOUN_ENDLEX ;
+! @R.person.NULL@+Loc:@R.person.NULL@%>i2h NOUN_ENDLEX ; 
 ! @R.person.NULL@+Loc+Dial/East:@R.person.NULL@%>i2h NOUN_ENDLEX ;
 
 LEXICON NI_NUMBER_SUFFIXES_SG
@@ -477,7 +477,7 @@ LEXICON NOUN_IRREGULARS
 ôsi+N+I+Px12Pl:kitôtinaw OSI_SUFFIXES ;
 ôsi+N+I+Px2Pl:kitôtiwâw OSI_SUFFIXES ;
 ôsi+N+I+Px3Pl:otôtiwâw OSI_SUFFIXES ;
-ôsi+N+I+Px4Sg/Pl:otôtithiw OSI_SUFFIXES ;
+ôsi+N+I+Px4Sg/Pl:otôtin1iw OSI_SUFFIXES ;
 ! Locative combos
 ôsi+N+I+Px1Sg+Loc:nitôtihk # ;
 ôsi+N+I+Px1Sg+Loc:nitôtih # ;
@@ -493,8 +493,8 @@ LEXICON NOUN_IRREGULARS
 ôsi+N+I+Px2Pl+Loc:kitôtiwâh # ;
 ôsi+N+I+Px3Pl+Loc:otôtiwâhk # ;
 ôsi+N+I+Px3Pl+Loc:otôtiwâh # ;
-ôsi+N+I+Px4Sg/Pl+Loc:otôtithihk # ;
-ôsi+N+I+Px4Sg/Pl+Loc:otôtithih # ;
+ôsi+N+I+Px4Sg/Pl+Loc:otôtin1ihk # ;
+! ôsi+N+I+Px4Sg/Pl+Loc:otôtin1ih # ;
 
 LEXICON OSI_SUFFIXES
 +Sg:0 # ;
