@@ -574,9 +574,9 @@ LEXICON VTI-ae_IND_2
 LEXICON VTI-ae_IND_3
 @D.number.PL@+3Sg:@D.number.PL@%>w VERBS_Endlex ;
 +3Pl:%>w%>ak VERBS_Endlex ;
-+4Sg/Pl:%>ýiwa VERBS_Endlex ;
++4Sg/Pl:%>n1iwa VERBS_Endlex ;
 +X:%>niwân VERBS_Endlex ;
-+X:%>niwiw VERBS_Endlex ;
++X:%>niwiw VERBS_Endlex ; ! CHECK
 
 LEXICON VTI-io_IndependentSuffixes
 @R.person.NI@ VTI-io_IND_1 ;
@@ -596,9 +596,9 @@ LEXICON VTI-io_IND_2
 LEXICON VTI-io_IND_3
 @D.number.PL@+3Sg:@D.number.PL@%>w VERBS_Endlex ;
 +3Pl:%>w%>ak VERBS_Endlex ;
-+4Sg/Pl:%>ýiwa VERBS_Endlex ;
++4Sg/Pl:%>n1iwa VERBS_Endlex ;
 +X:%>nâniwân VERBS_Endlex ;
-+X:%>nâniwiw VERBS_Endlex ;
++X:%>nâniwiw VERBS_Endlex ; ! CHECK
 
 LEXICON VTI-m_IndependentSuffixes
 @R.person.NI@ VTI-m_IND_1 ;
@@ -618,9 +618,9 @@ LEXICON VTI-m_IND_2
 LEXICON VTI-m_IND_3
 @D.number.PL@+3Sg:@D.number.PL@%>am VERBS_Endlex ;
 +3Pl:%>am%>wak VERBS_Endlex ;
-+4Sg/Pl:%>amiýiwa VERBS_Endlex ;
++4Sg/Pl:%>amin1iwa VERBS_Endlex ;
 +X:%>aniwân VERBS_Endlex ;
-+X:%>aniwiw VERBS_Endlex ;
++X:%>aniwiw VERBS_Endlex ; ! CHECK
 
 LEXICON VTI_ConjunctSuffixes
 @R.infl.VTI-ae@ VTI-ae_ConjunctSuffixes ;
@@ -641,10 +641,10 @@ LEXICON VTI-ae_CNJ_PL
 +21Pl:%>yahk VERBS_Endlex ;
 +2Pl:%>yêk VERBS_Endlex ;
 +3Pl:%>c%>ik VERBS_Endlex ;
-+4Sg/Pl:%>ýit VERBS_Endlex ;
++4Sg/Pl:%>n1it VERBS_Endlex ;
 +X:%>hk VERBS_Endlex ;
-+X:%>niwik VERBS_Endlex ;
-+X:%>niwahk VERBS_Endlex ;
++X:%>niwik VERBS_Endlex ; ! CHECK
++X:%>niwahk VERBS_Endlex ; ! CHECK
 
 LEXICON VTI-io_ConjunctSuffixes
 @D.number.PL@ VTI-io_CNJ_SG ;
@@ -660,10 +660,10 @@ LEXICON VTI-io_CNJ_PL
 +21Pl:%>yahk VERBS_Endlex ;
 +2Pl:%>yêk VERBS_Endlex ;
 +3Pl:%>c%>ik VERBS_Endlex ;
-+4Sg/Pl:%>ýit VERBS_Endlex ;
++4Sg/Pl:%>n1it VERBS_Endlex ;
 +X:%>hk VERBS_Endlex ;
-+X:%>nâniwik VERBS_Endlex ;
-+X:%>nâniwahk VERBS_Endlex ;
++X:%>nâniwik VERBS_Endlex ; ! CHECK
++X:%>nâniwahk VERBS_Endlex ; ! CHECK
 
 LEXICON VTI-m_ConjunctSuffixes
 @D.number.PL@ VTI-m_CNJ_SG ;
@@ -679,7 +679,7 @@ LEXICON VTI-m_CNJ_PL
 +21Pl:%>amahk VERBS_Endlex ;
 +2Pl:%>amêk VERBS_Endlex ;
 +3Pl:%>ahk%>ik VERBS_Endlex ;
-+4Sg/Pl:%>amiýit VERBS_Endlex ;
++4Sg/Pl:%>amin1it VERBS_Endlex ;
 +X:%>amihk VERBS_Endlex ;
 
 LEXICON VTI_ConditionalSuffixes
@@ -702,7 +702,7 @@ LEXICON VTI-ae_COND_PL
 +21Pl:%>yahk%>o VERBS_Endlex ;
 +2Pl:%>yêk%>o VERBS_Endlex ;
 +3Pl:%>twâw%>i VERBS_Endlex ;
-+4Sg/Pl:%>ýic%>i VERBS_Endlex ;
++4Sg/Pl:%>n1ic%>i VERBS_Endlex ;
 +X:%>hk%>i VERBS_Endlex ;
 
 LEXICON VTI-io_ConditionalSuffixes
@@ -720,7 +720,7 @@ LEXICON VTI-io_COND_PL
 +21Pl:%>yahk%>o VERBS_Endlex ;
 +2Pl:%>yêk%>o VERBS_Endlex ;
 +3Pl:%>twâw%>i VERBS_Endlex ;
-+4Sg/Pl:%>ýic%>i VERBS_Endlex ;
++4Sg/Pl:%>n1ic%>i VERBS_Endlex ;
 +X:%>hk%>i VERBS_Endlex ;
 
 LEXICON VTI-m_ConditionalSuffixes
@@ -738,7 +738,7 @@ LEXICON VTI-m_COND_PL
 +21Pl:%>amahk%>o VERBS_Endlex ;
 +2Pl:%>amêk%>o VERBS_Endlex ;
 +3Pl:%>ahkwâw%>i VERBS_Endlex ;
-+4Sg/Pl:%>amiýic%>i VERBS_Endlex ;
++4Sg/Pl:%>amin1ic%>i VERBS_Endlex ;
 +X:%>amihk%>i VERBS_Endlex ;
 
 LEXICON VTI_ImperativeSuffixes
