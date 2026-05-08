@@ -11,7 +11,7 @@ Tests:
      nipâw+V+AI+Ind+1Sg:    ninipân # INDEPENDENT
      nipâw+V+AI+Ind+2Sg:    kinipân
      nipâw+V+AI+Ind+3Sg:    nipâw
-     nipâw+V+AI+Ind+4Sg/Pl: nipâyiwa
+     nipâw+V+AI+Ind+4Sg/Pl: nipâniwa
      nipâw+V+AI+Ind+1Pl:    ninipânân
      nipâw+V+AI+Ind+21Pl:   [kinipânaw, kinipânânaw]
      nipâw+V+AI+Ind+2Pl:    kinipânâwâw
@@ -20,7 +20,7 @@ Tests:
      PV/ê+nipâw+V+AI+Cnj+1Sg:    ê-nipâyân # CONJUNCT
      PV/ê+nipâw+V+AI+Cnj+2Sg:    ê-nipâyan
      PV/ê+nipâw+V+AI+Cnj+3Sg:    ê-nipât
-     PV/ê+nipâw+V+AI+Cnj+4Sg/Pl: ê-nipâyit
+     PV/ê+nipâw+V+AI+Cnj+4Sg/Pl: ê-nipânit
      PV/ê+nipâw+V+AI+Cnj+1Pl:    ê-nipâyâhk
      PV/ê+nipâw+V+AI+Cnj+21Pl:   ê-nipâyahk
      PV/ê+nipâw+V+AI+Cnj+2Pl:    ê-nipâyêk
@@ -29,7 +29,7 @@ Tests:
      PV/kî+nipâw+V+AI+Ind+1Sg:    nikî-nipân # PRT-INDEPENDENT
      PV/kî+nipâw+V+AI+Ind+2Sg:    kikî-nipân
      PV/kî+nipâw+V+AI+Ind+3Sg:    kî-nipâw
-     PV/kî+nipâw+V+AI+Ind+4Sg/Pl: kî-nipâyiwa
+     PV/kî+nipâw+V+AI+Ind+4Sg/Pl: kî-nipâniwa
      PV/kî+nipâw+V+AI+Ind+1Pl:    nikî-nipânân
      PV/kî+nipâw+V+AI+Ind+21Pl:   [kikî-nipânaw, kikî-nipânânaw]
      PV/kî+nipâw+V+AI+Ind+2Pl:    kikî-nipânâwâw
@@ -38,7 +38,7 @@ Tests:
      PV/ê+PV/kî+nipâw+V+AI+Cnj+1Sg:    ê-kî-nipâyân # PRT-CONJUNCT
      PV/ê+PV/kî+nipâw+V+AI+Cnj+2Sg:    ê-kî-nipâyan
      PV/ê+PV/kî+nipâw+V+AI+Cnj+3Sg:    ê-kî-nipât
-     PV/ê+PV/kî+nipâw+V+AI+Cnj+4Sg/Pl: ê-kî-nipâyit
+     PV/ê+PV/kî+nipâw+V+AI+Cnj+4Sg/Pl: ê-kî-nipânit
      PV/ê+PV/kî+nipâw+V+AI+Cnj+1Pl:    ê-kî-nipâyâhk
      PV/ê+PV/kî+nipâw+V+AI+Cnj+21Pl:   ê-kî-nipâyahk
      PV/ê+PV/kî+nipâw+V+AI+Cnj+2Pl:    ê-kî-nipâyêk
@@ -48,7 +48,7 @@ Tests:
      PV/wî+nipâw+V+AI+Ind+1Sg:    niwî-nipân # FUT+INT-INDEPENDENT
      PV/wî+nipâw+V+AI+Ind+2Sg:    kiwî-nipân
      PV/wî+nipâw+V+AI+Ind+3Sg:    wî-nipâw
-     PV/wî+nipâw+V+AI+Ind+4Sg/Pl: wî-nipâyiwa
+     PV/wî+nipâw+V+AI+Ind+4Sg/Pl: wî-nipâniwa
      PV/wî+nipâw+V+AI+Ind+1Pl:    niwî-nipânân
      PV/wî+nipâw+V+AI+Ind+21Pl:   [kiwî-nipânaw, kiwî-nipânânaw]
      PV/wî+nipâw+V+AI+Ind+2Pl:    kiwî-nipânâwâw
@@ -57,7 +57,7 @@ Tests:
      PV/ê+PV/wî+nipâw+V+AI+Cnj+1Sg:    ê-wî-nipâyân # FUT+INT-CONJUNCT
      PV/ê+PV/wî+nipâw+V+AI+Cnj+2Sg:    ê-wî-nipâyan
      PV/ê+PV/wî+nipâw+V+AI+Cnj+3Sg:    ê-wî-nipât
-     PV/ê+PV/wî+nipâw+V+AI+Cnj+4Sg/Pl: ê-wî-nipâyit
+     PV/ê+PV/wî+nipâw+V+AI+Cnj+4Sg/Pl: ê-wî-nipânit
      PV/ê+PV/wî+nipâw+V+AI+Cnj+1Pl:    ê-wî-nipâyâhk
      PV/ê+PV/wî+nipâw+V+AI+Cnj+21Pl:   ê-wî-nipâyahk
      PV/ê+PV/wî+nipâw+V+AI+Cnj+2Pl:    ê-wî-nipâyêk
@@ -66,7 +66,7 @@ Tests:
      PV/ka+nipâw+V+AI+Ind+1Sg:    nika-nipân # FUT+DEF-INDEPENDENT
      PV/ka+nipâw+V+AI+Ind+2Sg:    kika-nipân
      PV/ka+nipâw+V+AI+Ind+3Sg:    ka-nipâw
-     PV/ka+nipâw+V+AI+Ind+4Sg/Pl: ka-nipâyiwa
+     PV/ka+nipâw+V+AI+Ind+4Sg/Pl: ka-nipâniwa
      PV/ka+nipâw+V+AI+Ind+1Pl:    nika-nipânân
      PV/ka+nipâw+V+AI+Ind+21Pl:   [kika-nipânaw, kika-nipânânaw]
      PV/ka+nipâw+V+AI+Ind+2Pl:    kika-nipânâwâw
@@ -75,7 +75,7 @@ Tests:
      nipâw+V+AI+Cond+1Sg:    nipâyâni
      nipâw+V+AI+Cond+2Sg:    nipâyani
      nipâw+V+AI+Cond+3Sg:    nipâci
-     nipâw+V+AI+Cond+4Sg/Pl: nipâyici
+     nipâw+V+AI+Cond+4Sg/Pl: nipânici
      nipâw+V+AI+Cond+1Pl:    nipâyâhki
      nipâw+V+AI+Cond+21Pl:   [nipâyahki, nipâyahko]
      nipâw+V+AI+Cond+2Pl:    nipâyêko
@@ -106,7 +106,7 @@ Tests:
 
      PV/wî+PV/wîci+nipâw+V+AI+Der/Com+V+TA+Ind+3Sg+4Sg/PlO: [wî-wîci-nipâmêw] # com SET III
      PV/wî+PV/wîci+nipâw+V+AI+Der/Com+V+TA+Ind+3Pl+4Sg/PlO: [wî-wîci-nipâmêwak]
-     PV/wî+PV/wîci+nipâw+V+AI+Der/Com+V+TA+Ind+4Sg/Pl+5Sg/PlO: [wî-wîci-nipâmêyiwa]
+     PV/wî+PV/wîci+nipâw+V+AI+Der/Com+V+TA+Ind+4Sg/Pl+5Sg/PlO: [wî-wîci-nipâmêniwa]
      PV/wî+PV/wîci+nipâw+V+AI+Der/Com+V+TA+Ind+3Sg+5Sg/PlO: [wî-wîci-nipâmimêw] # From Wolvengrey P.C. 27/6/15 (See /doc/)
      PV/wî+PV/wîci+nipâw+V+AI+Der/Com+V+TA+Ind+3Pl+5Sg/PlO: [wî-wîci-nipâmimêwak] # From Wolvengrey P.C. 27/6/15 (See /doc/)
 
