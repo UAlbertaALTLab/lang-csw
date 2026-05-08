@@ -5,20 +5,20 @@ Config:
 
 Tests:
   
-  Verb - miywâsin - help : # Wolvengrey VIIn
+  Verb - minwâsin - help : # Wolvengrey VIIn
    
-     miywâsin+V+II+Ind+3Sg:  miywâsin
-     miywâsin+V+II+Ind+3Pl:  miywâsinwa
-     miywâsin+V+II+Ind+4Sg:  miywâsiniyiw
-     miywâsin+V+II+Ind+4Pl:  miywâsiniyiwa
+     minwâsin+V+II+Ind+3Sg:  minwâsin
+     minwâsin+V+II+Ind+3Pl:  minwâsinwa
+     minwâsin+V+II+Ind+4Sg:  minwâsininiw
+     minwâsin+V+II+Ind+4Pl:  minwâsininiwa
      
-     PV/ê+miywâsin+V+II+Cnj+3Sg:  [ê-miywâsik]
-     PV/ê+miywâsin+V+II+Cnj+3Pl:  [ê-miywâsiki]
-     PV/ê+miywâsin+V+II+Cnj+4Sg:  [ê-miywâsiniyik]
-     PV/ê+miywâsin+V+II+Cnj+4Pl:  [ê-miywâsiniyiki]
+     PV/ê+minwâsin+V+II+Cnj+3Sg:  ê-minwâsik
+     PV/ê+minwâsin+V+II+Cnj+3Pl:  ê-minwâsiki
+     PV/ê+minwâsin+V+II+Cnj+4Sg:  ê-minwâsininik
+     PV/ê+minwâsin+V+II+Cnj+4Pl:  ê-minwâsininiki
      
-     miywâsin+V+II+Cond+3Sg:  miywâsiki
-     miywâsin+V+II+Cond+3Pl:  miywâsikwâwi
-     miywâsin+V+II+Cond+4Sg:  miywâsiniyiki
-     miywâsin+V+II+Cond+4Pl:  miywâsiniyikwâwi
+     minwâsin+V+II+Cond+3Sg:  minwâsiki
+     minwâsin+V+II+Cond+3Pl:  minwâsikwâwi
+     minwâsin+V+II+Cond+4Sg:  minwâsininiki
+     minwâsin+V+II+Cond+4Pl:  minwâsininikwâwi
 
