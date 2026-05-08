@@ -10,7 +10,7 @@ Tests:
      mîcisow+V+AI+Ind+1Sg: nimîcison
      mîcisow+V+AI+Ind+2Sg: kimîcison
      mîcisow+V+AI+Ind+3Sg: mîcisow
-     mîcisow+V+AI+Ind+4Sg/Pl: mîcisoyiwa
+     mîcisow+V+AI+Ind+4Sg/Pl: mîcisoniwa
      mîcisow+V+AI+Ind+1Pl: nimîcisonân
      mîcisow+V+AI+Ind+21Pl: [kimîcisonaw, kimîcisonânaw]
      mîcisow+V+AI+Ind+2Pl: kimîcisonâwâw
@@ -19,7 +19,7 @@ Tests:
      PV/kî+mîcisow+V+AI+Ind+1Sg: [nikî-mîcison]
      PV/kî+mîcisow+V+AI+Ind+2Sg: [kikî-mîcison]
      PV/kî+mîcisow+V+AI+Ind+3Sg: [kî-mîcisow]
-     PV/kî+mîcisow+V+AI+Ind+4Sg/Pl: [kî-mîcisoyiwa]
+     PV/kî+mîcisow+V+AI+Ind+4Sg/Pl: [kî-mîcisoniwa]
      PV/kî+mîcisow+V+AI+Ind+1Pl: [nikî-mîcisonân]
      PV/kî+mîcisow+V+AI+Ind+21Pl: [kikî-mîcisonaw, kikî-mîcisonânaw]
      PV/kî+mîcisow+V+AI+Ind+2Pl: [kikî-mîcisonâwâw]
@@ -28,7 +28,7 @@ Tests:
      PV/ka+mîcisow+V+AI+Ind+1Sg: [nika-mîcison]
      PV/ka+mîcisow+V+AI+Ind+2Sg: [kika-mîcison]
      PV/ka+mîcisow+V+AI+Ind+3Sg: [ka-mîcisow]
-     PV/ka+mîcisow+V+AI+Ind+4Sg/Pl: [ka-mîcisoyiwa]
+     PV/ka+mîcisow+V+AI+Ind+4Sg/Pl: [ka-mîcisoniwa]
      PV/ka+mîcisow+V+AI+Ind+1Pl: [nika-mîcisonân]
      PV/ka+mîcisow+V+AI+Ind+21Pl: [kika-mîcisonaw, kika-mîcisonânaw]
      PV/ka+mîcisow+V+AI+Ind+2Pl: [kika-mîcisonâwâw]
@@ -37,7 +37,7 @@ Tests:
      PV/wî+mîcisow+V+AI+Ind+1Sg: [niwî-mîcison]
      PV/wî+mîcisow+V+AI+Ind+2Sg: [kiwî-mîcison]
      PV/wî+mîcisow+V+AI+Ind+3Sg: [wî-mîcisow]
-     PV/wî+mîcisow+V+AI+Ind+4Sg/Pl: [wî-mîcisoyiwa]
+     PV/wî+mîcisow+V+AI+Ind+4Sg/Pl: [wî-mîcisoniwa]
      PV/wî+mîcisow+V+AI+Ind+1Pl: [niwî-mîcisonân]
      PV/wî+mîcisow+V+AI+Ind+21Pl: [kiwî-mîcisonaw, kiwî-mîcisonânaw]
      PV/wî+mîcisow+V+AI+Ind+2Pl: [kiwî-mîcisonâwâw]
@@ -46,7 +46,7 @@ Tests:
      PV/ê+mîcisow+V+AI+Cnj+1Sg: [ê-mîcisoyân]
      PV/ê+mîcisow+V+AI+Cnj+2Sg: [ê-mîcisoyan]
      PV/ê+mîcisow+V+AI+Cnj+3Sg: [ê-mîcisot]
-     PV/ê+mîcisow+V+AI+Cnj+4Sg/Pl: [ê-mîcisoyit]
+     PV/ê+mîcisow+V+AI+Cnj+4Sg/Pl: [ê-mîcisonit]
      PV/ê+mîcisow+V+AI+Cnj+1Pl: [ê-mîcisoyâhk]
      PV/ê+mîcisow+V+AI+Cnj+21Pl: [ê-mîcisoyahk]
      PV/ê+mîcisow+V+AI+Cnj+2Pl: [ê-mîcisoyêk]
@@ -55,7 +55,7 @@ Tests:
      PV/ê+mîcisow+V+AI+Cnj+1Sg: [ê-mîcisoyân]
      PV/ê+mîcisow+V+AI+Cnj+2Sg: [ê-mîcisoyan]
      PV/ê+mîcisow+V+AI+Cnj+3Sg: [ê-mîcisot]
-     PV/ê+mîcisow+V+AI+Cnj+4Sg/Pl: [ê-mîcisoyit]
+     PV/ê+mîcisow+V+AI+Cnj+4Sg/Pl: [ê-mîcisonit]
      PV/ê+mîcisow+V+AI+Cnj+1Pl: [ê-mîcisoyâhk]
      PV/ê+mîcisow+V+AI+Cnj+21Pl: [ê-mîcisoyahk]
      PV/ê+mîcisow+V+AI+Cnj+2Pl: [ê-mîcisoyêk]
@@ -64,7 +64,7 @@ Tests:
      PV/ê+PV/kî+mîcisow+V+AI+Cnj+1Sg: [ê-kî-mîcisoyân]
      PV/ê+PV/kî+mîcisow+V+AI+Cnj+2Sg: [ê-kî-mîcisoyan]
      PV/ê+PV/kî+mîcisow+V+AI+Cnj+3Sg: [ê-kî-mîcisot]
-     PV/ê+PV/kî+mîcisow+V+AI+Cnj+4Sg/Pl: [ê-kî-mîcisoyit]
+     PV/ê+PV/kî+mîcisow+V+AI+Cnj+4Sg/Pl: [ê-kî-mîcisonit]
      PV/ê+PV/kî+mîcisow+V+AI+Cnj+1Pl: [ê-kî-mîcisoyâhk]
      PV/ê+PV/kî+mîcisow+V+AI+Cnj+21Pl: [ê-kî-mîcisoyahk]
      PV/ê+PV/kî+mîcisow+V+AI+Cnj+2Pl: [ê-kî-mîcisoyêk]
@@ -73,7 +73,7 @@ Tests:
      PV/ê+PV/wî+mîcisow+V+AI+Cnj+1Sg: [ê-wî-mîcisoyân]
      PV/ê+PV/wî+mîcisow+V+AI+Cnj+2Sg: [ê-wî-mîcisoyan]
      PV/ê+PV/wî+mîcisow+V+AI+Cnj+3Sg: [ê-wî-mîcisot]
-     PV/ê+PV/wî+mîcisow+V+AI+Cnj+4Sg/Pl: [ê-wî-mîcisoyit]
+     PV/ê+PV/wî+mîcisow+V+AI+Cnj+4Sg/Pl: [ê-wî-mîcisonit]
      PV/ê+PV/wî+mîcisow+V+AI+Cnj+1Pl: [ê-wî-mîcisoyâhk]
      PV/ê+PV/wî+mîcisow+V+AI+Cnj+21Pl: [ê-wî-mîcisoyahk]
      PV/ê+PV/wî+mîcisow+V+AI+Cnj+2Pl: [ê-wî-mîcisoyêk]
@@ -114,7 +114,7 @@ Tests:
      mîcisow+V+AI+Cond+1Sg: mîcisoyâni
      mîcisow+V+AI+Cond+2Sg: mîcisoyani
      mîcisow+V+AI+Cond+3Sg: mîcisoci
-     mîcisow+V+AI+Cond+4Sg/Pl: mîcisoyici
+     mîcisow+V+AI+Cond+4Sg/Pl: mîcisonici
      mîcisow+V+AI+Cond+1Pl: mîcisoyâhki
      mîcisow+V+AI+Cond+21Pl: [mîcisoyahko, mîcisoyahki]
      mîcisow+V+AI+Cond+2Pl: mîcisoyêko
