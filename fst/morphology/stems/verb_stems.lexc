@@ -2,9 +2,10 @@ LEXICON VII_Stems
 kîsikâw:kîsikâ VII-v-SG ; ! Ellis: kîšikâw 'be day'
 kimiwan:kimiwan3 VII-n-SG ; ! Ellis: kimiwan 'rain'
 @P.diminutive.DIM@kimiwasin:@P.diminutive.DIM@kimiwasin3 VII-n-SG ; ! Ellis: ??
-mâyâtan:mâyâtan3 VII-n ; ! Ellis: mâlâtan 'be bad'
+! mânâtan:mân1âtan3 VII-n ; ! Ellis: mâlâtan 'be bad'
+macitan:macitan3 VII-n ;
 mihkwâw:mihkwâ VII-v ; ! Ellis: mihkwâw 'be red'
-miywâsin:miywâsin VII-n ; ! Ellis: milwâšin 'be nice'
+minwâsin:min1wâsin VII-n ; ! Ellis: milwâšin 'be nice'
 pimamon:pimamon VII-n ; ! Ellis: itamon 'lead (path)'
 
 LEXICON VAI_Stems
@@ -12,9 +13,10 @@ atoskêw:atoskê VAI-ae ; ! Ellis: atoskêw 'work'
 nipâw:nipâ VAI-ae ; ! Ellis: nipâw 'sleep'
 mâtow:mâto VAI-io ; ! Ellis: mâtow 'cry'
 mîcisow:mîciso VAI-io ; ! Ellis: mîcisow 'eat'
-pimisin:pimisin3 VAI-n ; ! Ellis: pimišin 'lie'
-mâham:mâha VAI-m ; ! Ellis: mâham 'go downriver'
-nêhiyawêw:nêhiyawê VAI-ae ; ! Ellis: ininîmow 'speak Cree'
+pimisin:pimis1in3 VAI-n ; ! Ellis: pimišin 'lie'
+! mâham:mâha VAI-m ; ! Ellis: mâham 'go downriver'
+tipiskam:tipiska VAI-m ; ! Wolvengrey: 'have birthday'
+nêhin1awêw:nêhin1awê VAI-ae ; ! Ellis: ininîmow 'speak Cree'
 
 LEXICON VTI_Stems
 kîsihtâw:kîsihtâ VTI-ae ; ! Ellis: kîšihtâw 'finish s.t.'
