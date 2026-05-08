@@ -147,11 +147,11 @@ VII-v_IND_SG ;
 
 LEXICON VII-v_IND_SG
 +3Sg:%>w VERBS_Endlex ;
-+4Sg:%>ýiw VERBS_Endlex ;
++4Sg:%>n1iw VERBS_Endlex ;
 
 LEXICON VII-v_IND_PL
 +3Pl:%>w%>a VERBS_Endlex ;
-+4Pl:%>ýiw%>a VERBS_Endlex ;
++4Pl:%>n1iw%>a VERBS_Endlex ;
 
 LEXICON VII-v_ConjunctSuffixes
 VII-v_CNJ_SG ;
@@ -159,11 +159,11 @@ VII-v_CNJ_SG ;
 
 LEXICON VII-v_CNJ_SG
 +3Sg:%>k VERBS_Endlex ;
-+4Sg:%>ýik VERBS_Endlex ;
++4Sg:%>n1ik VERBS_Endlex ;
 
 LEXICON VII-v_CNJ_PL
 +3Pl:%>k%>i VERBS_Endlex ;
-+4Pl:%>ýik%>i VERBS_Endlex ;
++4Pl:%>n1ik%>i VERBS_Endlex ;
 
 LEXICON VII-v_ConditionalSuffixes
 VII-v_COND_SG ;
@@ -171,7 +171,7 @@ VII-v_COND_SG ;
 
 LEXICON VII-v_COND_SG
 +3Sg:%>ki VERBS_Endlex ;
-+4Sg:%>ýiki VERBS_Endlex ;
++4Sg:%>n1iki VERBS_Endlex ;
 
 LEXICON VII-v_COND_PL
 +3Pl:%>kwâwi VERBS_Endlex ;
@@ -183,11 +183,11 @@ VII-n_IND_SG ;
 
 LEXICON VII-n_IND_SG
 +3Sg:0 VERBS_Endlex ;
-+4Sg:%>iýiw VERBS_Endlex ;
++4Sg:%>in1iw VERBS_Endlex ;
 
 LEXICON VII-n_IND_PL
 +3Pl:%>wa VERBS_Endlex ;
-+4Pl:%>iýiw%>a VERBS_Endlex ;
++4Pl:%>in1iw%>a VERBS_Endlex ;
 
 LEXICON VII-n_ConjunctSuffixes
 VII-n_CNJ_SG ;
@@ -195,11 +195,11 @@ VII-n_CNJ_SG ;
 
 LEXICON VII-n_CNJ_SG
 +3Sg:%>k VERBS_Endlex ;
-+4Sg:%>iýik VERBS_Endlex ;
++4Sg:%>in1ik VERBS_Endlex ;
 
 LEXICON VII-n_CNJ_PL
 +3Pl:%>k%>i VERBS_Endlex ;
-+4Pl:%>iýik%>i VERBS_Endlex ;
++4Pl:%>in1ik%>i VERBS_Endlex ;
 
 LEXICON VII-n_ConditionalSuffixes
 VII-n_COND_SG ;
@@ -207,11 +207,11 @@ VII-n_COND_SG ;
 
 LEXICON VII-n_COND_SG
 +3Sg:%>ki VERBS_Endlex ;
-+4Sg:%>iýiki VERBS_Endlex ;
++4Sg:%>in1iki VERBS_Endlex ;
 
 LEXICON VII-n_COND_PL
 +3Pl:%>kwâwi VERBS_Endlex ;
-+4Pl:%>iýikwâwi VERBS_Endlex ;
++4Pl:%>in1ikwâwi VERBS_Endlex ;
 
 LEXICON VAI_Derivation
 0 VAI_Inflection ;
