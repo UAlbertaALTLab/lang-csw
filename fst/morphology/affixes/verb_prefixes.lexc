@@ -21,7 +21,7 @@ LEXICON IndependentPrefixesBound
 LEXICON ConjunctPreverbs
 PV/ê+:ê ConjunctPreverbsBound ;
 PV/kâ+:kâ ConjunctPreverbsBound ;
-PV/ta+:ta TensePreverbsBound ;
+PV/ta+:ta TensePreverbsBound ; !Check
 PV/ka+:ka TensePreverbsBound ;
 @P.err.Morph@ TensePreverbs ;
 IC+:^IC LexicalPreverbGate ;
@@ -37,7 +37,7 @@ LEXICON TensePreverbs
 0 LexicalPreverbGate ;
 PV/kî+:kî TensePreverbsBound ;
 PV/wî+:wî TensePreverbsBound ;
-PV/kî+PV/wî+:kî-%<wî TensePreverbsBound ;
+PV/kî+PV/wî+:kî-%<wî TensePreverbsBound ; !Check
 @R.order.Ind@PV/ka+:@R.order.Ind@ka TensePreverbsBound ;
 
 LEXICON TensePreverbsBound
