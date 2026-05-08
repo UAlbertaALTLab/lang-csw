@@ -12,7 +12,7 @@ Tests:
      pimisin+V+AI+Ind+2Sg:    kipimisinin
      pimisin+V+AI+Ind+3Sg:    pimisin
      pimisin+V+AI+Ind+3Sg+Dial:    pimisiniw
-     pimisin+V+AI+Ind+4Sg/Pl: pimisiniyiwa
+     pimisin+V+AI+Ind+4Sg/Pl: pimisininiwa
      pimisin+V+AI+Ind+1Pl:    nipimisininân
      pimisin+V+AI+Ind+21Pl:   [kipimisininaw, kipimisininânaw]
      pimisin+V+AI+Ind+2Pl:    kipimisininâwâw
@@ -24,7 +24,7 @@ Tests:
      PV/ê+pimisin+V+AI+Cnj+2Sg:    ê-pimisiniyan
      PV/ê+pimisin+V+AI+Cnj+3Sg:    ê-pimisihk
      PV/ê+pimisin+V+AI+Cnj+3Sg+Dial:    ê-pimisinit
-     PV/ê+pimisin+V+AI+Cnj+4Sg/Pl: ê-pimisiniyit
+     PV/ê+pimisin+V+AI+Cnj+4Sg/Pl: ê-pimisininit
      PV/ê+pimisin+V+AI+Cnj+1Pl:    ê-pimisiniyâhk
      PV/ê+pimisin+V+AI+Cnj+21Pl:   ê-pimisiniyahk
      PV/ê+pimisin+V+AI+Cnj+2Pl:    ê-pimisiniyêk
@@ -36,7 +36,7 @@ Tests:
      PV/kî+pimisin+V+AI+Ind+2Sg:    kikî-pimisinin
      PV/kî+pimisin+V+AI+Ind+3Sg:    kî-pimisin
      PV/kî+pimisin+V+AI+Ind+3Sg+Dial:    kî-pimisiniw
-     PV/kî+pimisin+V+AI+Ind+4Sg/Pl: kî-pimisiniyiwa
+     PV/kî+pimisin+V+AI+Ind+4Sg/Pl: kî-pimisininiwa
      PV/kî+pimisin+V+AI+Ind+1Pl:    nikî-pimisininân
      PV/kî+pimisin+V+AI+Ind+21Pl:   [kikî-pimisininaw, kikî-pimisininânaw]
      PV/kî+pimisin+V+AI+Ind+2Pl:    kikî-pimisininâwâw
@@ -48,7 +48,7 @@ Tests:
      PV/ê+PV/kî+pimisin+V+AI+Cnj+2Sg:    ê-kî-pimisiniyan
      PV/ê+PV/kî+pimisin+V+AI+Cnj+3Sg:    ê-kî-pimisihk
      PV/ê+PV/kî+pimisin+V+AI+Cnj+3Sg+Dial:    ê-kî-pimisinit
-     PV/ê+PV/kî+pimisin+V+AI+Cnj+4Sg/Pl: ê-kî-pimisiniyit
+     PV/ê+PV/kî+pimisin+V+AI+Cnj+4Sg/Pl: ê-kî-pimisininit
      PV/ê+PV/kî+pimisin+V+AI+Cnj+1Pl:    ê-kî-pimisiniyâhk
      PV/ê+PV/kî+pimisin+V+AI+Cnj+21Pl:   ê-kî-pimisiniyahk
      PV/ê+PV/kî+pimisin+V+AI+Cnj+2Pl:    ê-kî-pimisiniyêk
@@ -61,7 +61,7 @@ Tests:
      PV/wî+pimisin+V+AI+Ind+2Sg:    kiwî-pimisinin
      PV/wî+pimisin+V+AI+Ind+3Sg:    wî-pimisin
      PV/wî+pimisin+V+AI+Ind+3Sg+Dial:    wî-pimisiniw
-     PV/wî+pimisin+V+AI+Ind+4Sg/Pl: wî-pimisiniyiwa
+     PV/wî+pimisin+V+AI+Ind+4Sg/Pl: wî-pimisininiwa
      PV/wî+pimisin+V+AI+Ind+1Pl:    niwî-pimisininân
      PV/wî+pimisin+V+AI+Ind+21Pl:   [kiwî-pimisininaw, kiwî-pimisininânaw]
      PV/wî+pimisin+V+AI+Ind+2Pl:    kiwî-pimisininâwâw
@@ -85,7 +85,7 @@ Tests:
      PV/ka+pimisin+V+AI+Ind+2Sg:    kika-pimisinin
      PV/ka+pimisin+V+AI+Ind+3Sg:    ka-pimisin
      PV/ka+pimisin+V+AI+Ind+3Sg+Dial:    ka-pimisiniw
-     PV/ka+pimisin+V+AI+Ind+4Sg/Pl: ka-pimisiniyiwa
+     PV/ka+pimisin+V+AI+Ind+4Sg/Pl: ka-pimisininiwa
      PV/ka+pimisin+V+AI+Ind+1Pl:    nika-pimisininân
      PV/ka+pimisin+V+AI+Ind+21Pl:   [kika-pimisininaw, kika-pimisininânaw]
      PV/ka+pimisin+V+AI+Ind+2Pl:    kika-pimisininâwâw
@@ -96,7 +96,7 @@ Tests:
      pimisin+V+AI+Cond+1Sg:    pimisiniyâni # FUNT COND
      pimisin+V+AI+Cond+2Sg:    pimisiniyani
      pimisin+V+AI+Cond+3Sg:    [pimisinici, pimisihki]
-     pimisin+V+AI+Cond+4Sg/Pl: pimisiniyici
+     pimisin+V+AI+Cond+4Sg/Pl: pimisininici
      pimisin+V+AI+Cond+1Pl:    pimisiniyâhki
      pimisin+V+AI+Cond+21Pl:   [pimisiniyahki, pimisiniyahko]
      pimisin+V+AI+Cond+2Pl:    pimisiniyêko
@@ -127,7 +127,7 @@ Tests:
 
      PV/wî+PV/wîci+pimisin+V+AI+Der/Com+V+TA+Ind+3Sg+4Sg/PlO: [wî-wîci-pimisinimêw] # com SET III
      PV/wî+PV/wîci+pimisin+V+AI+Der/Com+V+TA+Ind+3Pl+4Sg/PlO: [wî-wîci-pimisinimêwak]
-     PV/wî+PV/wîci+pimisin+V+AI+Der/Com+V+TA+Ind+4Sg/Pl+5Sg/PlO: [wî-wîci-pimisinimêyiwa]
+     PV/wî+PV/wîci+pimisin+V+AI+Der/Com+V+TA+Ind+4Sg/Pl+5Sg/PlO: [wî-wîci-pimisinimêniwa]
      PV/wî+PV/wîci+pimisin+V+AI+Der/Com+V+TA+Ind+3Sg+5Sg/PlO: [wî-wîci-pimisinimimêw] # From Wolvengrey P.C. 27/6/15 (See /doc/)
      PV/wî+PV/wîci+pimisin+V+AI+Der/Com+V+TA+Ind+3Pl+5Sg/PlO: [wî-wîci-pimisinimimêwak] # From Wolvengrey P.C. 27/6/15 (See /doc/)
 
