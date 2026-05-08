@@ -251,9 +251,9 @@ LEXICON VAI-ae_IND_2
 LEXICON VAI-ae_IND_3
 @D.number.PL@+3Sg:@D.number.PL@%>w VERBS_Endlex ;
 +3Pl:%>w%>ak VERBS_Endlex ;
-+4Sg/Pl:%>ýiwa VERBS_Endlex ;
++4Sg/Pl:%>n1iwa VERBS_Endlex ;
 +X:%>n2iwan VERBS_Endlex ;
-+X:%>n2iwiw VERBS_Endlex ;
+! +X:%>n2iwiw VERBS_Endlex ; CHECK
 
 LEXICON VAI-io_IndependentSuffixes
 @R.person.NI@ VAI-io_IND_1 ;
@@ -273,9 +273,9 @@ LEXICON VAI-io_IND_2
 LEXICON VAI-io_IND_3
 @D.number.PL@+3Sg:@D.number.PL@%>w VERBS_Endlex ;
 +3Pl:%>w%>ak VERBS_Endlex ;
-+4Sg/Pl:%>ýiwa VERBS_Endlex ;
++4Sg/Pl:%>n1iwa VERBS_Endlex ;
 +X:%>n2iwan VERBS_Endlex ;
-+X:%>n2iwiw VERBS_Endlex ;
+! +X:%>n2iwiw VERBS_Endlex ; CHECK
 
 LEXICON VAI-n_IndependentSuffixes
 @R.person.NI@ VAI-n_IND_1 ;
@@ -297,11 +297,11 @@ LEXICON VAI-n_IND_3
 @D.number.PL@+3Sg+Dial:@D.number.PL@%>iw VERBS_Endlex ;
 +3Pl:%>w%>ak VERBS_Endlex ;
 +3Pl+Dial:%>iw%>ak VERBS_Endlex ;
-+4Sg/Pl:%>iýiwa VERBS_Endlex ;
++4Sg/Pl:%>in1iwa VERBS_Endlex ;
 +X:%>âniwân VERBS_Endlex ;
-+X:%>inâniwan VERBS_Endlex ;
-+X:%>âniwiw VERBS_Endlex ; ! ???
-+X:%>inâniwiw VERBS_Endlex ;
+! +X:%>inâniwan VERBS_Endlex ; CHECK
+! +X:%>âniwiw VERBS_Endlex ; ! ??? CHECK 
+! +X:%>inâniwiw VERBS_Endlex ; CHECK
 
 LEXICON VAI-m_IndependentSuffixes
 @R.person.NI@ VAI-m_IND_1 ;
@@ -321,9 +321,9 @@ LEXICON VAI-m_IND_2
 LEXICON VAI-m_IND_3
 @D.number.PL@+3Sg:@D.number.PL@%>m VERBS_Endlex ;
 +3Pl:%>mw%>ak VERBS_Endlex ;
-+4Sg/Pl:%>miýiwa VERBS_Endlex ;
++4Sg/Pl:%>min1iwa VERBS_Endlex ;
 +X:%>niwân VERBS_Endlex ;
-+X:%>niwiw VERBS_Endlex ;
+! +X:%>niwiw VERBS_Endlex ; CHECK
 
 LEXICON VAI_ConjunctSuffixes
 @R.infl.VAI-ae@ VAI-ae_ConjunctSuffixes ;
@@ -345,10 +345,10 @@ LEXICON VAI-ae_CNJ_PL
 +21Pl:%>yahk VERBS_Endlex ;
 +2Pl:%>yêk VERBS_Endlex ;
 +3Pl:%>c%>ik VERBS_Endlex ;
-+4Sg/Pl:%>ýit VERBS_Endlex ;
++4Sg/Pl:%>n1it VERBS_Endlex ;
 +X:%>hk VERBS_Endlex ;
-+X:%>niwik VERBS_Endlex ;
-+X:%>niwahk VERBS_Endlex ;
+! +X:%>niwik VERBS_Endlex ; CHECK
+! +X:%>niwahk VERBS_Endlex ; CHECK
 
 LEXICON VAI-io_ConjunctSuffixes
 @D.number.PL@ VAI-io_CNJ_SG ;
@@ -364,10 +364,10 @@ LEXICON VAI-io_CNJ_PL
 +21Pl:%>yahk VERBS_Endlex ;
 +2Pl:%>yêk VERBS_Endlex ;
 +3Pl:%>c%>ik VERBS_Endlex ;
-+4Sg/Pl:%>ýit VERBS_Endlex ;
++4Sg/Pl:%>n1it VERBS_Endlex ;
 +X:%>hk VERBS_Endlex ;
-+X:%>niwik VERBS_Endlex ;
-+X:%>niwahk VERBS_Endlex ;
+! +X:%>niwik VERBS_Endlex ; CHECK
+! +X:%>niwahk VERBS_Endlex ; CHECK
 
 LEXICON VAI-n_ConjunctSuffixes
 @D.number.PL@ VAI-n_CNJ_SG ;
@@ -383,12 +383,12 @@ LEXICON VAI-n_CNJ_PL
 +1Pl:%>iyâhk VERBS_Endlex ;
 +21Pl:%>iyahk VERBS_Endlex ;
 +2Pl:%>iyêk VERBS_Endlex ;
-+3Pl:%>k%>ik VERBS_Endlex ;
-+3Pl+Dial:%>ic%>ik VERBS_Endlex ;
-+4Sg/Pl:%>iýit VERBS_Endlex ;
-+X:%>âniwik VERBS_Endlex ;
-+X:%>ihk VERBS_Endlex ;
-+X:%>inâniwik VERBS_Endlex ;
++3Pl:%>k%>ik VERBS_Endlex ; ! CHECK
++3Pl+Dial:%>ic%>ik VERBS_Endlex ; ! CHECK
++4Sg/Pl:%>in1it VERBS_Endlex ;
+! +X:%>âniwik VERBS_Endlex ;
+! +X:%>ihk VERBS_Endlex ;
+! +X:%>inâniwik VERBS_Endlex ;
 +X:%>inâniwahk VERBS_Endlex ;
 
 LEXICON VAI-m_ConjunctSuffixes
@@ -405,8 +405,8 @@ LEXICON VAI-m_CNJ_PL
 +21Pl:%>mahk VERBS_Endlex ;
 +2Pl:%>êk VERBS_Endlex ;
 +3Pl:%>hk%>ik VERBS_Endlex ;
-+4Sg/Pl:%>miýit VERBS_Endlex ;
-+X:%>mihk VERBS_Endlex ;
++4Sg/Pl:%>min1it VERBS_Endlex ;
++X:%>mihk VERBS_Endlex ; ! CHECK
 
 LEXICON VAI_ConditionalSuffixes
 @R.infl.VAI-ae@ VAI-ae_ConditionalSuffixes ;
@@ -429,7 +429,7 @@ LEXICON VAI-ae_COND_PL
 +21Pl:%>yahk%>o VERBS_Endlex ;
 +2Pl:%>yêk%>o VERBS_Endlex ;
 +3Pl:%>twâw%>i VERBS_Endlex ;
-+4Sg/Pl:%>ýic%>i VERBS_Endlex ;
++4Sg/Pl:%>n1ic%>i VERBS_Endlex ;
 +X:%>hk%>i VERBS_Endlex ;
 
 LEXICON VAI-io_ConditionalSuffixes
@@ -447,7 +447,7 @@ LEXICON VAI-io_COND_PL
 +21Pl:%>yahk%>o VERBS_Endlex ;
 +2Pl:%>yêk%>o VERBS_Endlex ;
 +3Pl:%>twâw%>i VERBS_Endlex ;
-+4Sg/Pl:%>ýic%>i VERBS_Endlex ;
++4Sg/Pl:%>n1ic%>i VERBS_Endlex ;
 +X:%>hk%>i VERBS_Endlex ;
 
 LEXICON VAI-n_ConditionalSuffixes
@@ -466,7 +466,7 @@ LEXICON VAI-n_COND_PL
 +2Pl:%>iyêk%>o VERBS_Endlex ;
 +3Pl:%>itwâw%>i VERBS_Endlex ;
 +3Pl:%>kwâw%>i VERBS_Endlex ;
-+4Sg/Pl:%>iýic%>i VERBS_Endlex ;
++4Sg/Pl:%>in1ic%>i VERBS_Endlex ;
 +X:%>hk%>i VERBS_Endlex ;
 
 LEXICON VAI-m_ConditionalSuffixes
@@ -484,7 +484,7 @@ LEXICON VAI-m_COND_PL
 +21Pl:%>mahk%>o VERBS_Endlex ;
 +2Pl:%>mêk%>o VERBS_Endlex ;
 +3Pl:%>hkwâw%>i VERBS_Endlex ;
-+4Sg/Pl:%>miýic%>i VERBS_Endlex ;
++4Sg/Pl:%>min1ic%>i VERBS_Endlex ;
 +X:%>mihk%>i VERBS_Endlex ;
 
 LEXICON VAI_ImperativeSuffixes
