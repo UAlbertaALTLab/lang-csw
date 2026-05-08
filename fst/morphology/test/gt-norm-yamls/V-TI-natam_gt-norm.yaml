@@ -11,7 +11,7 @@ Tests:
      nâtam+V+TI+Ind+1Sg:    ninâtên # INDEPENDENT
      nâtam+V+TI+Ind+2Sg:    kinâtên
      nâtam+V+TI+Ind+3Sg:    nâtam
-     nâtam+V+TI+Ind+4Sg/Pl: nâtamiyiwa
+     nâtam+V+TI+Ind+4Sg/Pl: nâtaminiwa
      nâtam+V+TI+Ind+1Pl:    ninâtênân
      nâtam+V+TI+Ind+21Pl:   [kinâtênaw, kinâtênânaw]
      nâtam+V+TI+Ind+2Pl:    kinâtênâwâw
@@ -20,7 +20,7 @@ Tests:
      PV/ê+nâtam+V+TI+Cnj+1Sg:    ê-nâtamân # CONJUNCT
      PV/ê+nâtam+V+TI+Cnj+2Sg:    ê-nâtaman
      PV/ê+nâtam+V+TI+Cnj+3Sg:    ê-nâtahk
-     PV/ê+nâtam+V+TI+Cnj+4Sg/Pl: ê-nâtamiyit
+     PV/ê+nâtam+V+TI+Cnj+4Sg/Pl: ê-nâtaminit
      PV/ê+nâtam+V+TI+Cnj+1Pl:    ê-nâtamâhk
      PV/ê+nâtam+V+TI+Cnj+21Pl:   ê-nâtamahk
      PV/ê+nâtam+V+TI+Cnj+2Pl:    ê-nâtamêk
@@ -29,7 +29,7 @@ Tests:
      PV/kî+nâtam+V+TI+Ind+1Sg:    nikî-nâtên # PRT-INDEPENDENT
      PV/kî+nâtam+V+TI+Ind+2Sg:    kikî-nâtên
      PV/kî+nâtam+V+TI+Ind+3Sg:    kî-nâtam
-     PV/kî+nâtam+V+TI+Ind+4Sg/Pl: kî-nâtamiyiwa
+     PV/kî+nâtam+V+TI+Ind+4Sg/Pl: kî-nâtaminiwa
      PV/kî+nâtam+V+TI+Ind+1Pl:    nikî-nâtênân
      PV/kî+nâtam+V+TI+Ind+21Pl:   [kikî-nâtênaw, kikî-nâtênânaw]
      PV/kî+nâtam+V+TI+Ind+2Pl:    kikî-nâtênâwâw
@@ -38,7 +38,7 @@ Tests:
      PV/ê+PV/kî+nâtam+V+TI+Cnj+1Sg:    ê-kî-nâtamân # PRT-CONJUNCT
      PV/ê+PV/kî+nâtam+V+TI+Cnj+2Sg:    ê-kî-nâtaman
      PV/ê+PV/kî+nâtam+V+TI+Cnj+3Sg:    ê-kî-nâtahk
-     PV/ê+PV/kî+nâtam+V+TI+Cnj+4Sg/Pl: ê-kî-nâtamiyit
+     PV/ê+PV/kî+nâtam+V+TI+Cnj+4Sg/Pl: ê-kî-nâtaminit
      PV/ê+PV/kî+nâtam+V+TI+Cnj+1Pl:    ê-kî-nâtamâhk
      PV/ê+PV/kî+nâtam+V+TI+Cnj+21Pl:   ê-kî-nâtamahk
      PV/ê+PV/kî+nâtam+V+TI+Cnj+2Pl:    ê-kî-nâtamêk
@@ -48,7 +48,7 @@ Tests:
      PV/wî+nâtam+V+TI+Ind+1Sg:    niwî-nâtên # FUT+INT-INDEPENDENT
      PV/wî+nâtam+V+TI+Ind+2Sg:    kiwî-nâtên
      PV/wî+nâtam+V+TI+Ind+3Sg:    wî-nâtam
-     PV/wî+nâtam+V+TI+Ind+4Sg/Pl: wî-nâtamiyiwa
+     PV/wî+nâtam+V+TI+Ind+4Sg/Pl: wî-nâtaminiwa
      PV/wî+nâtam+V+TI+Ind+1Pl:    niwî-nâtênân
      PV/wî+nâtam+V+TI+Ind+21Pl:   [kiwî-nâtênaw, kiwî-nâtênânaw]
      PV/wî+nâtam+V+TI+Ind+2Pl:    kiwî-nâtênâwâw
@@ -57,7 +57,7 @@ Tests:
      PV/ê+PV/wî+nâtam+V+TI+Cnj+1Sg:    ê-wî-nâtamân # FUT+INT-CONJUNCT
      PV/ê+PV/wî+nâtam+V+TI+Cnj+2Sg:    ê-wî-nâtaman
      PV/ê+PV/wî+nâtam+V+TI+Cnj+3Sg:    ê-wî-nâtahk
-     PV/ê+PV/wî+nâtam+V+TI+Cnj+4Sg/Pl: ê-wî-nâtamiyit
+     PV/ê+PV/wî+nâtam+V+TI+Cnj+4Sg/Pl: ê-wî-nâtaminit
      PV/ê+PV/wî+nâtam+V+TI+Cnj+1Pl:    ê-wî-nâtamâhk
      PV/ê+PV/wî+nâtam+V+TI+Cnj+21Pl:   ê-wî-nâtamahk
      PV/ê+PV/wî+nâtam+V+TI+Cnj+2Pl:    ê-wî-nâtamêk
@@ -66,7 +66,7 @@ Tests:
      PV/ka+nâtam+V+TI+Ind+1Sg:    nika-nâtên # FUT+DEF-INDEPENDENT
      PV/ka+nâtam+V+TI+Ind+2Sg:    kika-nâtên
      PV/ka+nâtam+V+TI+Ind+3Sg:    ka-nâtam
-     PV/ka+nâtam+V+TI+Ind+4Sg/Pl: ka-nâtamiyiwa
+     PV/ka+nâtam+V+TI+Ind+4Sg/Pl: ka-nâtaminiwa
      PV/ka+nâtam+V+TI+Ind+1Pl:    nika-nâtênân
      PV/ka+nâtam+V+TI+Ind+21Pl:   [kika-nâtênaw, kika-nâtênânaw]
      PV/ka+nâtam+V+TI+Ind+2Pl:    kika-nâtênâwâw
@@ -75,7 +75,7 @@ Tests:
      nâtam+V+TI+Cond+1Sg:    nâtamâni
      nâtam+V+TI+Cond+2Sg:    nâtamani
      nâtam+V+TI+Cond+3Sg:    nâtahki
-     nâtam+V+TI+Cond+4Sg/Pl: nâtamiyici
+     nâtam+V+TI+Cond+4Sg/Pl: nâtaminici
      nâtam+V+TI+Cond+1Pl:    nâtamâhki
      nâtam+V+TI+Cond+21Pl:   [nâtamahki, nâtamahko]
      nâtam+V+TI+Cond+2Pl:    nâtamêko
@@ -106,7 +106,7 @@ Tests:
 
      PV/wî+PV/wîci+nâtam+V+TI+Der/Com+V+TA+Ind+3Sg+4Sg/PlO: [wî-wîci-nâtamômêw] # com SET III
      PV/wî+PV/wîci+nâtam+V+TI+Der/Com+V+TA+Ind+3Pl+4Sg/PlO: [wî-wîci-nâtamômêwak]
-     PV/wî+PV/wîci+nâtam+V+TI+Der/Com+V+TA+Ind+4Sg/Pl+5Sg/PlO: [wî-wîci-nâtamômêyiwa]
+     PV/wî+PV/wîci+nâtam+V+TI+Der/Com+V+TA+Ind+4Sg/Pl+5Sg/PlO: [wî-wîci-nâtamômêniwa]
      PV/wî+PV/wîci+nâtam+V+TI+Der/Com+V+TA+Ind+3Sg+5Sg/PlO: [wî-wîci-nâtamômimêw] # From Wolvengrey P.C. 27/6/15 (See /doc/)
      PV/wî+PV/wîci+nâtam+V+TI+Der/Com+V+TA+Ind+3Pl+5Sg/PlO: [wî-wîci-nâtamômimêwak] # From Wolvengrey P.C. 27/6/15 (See /doc/)
 
