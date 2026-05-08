@@ -5,40 +5,42 @@ Config:
 
 Tests:
   
-  Verb - macatan -  adsf : # Ordinary VII verb, Wolvengrey VII1 p 393
+  Verb - macitan -  adsf : # Ordinary VII verb, Wolvengrey VII1 p 393
 
-     macatan+V+II+Ind+3Sg: macatan
-     macatan+V+II+Ind+3Pl: macatanwa
-     macatan+V+II+Ind+4Sg: macataniniw
-     macatan+V+II+Ind+4Pl: macataniniwa
+     macitan+V+II+Ind+3Sg: macitan
+     macitan+V+II+Ind+3Pl: macitanwa
+     macitan+V+II+Ind+4Sg: macitaniniw
+     macitan+V+II+Ind+4Pl: macitaniniwa
 
-     PV/kî+macatan+V+II+Ind+3Sg: [kî-macatan]
-     PV/kî+macatan+V+II+Ind+3Pl: [kî-macatanwa]
-     PV/kî+macatan+V+II+Ind+4Sg: [kî-macataniniw]
-     PV/kî+macatan+V+II+Ind+4Pl: [kî-macataniniwa]
+     PV/kî+macitan+V+II+Ind+3Sg: [kî-macitan]
+     PV/kî+macitan+V+II+Ind+3Pl: [kî-macitanwa]
+     PV/kî+macitan+V+II+Ind+4Sg: [kî-macitaniniw]
+     PV/kî+macitan+V+II+Ind+4Pl: [kî-macitaniniwa]
      
-     PV/ka+macatan+V+II+Ind+3Sg: [ka-macatan]
-     PV/ka+macatan+V+II+Ind+3Pl: [ka-macatanwa]
-     PV/ka+macatan+V+II+Ind+4Sg: [ka-macataniniw]
-     PV/ka+macatan+V+II+Ind+4Pl: [ka-macataniniwa]
+     PV/ka+macitan+V+II+Ind+3Sg: [ka-macitan]
+     PV/ka+macitan+V+II+Ind+3Pl: [ka-macitanwa]
+     PV/ka+macitan+V+II+Ind+4Sg: [ka-macitaniniw]
+     PV/ka+macitan+V+II+Ind+4Pl: [ka-macitaniniwa]
      
-     PV/wî+macatan+V+II+Ind+3Sg: [wî-macatan]
-     PV/wî+macatan+V+II+Ind+3Pl: [wî-macatanwa]
-     PV/wî+macatan+V+II+Ind+4Sg: [wî-macataniniw]
-     PV/wî+macatan+V+II+Ind+4Pl: [wî-macataniniwa]
+     PV/wî+macitan+V+II+Ind+3Sg: [wî-macitan]
+     PV/wî+macitan+V+II+Ind+3Pl: [wî-macitanwa]
+     PV/wî+macitan+V+II+Ind+4Sg: [wî-macitaniniw]
+     PV/wî+macitan+V+II+Ind+4Pl: [wî-macitaniniwa]
 
-     PV/ê+macatan+V+II+Cnj+3Sg: [ê-macatahk]
-     PV/ê+macatan+V+II+Cnj+3Pl: [ê-macatahki]
-     PV/ê+macatan+V+II+Cnj+4Sg: [ê-macataninik]  #Check
-     PV/ê+macatan+V+II+Cnj+4Pl: [ê-macataniniki] # Check
+     PV/ê+macitan+V+II+Cnj+3Sg: [ê-macitahk]
+     PV/ê+macitan+V+II+Cnj+3Pl: [ê-macitahki]
+     PV/ê+macitan+V+II+Cnj+4Sg: [ê-macitaninik]  #Check
+     PV/ê+macitan+V+II+Cnj+4Pl: [ê-macitaniniki] # Check
 
-     PV/ê+PV/kî+macatan+V+II+Cnj+3Sg: [ê-kî-macatahk]
-     PV/ê+PV/kî+macatan+V+II+Cnj+3Pl: [ê-kî-macatahki]
-     PV/ê+PV/kî+macatan+V+II+Cnj+4Sg: [ê-kî-macataninik] #Check
-     PV/ê+PV/kî+macatan+V+II+Cnj+4Pl: [ê-kî-macataniniki] #Check
+     PV/ê+PV/kî+macitan+V+II+Cnj+3Sg: [ê-kî-macitahk]
+     PV/ê+PV/kî+macitan+V+II+Cnj+3Pl: [ê-kî-macitahki]
+     PV/ê+PV/kî+macitan+V+II+Cnj+4Sg: [ê-kî-macitaninik] #Check
+     PV/ê+PV/kî+macitan+V+II+Cnj+4Pl: [ê-kî-macitaniniki] #Check
 
-     macatan+V+II+Cond+3Sg: macatahki
-     macatan+V+II+Cond+3Pl: macatahkwâwi
-     macatan+V+II+Cond+4Sg: macataniniki
-     macatan+V+II+Cond+4Pl: macataninikwâwi
+     macitan+V+II+Cond+3Sg: macitahki
+     macitan+V+II+Cond+3Pl: macitahkwâwi
+     macitan+V+II+Cond+4Sg: macitaniniki
+     macitan+V+II+Cond+4Pl: macitaninikwâwi
+
+
 
