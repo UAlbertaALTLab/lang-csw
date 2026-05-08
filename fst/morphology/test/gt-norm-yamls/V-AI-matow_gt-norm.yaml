@@ -11,7 +11,7 @@ Tests:
      mâtow+V+AI+Ind+1Sg:    nimâton # INDEPENDENT
      mâtow+V+AI+Ind+2Sg:    kimâton
      mâtow+V+AI+Ind+3Sg:    mâtow
-     mâtow+V+AI+Ind+4Sg/Pl: mâtoyiwa
+     mâtow+V+AI+Ind+4Sg/Pl: mâtoniwa
      mâtow+V+AI+Ind+1Pl:    nimâtonân
      mâtow+V+AI+Ind+21Pl:   [kimâtonaw, kimâtonânaw]
      mâtow+V+AI+Ind+2Pl:    kimâtonâwâw
@@ -20,7 +20,7 @@ Tests:
      PV/ê+mâtow+V+AI+Cnj+1Sg:    ê-mâtoyân # CONJUNCT
      PV/ê+mâtow+V+AI+Cnj+2Sg:    ê-mâtoyan
      PV/ê+mâtow+V+AI+Cnj+3Sg:    ê-mâtot
-     PV/ê+mâtow+V+AI+Cnj+4Sg/Pl: ê-mâtoyit
+     PV/ê+mâtow+V+AI+Cnj+4Sg/Pl: ê-mâtonit
      PV/ê+mâtow+V+AI+Cnj+1Pl:    ê-mâtoyâhk
      PV/ê+mâtow+V+AI+Cnj+21Pl:   ê-mâtoyahk
      PV/ê+mâtow+V+AI+Cnj+2Pl:    ê-mâtoyêk
@@ -29,7 +29,7 @@ Tests:
      PV/kî+mâtow+V+AI+Ind+1Sg:    nikî-mâton # PRT-INDEPENDENT
      PV/kî+mâtow+V+AI+Ind+2Sg:    kikî-mâton
      PV/kî+mâtow+V+AI+Ind+3Sg:    kî-mâtow
-     PV/kî+mâtow+V+AI+Ind+4Sg/Pl: kî-mâtoyiwa
+     PV/kî+mâtow+V+AI+Ind+4Sg/Pl: kî-mâtoniwa
      PV/kî+mâtow+V+AI+Ind+1Pl:    nikî-mâtonân
      PV/kî+mâtow+V+AI+Ind+21Pl:   [kikî-mâtonaw, kikî-mâtonânaw]
      PV/kî+mâtow+V+AI+Ind+2Pl:    kikî-mâtonâwâw
@@ -38,7 +38,7 @@ Tests:
      PV/ê+PV/kî+mâtow+V+AI+Cnj+1Sg:    ê-kî-mâtoyân # PRT-CONJUNCT
      PV/ê+PV/kî+mâtow+V+AI+Cnj+2Sg:    ê-kî-mâtoyan
      PV/ê+PV/kî+mâtow+V+AI+Cnj+3Sg:    ê-kî-mâtot
-     PV/ê+PV/kî+mâtow+V+AI+Cnj+4Sg/Pl: ê-kî-mâtoyit
+     PV/ê+PV/kî+mâtow+V+AI+Cnj+4Sg/Pl: ê-kî-mâtonit
      PV/ê+PV/kî+mâtow+V+AI+Cnj+1Pl:    ê-kî-mâtoyâhk
      PV/ê+PV/kî+mâtow+V+AI+Cnj+21Pl:   ê-kî-mâtoyahk
      PV/ê+PV/kî+mâtow+V+AI+Cnj+2Pl:    ê-kî-mâtoyêk
@@ -48,7 +48,7 @@ Tests:
      PV/wî+mâtow+V+AI+Ind+1Sg:    niwî-mâton # FUT+INT-INDEPENDENT
      PV/wî+mâtow+V+AI+Ind+2Sg:    kiwî-mâton
      PV/wî+mâtow+V+AI+Ind+3Sg:    wî-mâtow
-     PV/wî+mâtow+V+AI+Ind+4Sg/Pl: wî-mâtoyiwa
+     PV/wî+mâtow+V+AI+Ind+4Sg/Pl: wî-mâtoniwa
      PV/wî+mâtow+V+AI+Ind+1Pl:    niwî-mâtonân
      PV/wî+mâtow+V+AI+Ind+21Pl:   [kiwî-mâtonaw, kiwî-mâtonânaw]
      PV/wî+mâtow+V+AI+Ind+2Pl:    kiwî-mâtonâwâw
@@ -57,7 +57,7 @@ Tests:
      PV/ê+PV/wî+mâtow+V+AI+Cnj+1Sg:    ê-wî-mâtoyân # FUT+INT-CONJUNCT
      PV/ê+PV/wî+mâtow+V+AI+Cnj+2Sg:    ê-wî-mâtoyan
      PV/ê+PV/wî+mâtow+V+AI+Cnj+3Sg:    ê-wî-mâtot
-     PV/ê+PV/wî+mâtow+V+AI+Cnj+4Sg/Pl: ê-wî-mâtoyit
+     PV/ê+PV/wî+mâtow+V+AI+Cnj+4Sg/Pl: ê-wî-mâtonit
      PV/ê+PV/wî+mâtow+V+AI+Cnj+1Pl:    ê-wî-mâtoyâhk
      PV/ê+PV/wî+mâtow+V+AI+Cnj+21Pl:   ê-wî-mâtoyahk
      PV/ê+PV/wî+mâtow+V+AI+Cnj+2Pl:    ê-wî-mâtoyêk
@@ -66,7 +66,7 @@ Tests:
      PV/ka+mâtow+V+AI+Ind+1Sg:    nika-mâton # FUT+DEF-INDEPENDENT
      PV/ka+mâtow+V+AI+Ind+2Sg:    kika-mâton
      PV/ka+mâtow+V+AI+Ind+3Sg:    ka-mâtow
-     PV/ka+mâtow+V+AI+Ind+4Sg/Pl: ka-mâtoyiwa
+     PV/ka+mâtow+V+AI+Ind+4Sg/Pl: ka-mâtoniwa
      PV/ka+mâtow+V+AI+Ind+1Pl:    nika-mâtonân
      PV/ka+mâtow+V+AI+Ind+21Pl:   [kika-mâtonaw, kika-mâtonânaw]
      PV/ka+mâtow+V+AI+Ind+2Pl:    kika-mâtonâwâw
@@ -75,7 +75,7 @@ Tests:
      mâtow+V+AI+Cond+1Sg:    mâtoyâni
      mâtow+V+AI+Cond+2Sg:    mâtoyani
      mâtow+V+AI+Cond+3Sg:    mâtoci
-     mâtow+V+AI+Cond+4Sg/Pl: mâtoyici
+     mâtow+V+AI+Cond+4Sg/Pl: mâtonici
      mâtow+V+AI+Cond+1Pl:    mâtoyâhki
      mâtow+V+AI+Cond+21Pl:   [mâtoyahki, mâtoyahko]
      mâtow+V+AI+Cond+2Pl:    mâtoyêko
@@ -106,7 +106,7 @@ Tests:
 
      PV/wî+PV/wîci+mâtow+V+AI+Der/Com+V+TA+Ind+3Sg+4Sg/PlO: [wî-wîci-mâtômêw] # com SET III
      PV/wî+PV/wîci+mâtow+V+AI+Der/Com+V+TA+Ind+3Pl+4Sg/PlO: [wî-wîci-mâtômêwak]
-     PV/wî+PV/wîci+mâtow+V+AI+Der/Com+V+TA+Ind+4Sg/Pl+5Sg/PlO: [wî-wîci-mâtômêyiwa]
+     PV/wî+PV/wîci+mâtow+V+AI+Der/Com+V+TA+Ind+4Sg/Pl+5Sg/PlO: [wî-wîci-mâtômêniwa]
      PV/wî+PV/wîci+mâtow+V+AI+Der/Com+V+TA+Ind+3Sg+5Sg/PlO: [wî-wîci-mâtômimêw] # From Wolvengrey P.C. 27/6/15 (See /doc/)
      PV/wî+PV/wîci+mâtow+V+AI+Der/Com+V+TA+Ind+3Pl+5Sg/PlO: [wî-wîci-mâtômimêwak] # From Wolvengrey P.C. 27/6/15 (See /doc/)
 
