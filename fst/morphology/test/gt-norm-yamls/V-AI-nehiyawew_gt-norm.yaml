@@ -5,79 +5,79 @@ Config:
 
 Tests:
   
-  Verb - nêhiyawêw - help : # Ordinary VAI verb - full  Wolvengrey p. 395; Fut+Def from Okimāsis p. 36
+  Verb - nêhinawêw - help : # Ordinary VAI verb - full  Wolvengrey p. 395; Fut+Def from Okimāsis p. 36
 
-     nêhiyawêw+V+AI+Ind+1Sg: ninêhiyawân
-     nêhiyawêw+V+AI+Ind+2Sg: kinêhiyawân
-     nêhiyawêw+V+AI+Ind+3Sg: nêhiyawêw
-     nêhiyawêw+V+AI+Ind+4Sg/Pl: nêhiyawêyiwa
-     nêhiyawêw+V+AI+Ind+1Pl: ninêhiyawânân
-     nêhiyawêw+V+AI+Ind+21Pl: [kinêhiyawânaw, kinêhiyawânânaw]
-     nêhiyawêw+V+AI+Ind+2Pl: kinêhiyawânâwâw
-     nêhiyawêw+V+AI+Ind+3Pl: nêhiyawêwak
+     nêhinawêw+V+AI+Ind+1Sg: ninêhinawân
+     nêhinawêw+V+AI+Ind+2Sg: kinêhinawân
+     nêhinawêw+V+AI+Ind+3Sg: nêhinawêw
+     nêhinawêw+V+AI+Ind+4Sg/Pl: nêhinawêniwa
+     nêhinawêw+V+AI+Ind+1Pl: ninêhinawânân
+     nêhinawêw+V+AI+Ind+21Pl: [kinêhinawânaw, kinêhinawânânaw]
+     nêhinawêw+V+AI+Ind+2Pl: kinêhinawânâwâw
+     nêhinawêw+V+AI+Ind+3Pl: nêhinawêwak
 
-     PV/kî+nêhiyawêw+V+AI+Ind+1Sg: [nikî-nêhiyawân]
-     PV/kî+nêhiyawêw+V+AI+Ind+2Sg: [kikî-nêhiyawân]
-     PV/kî+nêhiyawêw+V+AI+Ind+3Sg: [kî-nêhiyawêw]
-     PV/kî+nêhiyawêw+V+AI+Ind+4Sg/Pl: [kî-nêhiyawêyiwa]
-     PV/kî+nêhiyawêw+V+AI+Ind+1Pl: [nikî-nêhiyawânân]
-     PV/kî+nêhiyawêw+V+AI+Ind+21Pl: [kikî-nêhiyawânaw, kikî-nêhiyawânânaw]
-     PV/kî+nêhiyawêw+V+AI+Ind+2Pl: [kikî-nêhiyawânâwâw]
-     PV/kî+nêhiyawêw+V+AI+Ind+3Pl: [kî-nêhiyawêwak]
+     PV/kî+nêhinawêw+V+AI+Ind+1Sg: nikî-nêhinawân
+     PV/kî+nêhinawêw+V+AI+Ind+2Sg: kikî-nêhinawân
+     PV/kî+nêhinawêw+V+AI+Ind+3Sg: kî-nêhinawêw
+     PV/kî+nêhinawêw+V+AI+Ind+4Sg/Pl: kî-nêhinawêniwa
+     PV/kî+nêhinawêw+V+AI+Ind+1Pl: nikî-nêhinawânân
+     PV/kî+nêhinawêw+V+AI+Ind+21Pl: [kikî-nêhinawânaw, kikî-nêhinawânânaw]
+     PV/kî+nêhinawêw+V+AI+Ind+2Pl: kikî-nêhinawânâwâw
+     PV/kî+nêhinawêw+V+AI+Ind+3Pl: kî-nêhinawêwak
      
-     PV/ka+nêhiyawêw+V+AI+Ind+1Sg: [nika-nêhiyawân]
-     PV/ka+nêhiyawêw+V+AI+Ind+2Sg: [kika-nêhiyawân]
-     PV/ka+nêhiyawêw+V+AI+Ind+3Sg: [ka-nêhiyawêw]
-     PV/ka+nêhiyawêw+V+AI+Ind+4Sg/Pl: [ka-nêhiyawêyiwa]
-     PV/ka+nêhiyawêw+V+AI+Ind+1Pl: [nika-nêhiyawânân]
-     PV/ka+nêhiyawêw+V+AI+Ind+21Pl: [kika-nêhiyawânaw, kika-nêhiyawânânaw]
-     PV/ka+nêhiyawêw+V+AI+Ind+2Pl: [kika-nêhiyawânâwâw]
-     PV/ka+nêhiyawêw+V+AI+Ind+3Pl: [ka-nêhiyawêwak]
+     PV/ka+nêhinawêw+V+AI+Ind+1Sg: nika-nêhinawân
+     PV/ka+nêhinawêw+V+AI+Ind+2Sg: kika-nêhinawân
+     PV/ka+nêhinawêw+V+AI+Ind+3Sg: ka-nêhinawêw
+     PV/ka+nêhinawêw+V+AI+Ind+4Sg/Pl: ka-nêhinawêniwa
+     PV/ka+nêhinawêw+V+AI+Ind+1Pl: nika-nêhinawânân
+     PV/ka+nêhinawêw+V+AI+Ind+21Pl: [kika-nêhinawânaw, kika-nêhinawânânaw]
+     PV/ka+nêhinawêw+V+AI+Ind+2Pl: kika-nêhinawânâwâw
+     PV/ka+nêhinawêw+V+AI+Ind+3Pl: ka-nêhinawêwak
      
-     PV/wî+nêhiyawêw+V+AI+Ind+1Sg: [niwî-nêhiyawân]
-     PV/wî+nêhiyawêw+V+AI+Ind+2Sg: [kiwî-nêhiyawân]
-     PV/wî+nêhiyawêw+V+AI+Ind+3Sg: [wî-nêhiyawêw]
-     PV/wî+nêhiyawêw+V+AI+Ind+4Sg/Pl: [wî-nêhiyawêyiwa]
-     PV/wî+nêhiyawêw+V+AI+Ind+1Pl: [niwî-nêhiyawânân]
-     PV/wî+nêhiyawêw+V+AI+Ind+21Pl: [kiwî-nêhiyawânaw, kiwî-nêhiyawânânaw]
-     PV/wî+nêhiyawêw+V+AI+Ind+2Pl: [kiwî-nêhiyawânâwâw]
-     PV/wî+nêhiyawêw+V+AI+Ind+3Pl: [wî-nêhiyawêwak]
+     PV/wî+nêhinawêw+V+AI+Ind+1Sg: niwî-nêhinawân
+     PV/wî+nêhinawêw+V+AI+Ind+2Sg: kiwî-nêhinawân
+     PV/wî+nêhinawêw+V+AI+Ind+3Sg: wî-nêhinawêw
+     PV/wî+nêhinawêw+V+AI+Ind+4Sg/Pl: wî-nêhinawêniwa
+     PV/wî+nêhinawêw+V+AI+Ind+1Pl: niwî-nêhinawânân
+     PV/wî+nêhinawêw+V+AI+Ind+21Pl: [kiwî-nêhinawânaw, kiwî-nêhinawânânaw]
+     PV/wî+nêhinawêw+V+AI+Ind+2Pl: kiwî-nêhinawânâwâw
+     PV/wî+nêhinawêw+V+AI+Ind+3Pl: wî-nêhinawêwak
      
-     PV/ê+nêhiyawêw+V+AI+Cnj+1Sg: [ê-nêhiyawêyân]
-     PV/ê+nêhiyawêw+V+AI+Cnj+2Sg: [ê-nêhiyawêyan]
-     PV/ê+nêhiyawêw+V+AI+Cnj+3Sg: [ê-nêhiyawêt]
-     PV/ê+nêhiyawêw+V+AI+Cnj+4Sg/Pl: [ê-nêhiyawêyit]
-     PV/ê+nêhiyawêw+V+AI+Cnj+1Pl: [ê-nêhiyawêyâhk]
-     PV/ê+nêhiyawêw+V+AI+Cnj+21Pl: [ê-nêhiyawêyahk]
-     PV/ê+nêhiyawêw+V+AI+Cnj+2Pl: [ê-nêhiyawêyêk]
-     PV/ê+nêhiyawêw+V+AI+Cnj+3Pl: [ê-nêhiyawêcik]
+     PV/ê+nêhinawêw+V+AI+Cnj+1Sg: ê-nêhinawêyân
+     PV/ê+nêhinawêw+V+AI+Cnj+2Sg: ê-nêhinawêyan
+     PV/ê+nêhinawêw+V+AI+Cnj+3Sg: ê-nêhinawêt
+     PV/ê+nêhinawêw+V+AI+Cnj+4Sg/Pl: ê-nêhinawênit
+     PV/ê+nêhinawêw+V+AI+Cnj+1Pl: ê-nêhinawêyâhk
+     PV/ê+nêhinawêw+V+AI+Cnj+21Pl: ê-nêhinawêyahk
+     PV/ê+nêhinawêw+V+AI+Cnj+2Pl: ê-nêhinawêyêk
+     PV/ê+nêhinawêw+V+AI+Cnj+3Pl: ê-nêhinawêcik
      
-     PV/ê+nêhiyawêw+V+AI+Cnj+1Sg: [ê-nêhiyawêyân]
-     PV/ê+nêhiyawêw+V+AI+Cnj+2Sg: [ê-nêhiyawêyan]
-     PV/ê+nêhiyawêw+V+AI+Cnj+3Sg: [ê-nêhiyawêt]
-     PV/ê+nêhiyawêw+V+AI+Cnj+4Sg/Pl: [ê-nêhiyawêyit]
-     PV/ê+nêhiyawêw+V+AI+Cnj+1Pl: [ê-nêhiyawêyâhk]
-     PV/ê+nêhiyawêw+V+AI+Cnj+21Pl: [ê-nêhiyawêyahk]
-     PV/ê+nêhiyawêw+V+AI+Cnj+2Pl: [ê-nêhiyawêyêk]
-     PV/ê+nêhiyawêw+V+AI+Cnj+3Pl: [ê-nêhiyawêcik]
+     PV/ê+nêhinawêw+V+AI+Cnj+1Sg: ê-nêhinawêyân
+     PV/ê+nêhinawêw+V+AI+Cnj+2Sg: ê-nêhinawêyan
+     PV/ê+nêhinawêw+V+AI+Cnj+3Sg: ê-nêhinawêt
+     PV/ê+nêhinawêw+V+AI+Cnj+4Sg/Pl: ê-nêhinawênit
+     PV/ê+nêhinawêw+V+AI+Cnj+1Pl: ê-nêhinawêyâhk
+     PV/ê+nêhinawêw+V+AI+Cnj+21Pl: ê-nêhinawêyahk
+     PV/ê+nêhinawêw+V+AI+Cnj+2Pl: ê-nêhinawêyêk
+     PV/ê+nêhinawêw+V+AI+Cnj+3Pl: ê-nêhinawêcik
          
-     PV/ê+PV/kî+nêhiyawêw+V+AI+Cnj+1Sg: [ê-kî-nêhiyawêyân]
-     PV/ê+PV/kî+nêhiyawêw+V+AI+Cnj+2Sg: [ê-kî-nêhiyawêyan]
-     PV/ê+PV/kî+nêhiyawêw+V+AI+Cnj+3Sg: [ê-kî-nêhiyawêt]
-     PV/ê+PV/kî+nêhiyawêw+V+AI+Cnj+4Sg/Pl: [ê-kî-nêhiyawêyit]
-     PV/ê+PV/kî+nêhiyawêw+V+AI+Cnj+1Pl: [ê-kî-nêhiyawêyâhk]
-     PV/ê+PV/kî+nêhiyawêw+V+AI+Cnj+21Pl: [ê-kî-nêhiyawêyahk]
-     PV/ê+PV/kî+nêhiyawêw+V+AI+Cnj+2Pl: [ê-kî-nêhiyawêyêk]
-     PV/ê+PV/kî+nêhiyawêw+V+AI+Cnj+3Pl: [ê-kî-nêhiyawêcik]
+     PV/ê+PV/kî+nêhinawêw+V+AI+Cnj+1Sg: ê-kî-nêhinawêyân
+     PV/ê+PV/kî+nêhinawêw+V+AI+Cnj+2Sg: ê-kî-nêhinawêyan
+     PV/ê+PV/kî+nêhinawêw+V+AI+Cnj+3Sg: ê-kî-nêhinawêt
+     PV/ê+PV/kî+nêhinawêw+V+AI+Cnj+4Sg/Pl: ê-kî-nêhinawênit
+     PV/ê+PV/kî+nêhinawêw+V+AI+Cnj+1Pl: ê-kî-nêhinawêyâhk
+     PV/ê+PV/kî+nêhinawêw+V+AI+Cnj+21Pl: ê-kî-nêhinawêyahk
+     PV/ê+PV/kî+nêhinawêw+V+AI+Cnj+2Pl: ê-kî-nêhinawêyêk
+     PV/ê+PV/kî+nêhinawêw+V+AI+Cnj+3Pl: ê-kî-nêhinawêcik
      
-     PV/ê+PV/wî+nêhiyawêw+V+AI+Cnj+1Sg: [ê-wî-nêhiyawêyân]
-     PV/ê+PV/wî+nêhiyawêw+V+AI+Cnj+2Sg: [ê-wî-nêhiyawêyan]
-     PV/ê+PV/wî+nêhiyawêw+V+AI+Cnj+3Sg: [ê-wî-nêhiyawêt]
-     PV/ê+PV/wî+nêhiyawêw+V+AI+Cnj+4Sg/Pl: [ê-wî-nêhiyawêyit]
-     PV/ê+PV/wî+nêhiyawêw+V+AI+Cnj+1Pl: [ê-wî-nêhiyawêyâhk]
-     PV/ê+PV/wî+nêhiyawêw+V+AI+Cnj+21Pl: [ê-wî-nêhiyawêyahk]
-     PV/ê+PV/wî+nêhiyawêw+V+AI+Cnj+2Pl: [ê-wî-nêhiyawêyêk]
-     PV/ê+PV/wî+nêhiyawêw+V+AI+Cnj+3Pl: [ê-wî-nêhiyawêcik]
+     PV/ê+PV/wî+nêhinawêw+V+AI+Cnj+1Sg: ê-wî-nêhinawêyân
+     PV/ê+PV/wî+nêhinawêw+V+AI+Cnj+2Sg: ê-wî-nêhinawêyan
+     PV/ê+PV/wî+nêhinawêw+V+AI+Cnj+3Sg: ê-wî-nêhinawêt
+     PV/ê+PV/wî+nêhinawêw+V+AI+Cnj+4Sg/Pl: ê-wî-nêhinawênit
+     PV/ê+PV/wî+nêhinawêw+V+AI+Cnj+1Pl: ê-wî-nêhinawêyâhk
+     PV/ê+PV/wî+nêhinawêw+V+AI+Cnj+21Pl: ê-wî-nêhinawêyahk
+     PV/ê+PV/wî+nêhinawêw+V+AI+Cnj+2Pl: ê-wî-nêhinawêyêk
+     PV/ê+PV/wî+nêhinawêw+V+AI+Cnj+3Pl: ê-wî-nêhinawêcik
     
     
      PV/wî+PV/wîci+nêhiyawêw+V+AI+Der/Com+V+TA+Ind+1Sg+3SgO: [niwî-wîci-nêhiyawêmâw] # COMM SET I
