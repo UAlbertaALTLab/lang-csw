@@ -825,7 +825,7 @@ LEXICON VTA_IND_1_PL
 +3Pl+1SgO+Dial:%>i2kowak VERBS_Endlex ; !
 +3Pl+1PlO:%>i2konânak VERBS_Endlex ;
 +4Sg/Pl+1PlO:%>i2konâna VERBS_Endlex ;
-+4Sg/Pl+1SgO:%>i2koýiwa VERBS_Endlex ;
++4Sg/Pl+1SgO:%>i2kon1iwa VERBS_Endlex ;
 
 LEXICON VTA_IND_2_SG
 +1Sg+2SgO:%>i2tin VERBS_Endlex ;
@@ -856,7 +856,7 @@ LEXICON VTA_IND_2_PL
 +3Pl+2PlO:%>i2kowâwak VERBS_Endlex ;
 +4Sg/Pl+21PlO:%>i2konawa VERBS_Endlex ;
 +4Sg/Pl+2PlO:%>i2kowâwa VERBS_Endlex ;
-+4Sg/Pl+2SgO:%>i2koýiwa VERBS_Endlex ;
++4Sg/Pl+2SgO:%>i2kon1iwa VERBS_Endlex ;
 
 LEXICON VTA_IND_3_SG
 +3Sg+4Sg/PlO:%>êw VERBS_Endlex ;
@@ -870,8 +870,8 @@ LEXICON VTA_IND_3_PL
 +4Sg/Pl+3PlO+Dial:%>i2kowak VERBS_Endlex ;
 +4Sg/Pl+3SgO:%>i2k VERBS_Endlex ;
 +4Sg/Pl+3SgO+Dial:%>i2kow VERBS_Endlex ;
-+4Sg/Pl+5Sg/PlO:%>êýiwa VERBS_Endlex ;
-+5Sg/Pl+4Sg/PlO:%>i2koýiwa VERBS_Endlex ;
++4Sg/Pl+5Sg/PlO:%>ên1iwa VERBS_Endlex ;
++5Sg/Pl+4Sg/PlO:%>i2kon1iwa VERBS_Endlex ;
 
 LEXICON VTA_ConjunctSuffixes
 @D.number.SG@ VTA_CNJ_PL ;
@@ -932,9 +932,9 @@ LEXICON VTA_CNJ_PL
 +4Sg/Pl+21PlO:%>i2koyahk VERBS_Endlex ;
 +4Sg/Pl+2PlO:%>i2koyêk VERBS_Endlex ;
 +4Sg/Pl+3PlO:%>i2kocik VERBS_Endlex ;
-+4Sg/Pl+5Sg/PlO:%>âýit VERBS_Endlex ;
++4Sg/Pl+5Sg/PlO:%>ân1it VERBS_Endlex ;
 ! 5Sg/Pl ->
-+5Sg/Pl+4Sg/PlO:%>i2koýit VERBS_Endlex ;
++5Sg/Pl+4Sg/PlO:%>i2kon1it VERBS_Endlex ;
 
 LEXICON VTA_ConditionalSuffixes
 @D.number.SG@ VTA_COND_PL ;
@@ -999,9 +999,9 @@ LEXICON VTA_COND_PL
 +4Sg/Pl+21PlO:%>i2koyahko VERBS_Endlex ;
 +4Sg/Pl+2PlO:%>i2koyêko VERBS_Endlex ;
 +4Sg/Pl+3PlO:%>i2kotwâwi VERBS_Endlex ;
-+4Sg/Pl+5Sg/PlO:%>âýici VERBS_Endlex ; ! From NS 152
++4Sg/Pl+5Sg/PlO:%>ân1ici VERBS_Endlex ; ! From NS 152
 ! 5Sg/Pl ->
-+5Sg/Pl+4Sg/PlO:%>i2koýici VERBS_Endlex ;
++5Sg/Pl+4Sg/PlO:%>i2kon1ici VERBS_Endlex ;
 ! X ->
 +X+1SgO:%>i2kawiyâni VERBS_Endlex ;
 +X+2SgO:%>i2kawiyani VERBS_Endlex ;
