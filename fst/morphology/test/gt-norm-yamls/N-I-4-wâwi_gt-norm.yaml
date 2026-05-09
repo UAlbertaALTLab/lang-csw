@@ -12,7 +12,7 @@ Tests:
       # Nonposs
       wâwi+N+I+Sg: wâwi   #  an egg
       wâwi+N+I+Pl: wâwa   #  eggs
-      wâwi+N+I+Loc: [wâwihk, wâwih]   #  in a egg
+      wâwi+N+I+Loc: wâwihk   #  in a egg
 
 
       # Poss
@@ -23,11 +23,11 @@ Tests:
       # Nonposs
       wâwi+N+I+Sg: wâwi   #  a egg
       wâwi+N+I+Pl: wâwa   #  eggs
-      wâwi+N+I+Loc: [wâwihk, wâwih]   #  in a egg
+      wâwi+N+I+Loc: wâwihk    #  in a egg
       
 
       # Der/Dim
-      wâwi+N+I+Der/Dim+N+I+Sg: [wâwis, wâwisis]   #  a little egg
+      wâwi+N+I+Der/Dim+N+I+Sg: wâwis   #  a little egg
       
 
       # Poss # Sg
@@ -53,13 +53,13 @@ Tests:
       
 
       # Poss # Loc
-      wâwi+N+I+Px1Sg+Loc: [niwâwimihk, niwâwimih]   #  in my egg
-      wâwi+N+I+Px2Sg+Loc: [kiwâwimihk, kiwâwimih]   #  in your egg
-      wâwi+N+I+Px3Sg+Loc: [owâwimihk, owâwimih]   #  in his/her egg
-      wâwi+N+I+Px1Pl+Loc: [niwâwiminâhk, niwâwiminâh]   #  in our egg
-      wâwi+N+I+Px12Pl+Loc: [kiwâwiminâhk, kiwâwiminâh]   #  in your and our egg
-      wâwi+N+I+Px2Pl+Loc: [kiwâwimiwâhk, kiwâwimiwâh]   #  in your egg
-      wâwi+N+I+Px3Pl+Loc: [owâwimiwâhk, owâwimiwâh]   #  in their egg
-      wâwi+N+I+Px4Sg/Pl+Loc: [owâwiminihk, owâwiminih]   #  in another's/others' egg
+      wâwi+N+I+Px1Sg+Loc: [niwâwimihk]   #  in my egg
+      wâwi+N+I+Px2Sg+Loc: [kiwâwimihk]   #  in your egg
+      wâwi+N+I+Px3Sg+Loc: [owâwimihk]   #  in his/her egg
+      wâwi+N+I+Px1Pl+Loc: [niwâwiminâhk]   #  in our egg
+      wâwi+N+I+Px12Pl+Loc: [kiwâwiminâhk]   #  in your and our egg
+      wâwi+N+I+Px2Pl+Loc: [kiwâwimiwâhk]   #  in your egg
+      wâwi+N+I+Px3Pl+Loc: [owâwimiwâhk]   #  in their egg
+      wâwi+N+I+Px4Sg/Pl+Loc: [owâwiminihk]   #  in another's/others' egg
       
 
