@@ -1,0 +1,64 @@
+Config:
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+   Lemma - misko :
+
+      # Core
+
+      # Nonposs
+      misko+N+I+Sg: misko   #  a blood
+      # misko+N+I+Pl: miskwa   #  bloods
+      misko+N+I+Loc: miskohk   #  in a blood
+
+      # Poss
+      misko+N+I+Px1Sg+Sg: nimiskom   #  my blood
+      misko+N+I+Px3Sg+Sg: omiskom   #  his/her blood
+      
+
+      # Nonposs
+      misko+N+I+Sg: misko   #  a blood
+      # misko+N+I+Pl: miskwa   #  bloods
+      misko+N+I+Loc: [miskohk, miskoh]   #  in a blood
+
+
+      # Der/Dim
+      misko+N+I+Der/Dim+N+I+Sg: [miskos, miskosis]   #  a little blood
+      
+
+      # Poss # Sg
+      misko+N+I+Px1Sg+Sg: nimiskom   #  my blood
+      misko+N+I+Px2Sg+Sg: kimiskom   #  your blood
+      misko+N+I+Px3Sg+Sg: omiskom   #  his/her blood
+      misko+N+I+Px1Pl+Sg: nimiskominân   #  our blood
+      misko+N+I+Px12Pl+Sg: kimiskominaw   #  your and our blood
+      misko+N+I+Px2Pl+Sg: kimiskomiwâw   #  your blood
+      misko+N+I+Px3Pl+Sg: omiskomiwâw   #  their blood
+      misko+N+I+Px4Sg/Pl+Sg: omiskomithiw   #  another's/others' blood
+      
+
+      # Poss # Pl
+      # misko+N+I+Px1Sg+Pl: nimiskoma   #  my bloods
+      # misko+N+I+Px2Sg+Pl: kimiskoma   #  your bloods
+      # misko+N+I+Px3Sg+Pl: omiskoma   #  his/her bloods
+      # misko+N+I+Px1Pl+Pl: nimiskominâna   #  our bloods
+      # misko+N+I+Px12Pl+Pl: kimiskominawa   #  your and our bloods
+      # misko+N+I+Px2Pl+Pl: kimiskomiwâwa   #  your bloods
+      # misko+N+I+Px3Pl+Pl: omiskomiwâwa   #  their bloods
+      # misko+N+I+Px4Sg/Pl+Pl: omiskomithiwa   #  another's/others' bloods
+      
+
+      # Poss # Loc
+      misko+N+I+Px1Sg+Loc: [nimiskomihk, nimiskomih]   #  in my blood
+      misko+N+I+Px2Sg+Loc: [kimiskomihk, kimiskomih]   #  in your blood
+      misko+N+I+Px3Sg+Loc: [omiskomihk, omiskomih]   #  in his/her blood
+      misko+N+I+Px1Pl+Loc: [nimiskominâhk, nimiskominâh]   #  in our blood
+      misko+N+I+Px12Pl+Loc: [kimiskominâhk, kimiskominâh]   #  in your and our blood
+      misko+N+I+Px2Pl+Loc: [kimiskomiwâhk, kimiskomiwâh]   #  in your blood
+      misko+N+I+Px3Pl+Loc: [omiskomiwâhk, omiskomiwâh]   #  in their blood
+      misko+N+I+Px4Sg/Pl+Loc: [omiskomithihk, omiskomithih]   #  in another's/others' blood
+      
+

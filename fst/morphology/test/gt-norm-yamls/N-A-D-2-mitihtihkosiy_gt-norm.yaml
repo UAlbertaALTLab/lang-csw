@@ -1,0 +1,57 @@
+Config:
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+   Lemma - mitihtihkosiy :
+
+      # Core
+
+      # Poss
+      mitihtihkosiy+N+A+D+Px1Sg+Sg: nitihtihkosiy   #  my kidney
+      mitihtihkosiy+N+A+D+Px2Sg+Sg: kitihtihkosiy   #  your kidney
+      mitihtihkosiy+N+A+D+Px3Sg+Obv: otihtihkosiya   #  his/her other kidney(s)
+      
+
+      # Der/Dim
+      mitihtihkosiy+N+A+D+Der/Dim+N+A+D+PxX+Sg: [micihcihkosîs, micihcihkosîsis]   #  a little kidney
+      
+
+      # Poss # Sg
+      mitihtihkosiy+N+A+D+Px1Sg+Sg: nitihtihkosiy   #  my kidney
+      mitihtihkosiy+N+A+D+Px2Sg+Sg: kitihtihkosiy   #  your kidney
+      
+      mitihtihkosiy+N+A+D+Px1Pl+Sg: nitihtihkosînân   #  our kidney
+      mitihtihkosiy+N+A+D+Px12Pl+Sg: kitihtihkosînaw   #  your and our kidney
+      mitihtihkosiy+N+A+D+Px2Pl+Sg: kitihtihkosîwâw   #  your kidney
+      
+      
+      mitihtihkosiy+N+A+D+PxX+Sg: mitihtihkosiy   #  someone's kidney
+      
+
+      # Poss # Pl
+      mitihtihkosiy+N+A+D+Px1Sg+Pl: nitihtihkosiyak   #  my kidneys
+      mitihtihkosiy+N+A+D+Px2Sg+Pl: kitihtihkosiyak   #  your kidneys
+      
+      mitihtihkosiy+N+A+D+Px1Pl+Pl: nitihtihkosînânak   #  our kidneys
+      mitihtihkosiy+N+A+D+Px12Pl+Pl: kitihtihkosînawak   #  your and our kidneys
+      mitihtihkosiy+N+A+D+Px2Pl+Pl: kitihtihkosîwâwak   #  your kidneys
+      
+      
+      mitihtihkosiy+N+A+D+PxX+Pl: mitihtihkosiyak   #  someone's kidneys
+      
+
+      # Poss # Obv
+      mitihtihkosiy+N+A+D+Px1Sg+Obv: nitihtihkosiya   #  my other kidney(s)
+      mitihtihkosiy+N+A+D+Px2Sg+Obv: kitihtihkosiya   #  your other kidney(s)
+      mitihtihkosiy+N+A+D+Px3Sg+Obv: otihtihkosiya   #  his/her other kidney(s)
+      mitihtihkosiy+N+A+D+Px1Pl+Obv: nitihtihkosînâna   #  our other kidney(s)
+      mitihtihkosiy+N+A+D+Px12Pl+Obv: kitihtihkosînawa   #  your and our other kidney(s)
+      mitihtihkosiy+N+A+D+Px2Pl+Obv: kitihtihkosîwâwa   #  your other kidney(s)
+      mitihtihkosiy+N+A+D+Px3Pl+Obv: otihtihkosîwâwa   #  their other kidney(s)
+      mitihtihkosiy+N+A+D+Px4Sg/Pl+Obv: otihtihkosîthiwa   #  another's/others' other kidney(s)
+      mitihtihkosiy+N+A+D+PxX+Obv: mitihtihkosiya   #  someone's other kidney(s)
+      
+

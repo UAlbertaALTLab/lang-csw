@@ -1,0 +1,57 @@
+Config:
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+   Lemma - mitâs : :
+
+      # Core
+
+      # Poss
+      mitâs+N+A+D+Px1Sg+Sg: nitâs
+      mitâs+N+A+D+Px2Sg+Sg: kitâs
+      mitâs+N+A+D+Px3Sg+Obv: otâsa
+      
+
+      # Der/Dim
+      mitâs+N+A+D+Der/Dim+N+A+D+Sg: [micâsis, micâsisîs]
+      
+
+      # Poss # Sg
+      mitâs+N+A+D+Px1Sg+Sg: nitâs
+      mitâs+N+A+D+Px2Sg+Sg: kitâs
+      
+      mitâs+N+A+D+Px1Pl+Sg: nitâsinân
+      mitâs+N+A+D+Px12Pl+Sg: kitâsinaw
+      mitâs+N+A+D+Px2Pl+Sg: kitâsiwâw
+      
+      
+      mitâs+N+A+D+PxX+Sg: mitâs
+      
+
+      # Poss # Pl
+      mitâs+N+A+D+Px1Sg+Pl: nitâsak
+      mitâs+N+A+D+Px2Sg+Pl: kitâsak
+      
+      mitâs+N+A+D+Px1Pl+Pl: nitâsinânak
+      mitâs+N+A+D+Px12Pl+Pl: kitâsinawak
+      mitâs+N+A+D+Px2Pl+Pl: kitâsiwâwak
+      
+      
+      mitâs+N+A+D+PxX+Pl: mitâsak
+      
+
+      # Poss # Obv
+      mitâs+N+A+D+Px1Sg+Obv: nitâsa
+      mitâs+N+A+D+Px2Sg+Obv: kitâsa
+      mitâs+N+A+D+Px3Sg+Obv: otâsa
+      mitâs+N+A+D+Px1Pl+Obv: nitâsinâna
+      mitâs+N+A+D+Px12Pl+Obv: kitâsinawa
+      mitâs+N+A+D+Px2Pl+Obv: kitâsiwâwa
+      mitâs+N+A+D+Px3Pl+Obv: otâsiwâwa
+      mitâs+N+A+D+Px4Sg/Pl+Obv: otâsithiwa
+      mitâs+N+A+D+PxX+Obv: mitâsa
+      
+

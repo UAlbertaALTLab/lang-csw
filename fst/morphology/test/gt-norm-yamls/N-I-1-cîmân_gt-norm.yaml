@@ -1,0 +1,64 @@
+Config:
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+   Lemma - cîmân :
+
+      # Core
+
+      # Nonposs
+      cîmân+N+I+Sg: cîmân   #  a canoe
+      cîmân+N+I+Pl: cîmâna   #  canoes
+      cîmân+N+I+Loc: [cîmânihk, cîmânih]   #  in a canoe
+
+      # Poss
+      cîmân+N+I+Px1Sg+Sg: nicîmân   #  my canoe
+      cîmân+N+I+Px3Sg+Sg: ocîmân   #  his/her canoe
+      
+
+      # Nonposs
+      cîmân+N+I+Sg: cîmân   #  a canoe
+      cîmân+N+I+Pl: cîmâna   #  canoes
+      cîmân+N+I+Loc: [cîmânihk, cîmânih]   #  in a canoe
+
+
+      # Der/Dim
+      cîmân+N+I+Der/Dim+N+I+Sg: [cîmânis, cîmânisis]   #  a little canoe
+      
+
+      # Poss # Sg
+      cîmân+N+I+Px1Sg+Sg: nicîmân   #  my canoe
+      cîmân+N+I+Px2Sg+Sg: kicîmân   #  your canoe
+      cîmân+N+I+Px3Sg+Sg: ocîmân   #  his/her canoe
+      cîmân+N+I+Px1Pl+Sg: nicîmâninân   #  our canoe
+      cîmân+N+I+Px12Pl+Sg: kicîmâninaw   #  your and our canoe
+      cîmân+N+I+Px2Pl+Sg: kicîmâniwâw   #  your canoe
+      cîmân+N+I+Px3Pl+Sg: ocîmâniwâw   #  their canoe
+      cîmân+N+I+Px4Sg/Pl+Sg: ocîmânithiw   #  another's/others' canoe
+      
+
+      # Poss # Pl
+      cîmân+N+I+Px1Sg+Pl: nicîmâna   #  my canoes
+      cîmân+N+I+Px2Sg+Pl: kicîmâna   #  your canoes
+      cîmân+N+I+Px3Sg+Pl: ocîmâna   #  his/her canoes
+      cîmân+N+I+Px1Pl+Pl: nicîmâninâna   #  our canoes
+      cîmân+N+I+Px12Pl+Pl: kicîmâninawa   #  your and our canoes
+      cîmân+N+I+Px2Pl+Pl: kicîmâniwâwa   #  your canoes
+      cîmân+N+I+Px3Pl+Pl: ocîmâniwâwa   #  their canoes
+      cîmân+N+I+Px4Sg/Pl+Pl: ocîmânithiwa   #  another's/others' canoes
+      
+
+      # Poss # Loc
+      cîmân+N+I+Px1Sg+Loc: [nicîmânihk, nicîmânih]   #  in my canoe
+      cîmân+N+I+Px2Sg+Loc: [kicîmânihk, kicîmânih]   #  in your canoe
+      cîmân+N+I+Px3Sg+Loc: [ocîmânihk, ocîmânih]   #  in his/her canoe
+      cîmân+N+I+Px1Pl+Loc: [nicîmâninâhk, nicîmâninâh]   #  in our canoe
+      cîmân+N+I+Px12Pl+Loc: [kicîmâninâhk, kicîmâninâh]   #  in your and our canoe
+      cîmân+N+I+Px2Pl+Loc: [kicîmâniwâhk, kicîmâniwâh]   #  in your canoe
+      cîmân+N+I+Px3Pl+Loc: [ocîmâniwâhk, ocîmâniwâh]   #  in their canoe
+      cîmân+N+I+Px4Sg/Pl+Loc: [ocîmânithihk, ocîmânithih]   #  in another's/others' canoe
+      
+

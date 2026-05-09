@@ -1,0 +1,57 @@
+Config:
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+   Lemma - mitâs :
+
+      # Core
+
+      # Poss
+      mitâs+N+A+D+Px1Sg+Sg: nitâs   #  my pair of pants
+      mitâs+N+A+D+Px2Sg+Sg: kitâs   #  your pair of pants
+      mitâs+N+A+D+Px3Sg+Obv: otâsa   #  his/her other pair(s) of pants
+      
+
+      # Der/Dim
+      mitâs+N+A+D+Der/Dim+N+A+D+PxX+Sg: [micâsis, micâsisis]   #  a little pair of pants
+      
+
+      # Poss # Sg
+      mitâs+N+A+D+Px1Sg+Sg: nitâs   #  my pair of pants
+      mitâs+N+A+D+Px2Sg+Sg: kitâs   #  your pair of pants
+      
+      mitâs+N+A+D+Px1Pl+Sg: nitâsinân   #  our pair of pants
+      mitâs+N+A+D+Px12Pl+Sg: kitâsinaw   #  your and our pair of pants
+      mitâs+N+A+D+Px2Pl+Sg: kitâsiwâw   #  your pair of pants
+      
+      
+      mitâs+N+A+D+PxX+Sg: mitâs   #  someone's pair of pants
+      
+
+      # Poss # Pl
+      mitâs+N+A+D+Px1Sg+Pl: nitâsak   #  my pairs of pants
+      mitâs+N+A+D+Px2Sg+Pl: kitâsak   #  your pairs of pants
+      
+      mitâs+N+A+D+Px1Pl+Pl: nitâsinânak   #  our pairs of pants
+      mitâs+N+A+D+Px12Pl+Pl: kitâsinawak   #  your and our pairs of pants
+      mitâs+N+A+D+Px2Pl+Pl: kitâsiwâwak   #  your pairs of pants
+      
+      
+      mitâs+N+A+D+PxX+Pl: mitâsak   #  someone's pairs of pants
+      
+
+      # Poss # Obv
+      mitâs+N+A+D+Px1Sg+Obv: nitâsa   #  my other pair(s) of pants
+      mitâs+N+A+D+Px2Sg+Obv: kitâsa   #  your other pair(s) of pants
+      mitâs+N+A+D+Px3Sg+Obv: otâsa   #  his/her other pair(s) of pants
+      mitâs+N+A+D+Px1Pl+Obv: nitâsinâna   #  our other pair(s) of pants
+      mitâs+N+A+D+Px12Pl+Obv: kitâsinawa   #  your and our other pair(s) of pants
+      mitâs+N+A+D+Px2Pl+Obv: kitâsiwâwa   #  your other pair(s) of pants
+      mitâs+N+A+D+Px3Pl+Obv: otâsiwâwa   #  their other pair(s) of pants
+      mitâs+N+A+D+Px4Sg/Pl+Obv: otâsithiwa   #  another's/others' other pair(s) of pants
+      mitâs+N+A+D+PxX+Obv: mitâsa   #  someone's other pair(s) of pants
+      
+
