@@ -1,5 +1,5 @@
-# Copyright © 2015–2026 Alberta Language Technology Lab (ALTLab)
-# http://altlab.artsrn.ualberta.ca/
+# Copyright © 2026 Alberta Language Technology Lab (ALTLab)
+# http://altlab.ualberta.ca/
 #
 # This program is free software; you can redistribute and/or modify
 # this file under the terms of the GNU Affero General Public License as published by
@@ -78,11 +78,11 @@ Vowel %- ê (->) [ e | ê ] ,
 Vowel %- [ i | î ] (->) [ i | î ] , 
 Vowel %- [ o | ô ] (->) [ o | ô ] , 
 
-# Dealing with spaces instead of hyphens as separators in multipart words
+# Dealing with spaces instead of hyphens as separators in multipart words, or missing hyphens
 
-[ %- ] (->) [ %- ]+,  # Multiple hyphens into a single hyphen
-! [ "@U.joiner.NULL@" %- ] (->) 0, # Missing hyphens between prefixes/preverbs
-%- (->) [ %  | %  | %  ]+, # Multiple non-breaking or standard spaces SPACE + NBSP + NNBSP (in syllabics) to single hyphen
+[ %- ] (->) [ %- ]+,           # Multiple hyphens into a single hyphen
+[ %- ] (->) 0,                 # Missing hyphens between prefixes/preverbs
+[ %- ] (->) [ %  | %  | %  ]+, # Multiple non-breaking or standard spaces SPACE + NBSP + NNBSP (in syllabics) to single hyphen
 
 # Dealing with English-influenced divergences from SRO, and misspellings based on modern pronunciation
 
