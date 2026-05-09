@@ -13,8 +13,8 @@ define SpellRelax
 define nLemmaNorm [ n <- n1 ];
 define rmBx [ Bx -> 0 ];
 
-define ErrTags [ "+Err/Morph" | "+Err/Orth ];
-define ErrFilter ~[ $[ ErrTags ] ];
+define ErrTags [ "+Err/Morph" | "+Err/Orth" ];
+define ErrFilter ~$[ ErrTags ];
 
 set flag-is-epsilon ON
 
