@@ -1,8 +1,9 @@
 #!/bin/sh
 
-# compile-fsts.sh
+# compile-foma-fsts.sh
 
 # Script to compile core FSTs from LEXC and XFSCRIPT source code
+# Output: FOMA
 
 echo 'Concatenating LEXC source files into: lexicon.lexc.' ;
 
@@ -14,9 +15,9 @@ cat \
 ./affixes/verb_suffixes.lexc \
 > lexicon.lexc
 
-echo 'Compiling FSTs.' ;
+echo 'Compiling FOMA FSTs.' ;
 
-foma -f scripts/fst_compile.xfscript
+foma -f scripts/foma_compile.xfscript
 
 echo 'Finished.';
 

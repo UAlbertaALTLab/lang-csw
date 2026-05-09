@@ -1,8 +1,9 @@
 #!/bin/sh
 
-# compile-fsts.sh
+# compile-hfst-fsts.sh
 
 # Script to compile core FSTs from LEXC and XFSCRIPT source code
+# Output: HFST
 
 echo 'Concatenating LEXC source files into: lexicon.lexc.' ;
 
@@ -14,9 +15,9 @@ cat \
 ./affixes/verb_suffixes.lexc \
 > lexicon.lexc
 
-echo 'Compiling FSTs.' ;
+echo 'Compiling HFSTs.' ;
 
-foma -f scripts/fst_compile.xfscript
+hfst-xfst -F scripts/hfst_compile.xfscript
 
 echo 'Finished.';
 
