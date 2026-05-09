@@ -22,7 +22,7 @@ Tests:
       # Nonposs
       misko+N+I+Sg: misko   #  a blood
       # misko+N+I+Pl: miskwa   #  bloods
-      misko+N+I+Loc: [miskohk, miskoh]   #  in a blood
+      misko+N+I+Loc: [miskohk]   #  in a blood
 
 
       # Der/Dim
@@ -52,13 +52,13 @@ Tests:
       
 
       # Poss # Loc
-      misko+N+I+Px1Sg+Loc: [nimiskomihk, nimiskomih]   #  in my blood
-      misko+N+I+Px2Sg+Loc: [kimiskomihk, kimiskomih]   #  in your blood
-      misko+N+I+Px3Sg+Loc: [omiskomihk, omiskomih]   #  in his/her blood
-      misko+N+I+Px1Pl+Loc: [nimiskominâhk, nimiskominâh]   #  in our blood
-      misko+N+I+Px12Pl+Loc: [kimiskominâhk, kimiskominâh]   #  in your and our blood
-      misko+N+I+Px2Pl+Loc: [kimiskomiwâhk, kimiskomiwâh]   #  in your blood
-      misko+N+I+Px3Pl+Loc: [omiskomiwâhk, omiskomiwâh]   #  in their blood
-      misko+N+I+Px4Sg/Pl+Loc: [omiskominihk, omiskominih]   #  in another's/others' blood
+      misko+N+I+Px1Sg+Loc: [nimiskomihk]   #  in my blood
+      misko+N+I+Px2Sg+Loc: [kimiskomihk]   #  in your blood
+      misko+N+I+Px3Sg+Loc: [omiskomihk]   #  in his/her blood
+      misko+N+I+Px1Pl+Loc: [nimiskominâhk]   #  in our blood
+      misko+N+I+Px12Pl+Loc: [kimiskominâhk]   #  in your and our blood
+      misko+N+I+Px2Pl+Loc: [kimiskomiwâhk]   #  in your blood
+      misko+N+I+Px3Pl+Loc: [omiskomiwâhk]   #  in their blood
+      misko+N+I+Px4Sg/Pl+Loc: [omiskominihk]   #  in another's/others' blood
       
 
