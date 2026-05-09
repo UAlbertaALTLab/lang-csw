@@ -38,7 +38,7 @@ Tests:
       wâwi+N+I+Px12Pl+Sg: kiwâwiminaw   #  your and our egg
       wâwi+N+I+Px2Pl+Sg: kiwâwimiwâw   #  your egg
       wâwi+N+I+Px3Pl+Sg: owâwimiwâw   #  their egg
-      wâwi+N+I+Px4Sg/Pl+Sg: owâwimithiw   #  another's/others' egg
+      wâwi+N+I+Px4Sg/Pl+Sg: owâwiminiw   #  another's/others' egg
       
 
       # Poss # Pl
@@ -49,7 +49,7 @@ Tests:
       wâwi+N+I+Px12Pl+Pl: kiwâwiminawa   #  your and our eggs
       wâwi+N+I+Px2Pl+Pl: kiwâwimiwâwa   #  your eggs
       wâwi+N+I+Px3Pl+Pl: owâwimiwâwa   #  their eggs
-      wâwi+N+I+Px4Sg/Pl+Pl: owâwimithiwa   #  another's/others' eggs
+      wâwi+N+I+Px4Sg/Pl+Pl: owâwiminiwa   #  another's/others' eggs
       
 
       # Poss # Loc
@@ -60,6 +60,6 @@ Tests:
       wâwi+N+I+Px12Pl+Loc: [kiwâwiminâhk, kiwâwiminâh]   #  in your and our egg
       wâwi+N+I+Px2Pl+Loc: [kiwâwimiwâhk, kiwâwimiwâh]   #  in your egg
       wâwi+N+I+Px3Pl+Loc: [owâwimiwâhk, owâwimiwâh]   #  in their egg
-      wâwi+N+I+Px4Sg/Pl+Loc: [owâwimithihk, owâwimithih]   #  in another's/others' egg
+      wâwi+N+I+Px4Sg/Pl+Loc: [owâwiminihk, owâwiminih]   #  in another's/others' egg
       
 
