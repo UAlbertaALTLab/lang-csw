@@ -52,13 +52,13 @@ Tests:
       
 
       # Poss # Loc
-      cîmân+N+I+Px1Sg+Loc: [nicîmânihk, nicîmânih]   #  in my canoe
-      cîmân+N+I+Px2Sg+Loc: [kicîmânihk, kicîmânih]   #  in your canoe
-      cîmân+N+I+Px3Sg+Loc: [ocîmânihk, ocîmânih]   #  in his/her canoe
-      cîmân+N+I+Px1Pl+Loc: [nicîmâninâhk, nicîmâninâh]   #  in our canoe
-      cîmân+N+I+Px12Pl+Loc: [kicîmâninâhk, kicîmâninâh]   #  in your and our canoe
-      cîmân+N+I+Px2Pl+Loc: [kicîmâniwâhk, kicîmâniwâh]   #  in your canoe
-      cîmân+N+I+Px3Pl+Loc: [ocîmâniwâhk, ocîmâniwâh]   #  in their canoe
-      cîmân+N+I+Px4Sg/Pl+Loc: [ocîmâninihk, ocîmâninih]   #  in another's/others' canoe
+      cîmân+N+I+Px1Sg+Loc: nicîmânihk   #  in my canoe
+      cîmân+N+I+Px2Sg+Loc: kicîmânihk   #  in your canoe
+      cîmân+N+I+Px3Sg+Loc: ocîmânihk   #  in his/her canoe
+      cîmân+N+I+Px1Pl+Loc: nicîmâninâhk   #  in our canoe
+      cîmân+N+I+Px12Pl+Loc: kicîmâninâhk   #  in your and our canoe
+      cîmân+N+I+Px2Pl+Loc: kicîmâniwâhk   #  in your canoe
+      cîmân+N+I+Px3Pl+Loc: ocîmâniwâhk    #  in their canoe
+      cîmân+N+I+Px4Sg/Pl+Loc: ocîmâninihk   #  in another's/others' canoe
       
 
