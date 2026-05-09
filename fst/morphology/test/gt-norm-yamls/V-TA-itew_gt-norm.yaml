@@ -56,13 +56,13 @@ Tests:
 
      itêw+V+TA+Ind+3Sg+4Sg/PlO:    itêw # THIRD DIR
      itêw+V+TA+Ind+3Pl+4Sg/PlO:    itêwak
-     itêw+V+TA+Ind+4Sg/Pl+5Sg/PlO:    itêyiwa
+     itêw+V+TA+Ind+4Sg/Pl+5Sg/PlO:    itêniwa
      itêw+V+TA+Ind+3Sg+5Sg/PlO:    itimêw
      itêw+V+TA+Ind+3Pl+5Sg/PlO:    itimêwak
 
      itêw+V+TA+Ind+4Sg/Pl+3SgO:    [itik, itikow] # THIRD INV
      itêw+V+TA+Ind+4Sg/Pl+3PlO:    [itikowak, itikwak]
-     itêw+V+TA+Ind+5Sg/Pl+4Sg/PlO:    itikoyiwa
+     itêw+V+TA+Ind+5Sg/Pl+4Sg/PlO:    itikoniwa
 
 
 ## CONJUNCT ##
@@ -113,13 +113,13 @@ Tests:
 
      PV/ê+itêw+V+TA+Cnj+3Sg+4Sg/PlO:    ê-itât # THIRD DIR
      PV/ê+itêw+V+TA+Cnj+3Pl+4Sg/PlO:    ê-itâcik
-     PV/ê+itêw+V+TA+Cnj+4Sg/Pl+5Sg/PlO: ê-itâyit
+     PV/ê+itêw+V+TA+Cnj+4Sg/Pl+5Sg/PlO: ê-itânit
      PV/ê+itêw+V+TA+Cnj+3Sg+5Sg/PlO:    ê-itimât
      PV/ê+itêw+V+TA+Cnj+3Pl+5Sg/PlO:    ê-itimâcik
 
      PV/ê+itêw+V+TA+Cnj+4Sg/Pl+3SgO:    ê-itikot # THIRD INV
      PV/ê+itêw+V+TA+Cnj+4Sg/Pl+3PlO:    ê-itikocik
-     PV/ê+itêw+V+TA+Cnj+5Sg/Pl+4Sg/PlO: ê-itikoyit
+     PV/ê+itêw+V+TA+Cnj+5Sg/Pl+4Sg/PlO: ê-itikonit
 
 ## FUTURE CONDITIONAL ##
      itêw+V+TA+Cond+2Sg+1SgO:    isiyani # LOCAL DIR
@@ -169,13 +169,13 @@ Tests:
 
      itêw+V+TA+Cond+3Sg+4Sg/PlO:    itâci # THIRD DIR
      itêw+V+TA+Cond+3Pl+4Sg/PlO:    itâtwâwi
-     itêw+V+TA+Cond+4Sg/Pl+5Sg/PlO: itâyici
+     itêw+V+TA+Cond+4Sg/Pl+5Sg/PlO: itânici
      itêw+V+TA+Cond+3Sg+5Sg/PlO:    itimâci
      itêw+V+TA+Cond+3Pl+5Sg/PlO:    itimâtwâwi
 
      itêw+V+TA+Cond+4Sg/Pl+3SgO:    itikoci # THIRD INV
      itêw+V+TA+Cond+4Sg/Pl+3PlO:    itikotwâwi
-     itêw+V+TA+Cond+5Sg/Pl+4Sg/PlO: itikoyici
+     itêw+V+TA+Cond+5Sg/Pl+4Sg/PlO: itikonici
 
 ## IMPERATIVE ##
 #LOCAL IMMEDIATE#
