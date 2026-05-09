@@ -27,7 +27,7 @@ Tests:
       mitîh+N+I+D+Px12Pl+Sg: kitîhinaw   #  your and our heart
       mitîh+N+I+D+Px2Pl+Sg: kitîhiwâw   #  your heart
       mitîh+N+I+D+Px3Pl+Sg: otîhiwâw   #  their heart
-      mitîh+N+I+D+Px4Sg/Pl+Sg: otîhithiw  #  a heart
+      mitîh+N+I+D+Px4Sg/Pl+Sg: otîhiniw  #  a heart
       mitîh+N+I+D+PxX+Sg: mitîh   #  someone's heart
       
 
@@ -39,7 +39,7 @@ Tests:
       mitîh+N+I+D+Px12Pl+Pl: kitîhinawa   #  your and our hearts
       mitîh+N+I+D+Px2Pl+Pl: kitîhiwâwa   #  your hearts
       mitîh+N+I+D+Px3Pl+Pl: otîhiwâwa   #  their hearts
-      mitîh+N+I+D+Px4Sg/Pl+Pl: otîhithiwa   #  hearts
+      mitîh+N+I+D+Px4Sg/Pl+Pl: otîhiniwa   #  hearts
       mitîh+N+I+D+PxX+Pl: mitîha   #  someone's hearts
       
 
@@ -51,7 +51,7 @@ Tests:
       mitîh+N+I+D+Px12Pl+Loc: [kitîhinâhk, kitîhinâh]   #  in your and our heart
       mitîh+N+I+D+Px2Pl+Loc: [kitîhiwâhk, kitîhiwâh]   #  in your heart
       mitîh+N+I+D+Px3Pl+Loc: [otîhiwâhk, otîhiwâh]   #  in their heart
-      mitîh+N+I+D+Px4Sg/Pl+Loc: [otîhithihk, otîhithih]   #  in another's/others' heart
+      mitîh+N+I+D+Px4Sg/Pl+Loc: [otîhinihk, otîhinih]   #  in another's/others' heart
       mitîh+N+I+D+PxX+Loc: [mitîhihk, mitîhih]   #  in someone's heart
 
 
