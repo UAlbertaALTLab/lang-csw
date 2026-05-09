@@ -44,14 +44,14 @@ Tests:
       
 
       # Poss # Loc
-      miskîsik+N+I+D+Px1Sg+Loc: [niskîsikohk, niskîsikoh]   #  in my eye
-      miskîsik+N+I+D+Px2Sg+Loc: [kiskîsikohk, kiskîsikoh]   #  in your eye
-      miskîsik+N+I+D+Px3Sg+Loc: [oskîsikohk, oskîsikoh]   #  in his/her eye
-      miskîsik+N+I+D+Px1Pl+Loc: [niskîsikonâhk, niskîsikonâh]   #  in our eye
-      miskîsik+N+I+D+Px12Pl+Loc: [kiskîsikonâhk, kiskîsikonâh]   #  in your and our eye
-      miskîsik+N+I+D+Px2Pl+Loc: [kiskîsikowâhk, kiskîsikowâh]   #  in your eye
-      miskîsik+N+I+D+Px3Pl+Loc: [oskîsikowâhk, oskîsikowâh]   #  in their eye
-      miskîsik+N+I+D+Px4Sg/Pl+Loc: [oskîsikonihk, oskîsikonih]   #  in another's/others' eye
-      miskîsik+N+I+D+PxX+Loc: [miskîsikohk, miskîsikoh]   #  in someone's eye
+      miskîsik+N+I+D+Px1Sg+Loc: [niskîsikohk]   #  in my eye
+      miskîsik+N+I+D+Px2Sg+Loc: [kiskîsikohk]   #  in your eye
+      miskîsik+N+I+D+Px3Sg+Loc: [oskîsikohk]   #  in his/her eye
+      miskîsik+N+I+D+Px1Pl+Loc: [niskîsikonâhk]   #  in our eye
+      miskîsik+N+I+D+Px12Pl+Loc: [kiskîsikonâhk]   #  in your and our eye
+      miskîsik+N+I+D+Px2Pl+Loc: [kiskîsikowâhk]   #  in your eye
+      miskîsik+N+I+D+Px3Pl+Loc: [oskîsikowâhk]   #  in their eye
+      miskîsik+N+I+D+Px4Sg/Pl+Loc: [oskîsikonihk]   #  in another's/others' eye
+      miskîsik+N+I+D+PxX+Loc: [miskîsikohk]   #  in someone's eye
       
 
