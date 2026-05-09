@@ -56,13 +56,13 @@ Tests:
 
      kîskiswêw+V+TA+Ind+3Sg+4Sg/PlO:    kîskiswêw # THIRD DIR
      kîskiswêw+V+TA+Ind+3Pl+4Sg/PlO:    kîskiswêwak
-     kîskiswêw+V+TA+Ind+4Sg/Pl+5Sg/PlO:    kîskiswêyiwa
+     kîskiswêw+V+TA+Ind+4Sg/Pl+5Sg/PlO:    kîskiswêniwa
      kîskiswêw+V+TA+Ind+3Sg+5Sg/PlO:    kîskisomêw
      kîskiswêw+V+TA+Ind+3Pl+5Sg/PlO:    kîskisomêwak
 
      kîskiswêw+V+TA+Ind+4Sg/Pl+3SgO:    [kîskisok, kîskisokow] # THIRD INV
      kîskiswêw+V+TA+Ind+4Sg/Pl+3PlO:    [kîskisokowak, kîskisokwak]
-     kîskiswêw+V+TA+Ind+5Sg/Pl+4Sg/PlO:    kîskisokoyiwa
+     kîskiswêw+V+TA+Ind+5Sg/Pl+4Sg/PlO:    kîskisokoniwa
 
 
 ## CONJUNCT ##
@@ -113,13 +113,13 @@ Tests:
 
      PV/ê+kîskiswêw+V+TA+Cnj+3Sg+4Sg/PlO:    ê-kîskiswât # THIRD DIR
      PV/ê+kîskiswêw+V+TA+Cnj+3Pl+4Sg/PlO:    ê-kîskiswâcik
-     PV/ê+kîskiswêw+V+TA+Cnj+4Sg/Pl+5Sg/PlO: ê-kîskiswâyit
+     PV/ê+kîskiswêw+V+TA+Cnj+4Sg/Pl+5Sg/PlO: ê-kîskiswânit
      PV/ê+kîskiswêw+V+TA+Cnj+3Sg+5Sg/PlO:    ê-kîskisomât
      PV/ê+kîskiswêw+V+TA+Cnj+3Pl+5Sg/PlO:    ê-kîskisomâcik
 
      PV/ê+kîskiswêw+V+TA+Cnj+4Sg/Pl+3SgO:    ê-kîskisokot # THIRD INV
      PV/ê+kîskiswêw+V+TA+Cnj+4Sg/Pl+3PlO:    ê-kîskisokocik
-     PV/ê+kîskiswêw+V+TA+Cnj+5Sg/Pl+4Sg/PlO: ê-kîskisokoyit
+     PV/ê+kîskiswêw+V+TA+Cnj+5Sg/Pl+4Sg/PlO: ê-kîskisokonit
 
 ## FUTURE CONDITIONAL ##
      kîskiswêw+V+TA+Cond+2Sg+1SgO:    kîskisoyani # LOCAL DIR
@@ -169,13 +169,13 @@ Tests:
 
      kîskiswêw+V+TA+Cond+3Sg+4Sg/PlO:    kîskiswâci # THIRD DIR
      kîskiswêw+V+TA+Cond+3Pl+4Sg/PlO:    kîskiswâtwâwi
-     kîskiswêw+V+TA+Cond+4Sg/Pl+5Sg/PlO: kîskiswâyici
+     kîskiswêw+V+TA+Cond+4Sg/Pl+5Sg/PlO: kîskiswânici
      kîskiswêw+V+TA+Cond+3Sg+5Sg/PlO:    kîskisomâci
      kîskiswêw+V+TA+Cond+3Pl+5Sg/PlO:    kîskisomâtwâwi
 
      kîskiswêw+V+TA+Cond+4Sg/Pl+3SgO:    kîskisokoci # THIRD INV
      kîskiswêw+V+TA+Cond+4Sg/Pl+3PlO:    kîskisokotwâwi
-     kîskiswêw+V+TA+Cond+5Sg/Pl+4Sg/PlO: kîskisokoyici
+     kîskiswêw+V+TA+Cond+5Sg/Pl+4Sg/PlO: kîskisokonici
 
 ## IMPERATIVE ##
 #LOCAL IMMEDIATE#

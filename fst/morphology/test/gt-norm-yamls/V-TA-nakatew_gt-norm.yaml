@@ -56,13 +56,13 @@ Tests:
 
      nakatêw+V+TA+Ind+3Sg+4Sg/PlO:    nakatêw # THIRD DIR
      nakatêw+V+TA+Ind+3Pl+4Sg/PlO:    nakatêwak
-     nakatêw+V+TA+Ind+4Sg/Pl+5Sg/PlO: nakatêyiwa
+     nakatêw+V+TA+Ind+4Sg/Pl+5Sg/PlO: nakatêniwa
      nakatêw+V+TA+Ind+3Sg+5Sg/PlO:    nakatimêw
      nakatêw+V+TA+Ind+3Pl+5Sg/PlO:    nakatimêwak
 
      nakatêw+V+TA+Ind+4Sg/Pl+3SgO:    [nakatik, nakatikow] # THIRD INV
      nakatêw+V+TA+Ind+4Sg/Pl+3PlO:    [nakatikowak, nakatikwak]
-     nakatêw+V+TA+Ind+5Sg/Pl+4Sg/PlO:    nakatikoyiwa
+     nakatêw+V+TA+Ind+5Sg/Pl+4Sg/PlO:    nakatikoniwa
 
 
 ## CONJUNCT ##
@@ -113,13 +113,13 @@ Tests:
 
      PV/ê+nakatêw+V+TA+Cnj+3Sg+4Sg/PlO:    ê-nakatât # THIRD DIR
      PV/ê+nakatêw+V+TA+Cnj+3Pl+4Sg/PlO:    ê-nakatâcik
-     PV/ê+nakatêw+V+TA+Cnj+4Sg/Pl+5Sg/PlO: ê-nakatâyit
+     PV/ê+nakatêw+V+TA+Cnj+4Sg/Pl+5Sg/PlO: ê-nakatânit
      PV/ê+nakatêw+V+TA+Cnj+3Sg+5Sg/PlO:    ê-nakatimât
      PV/ê+nakatêw+V+TA+Cnj+3Pl+5Sg/PlO:    ê-nakatimâcik
 
      PV/ê+nakatêw+V+TA+Cnj+4Sg/Pl+3SgO:    ê-nakatikot # THIRD INV
      PV/ê+nakatêw+V+TA+Cnj+4Sg/Pl+3PlO:    ê-nakatikocik
-     PV/ê+nakatêw+V+TA+Cnj+5Sg/Pl+4Sg/PlO: ê-nakatikoyit
+     PV/ê+nakatêw+V+TA+Cnj+5Sg/Pl+4Sg/PlO: ê-nakatikonit
 
 ## FUTURE CONDITIONAL ##
      nakatêw+V+TA+Cond+2Sg+1SgO:    nakasiyani # LOCAL DIR
@@ -169,13 +169,13 @@ Tests:
 
      nakatêw+V+TA+Cond+3Sg+4Sg/PlO:    nakatâci # THIRD DIR
      nakatêw+V+TA+Cond+3Pl+4Sg/PlO:    nakatâtwâwi
-     nakatêw+V+TA+Cond+4Sg/Pl+5Sg/PlO: nakatâyici
+     nakatêw+V+TA+Cond+4Sg/Pl+5Sg/PlO: nakatânici
      nakatêw+V+TA+Cond+3Sg+5Sg/PlO:    nakatimâci
      nakatêw+V+TA+Cond+3Pl+5Sg/PlO:    nakatimâtwâwi
 
      nakatêw+V+TA+Cond+4Sg/Pl+3SgO:    nakatikoci # THIRD INV
      nakatêw+V+TA+Cond+4Sg/Pl+3PlO:    nakatikotwâwi
-     nakatêw+V+TA+Cond+5Sg/Pl+4Sg/PlO: nakatikoyici
+     nakatêw+V+TA+Cond+5Sg/Pl+4Sg/PlO: nakatikonici
 
 ## IMPERATIVE ##
 #LOCAL IMMEDIATE#

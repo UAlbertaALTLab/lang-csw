@@ -56,13 +56,13 @@ Tests:
 
      nitonawêw+V+TA+Ind+3Sg+4Sg/PlO:    nitonawêw # THIRD DIR
      nitonawêw+V+TA+Ind+3Pl+4Sg/PlO:    nitonawêwak
-     nitonawêw+V+TA+Ind+4Sg/Pl+5Sg/PlO:    nitonawêyiwa
+     nitonawêw+V+TA+Ind+4Sg/Pl+5Sg/PlO:    nitonawêniwa
      nitonawêw+V+TA+Ind+3Sg+5Sg/PlO:    nitonâmêw
      nitonawêw+V+TA+Ind+3Pl+5Sg/PlO:    nitonâmêwak
 
      nitonawêw+V+TA+Ind+4Sg/Pl+3SgO:    [nitonâk, nitonâkow] # THIRD INV
      nitonawêw+V+TA+Ind+4Sg/Pl+3PlO:    [nitonâkowak, nitonâkwak]
-     nitonawêw+V+TA+Ind+5Sg/Pl+4Sg/PlO:    nitonâkoyiwa
+     nitonawêw+V+TA+Ind+5Sg/Pl+4Sg/PlO:    nitonâkoniwa
 
 
 ## CONJUNCT ##
@@ -113,13 +113,13 @@ Tests:
 
      PV/ê+nitonawêw+V+TA+Cnj+3Sg+4Sg/PlO:    ê-nitonawât # THIRD DIR
      PV/ê+nitonawêw+V+TA+Cnj+3Pl+4Sg/PlO:    ê-nitonawâcik
-     PV/ê+nitonawêw+V+TA+Cnj+4Sg/Pl+5Sg/PlO: ê-nitonawâyit
+     PV/ê+nitonawêw+V+TA+Cnj+4Sg/Pl+5Sg/PlO: ê-nitonawânit
      PV/ê+nitonawêw+V+TA+Cnj+3Sg+5Sg/PlO:    ê-nitonâmât
      PV/ê+nitonawêw+V+TA+Cnj+3Pl+5Sg/PlO:    ê-nitonâmâcik
 
      PV/ê+nitonawêw+V+TA+Cnj+4Sg/Pl+3SgO:    ê-nitonâkot # THIRD INV
      PV/ê+nitonawêw+V+TA+Cnj+4Sg/Pl+3PlO:    ê-nitonâkocik
-     PV/ê+nitonawêw+V+TA+Cnj+5Sg/Pl+4Sg/PlO: ê-nitonâkoyit
+     PV/ê+nitonawêw+V+TA+Cnj+5Sg/Pl+4Sg/PlO: ê-nitonâkonit
 
 ## FUTURE CONDITIONAL ##
      nitonawêw+V+TA+Cond+2Sg+1SgO:    nitonawiyani # LOCAL DIR
@@ -169,13 +169,13 @@ Tests:
 
      nitonawêw+V+TA+Cond+3Sg+4Sg/PlO:    nitonawâci # THIRD DIR
      nitonawêw+V+TA+Cond+3Pl+4Sg/PlO:    nitonawâtwâwi
-     nitonawêw+V+TA+Cond+4Sg/Pl+5Sg/PlO: nitonawâyici
+     nitonawêw+V+TA+Cond+4Sg/Pl+5Sg/PlO: nitonawânici
      nitonawêw+V+TA+Cond+3Sg+5Sg/PlO:    nitonâmâci
      nitonawêw+V+TA+Cond+3Pl+5Sg/PlO:    nitonâmâtwâwi
 
      nitonawêw+V+TA+Cond+4Sg/Pl+3SgO:    nitonâkoci # THIRD INV
      nitonawêw+V+TA+Cond+4Sg/Pl+3PlO:    nitonâkotwâwi
-     nitonawêw+V+TA+Cond+5Sg/Pl+4Sg/PlO: nitonâkoyici
+     nitonawêw+V+TA+Cond+5Sg/Pl+4Sg/PlO: nitonâkonici
 
 ## IMPERATIVE ##
 #LOCAL IMMEDIATE#

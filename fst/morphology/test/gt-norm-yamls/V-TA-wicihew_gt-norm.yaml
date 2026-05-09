@@ -56,13 +56,13 @@ Tests:
 
      wîcihêw+V+TA+Ind+3Sg+4Sg/PlO:    wîcihêw # THIRD DIR
      wîcihêw+V+TA+Ind+3Pl+4Sg/PlO:    wîcihêwak
-     wîcihêw+V+TA+Ind+4Sg/Pl+5Sg/PlO:    wîcihêyiwa
+     wîcihêw+V+TA+Ind+4Sg/Pl+5Sg/PlO:    wîcihêniwa
      wîcihêw+V+TA+Ind+3Sg+5Sg/PlO:    wîcihimêw
      wîcihêw+V+TA+Ind+3Pl+5Sg/PlO:    wîcihimêwak
 
      wîcihêw+V+TA+Ind+4Sg/Pl+3SgO:    [wîcihik, wîcihikow] # THIRD INV
      wîcihêw+V+TA+Ind+4Sg/Pl+3PlO:    [wîcihikowak, wîcihikwak]
-     wîcihêw+V+TA+Ind+5Sg/Pl+4Sg/PlO:    wîcihikoyiwa
+     wîcihêw+V+TA+Ind+5Sg/Pl+4Sg/PlO:    wîcihikoniwa
 
 
 ## CONJUNCT ##
@@ -113,13 +113,13 @@ Tests:
 
      PV/ê+wîcihêw+V+TA+Cnj+3Sg+4Sg/PlO:    ê-wîcihât # THIRD DIR
      PV/ê+wîcihêw+V+TA+Cnj+3Pl+4Sg/PlO:    ê-wîcihâcik
-     PV/ê+wîcihêw+V+TA+Cnj+4Sg/Pl+5Sg/PlO: ê-wîcihâyit
+     PV/ê+wîcihêw+V+TA+Cnj+4Sg/Pl+5Sg/PlO: ê-wîcihânit
      PV/ê+wîcihêw+V+TA+Cnj+3Sg+5Sg/PlO:    ê-wîcihimât
      PV/ê+wîcihêw+V+TA+Cnj+3Pl+5Sg/PlO:    ê-wîcihimâcik
 
      PV/ê+wîcihêw+V+TA+Cnj+4Sg/Pl+3SgO:    ê-wîcihikot # THIRD INV
      PV/ê+wîcihêw+V+TA+Cnj+4Sg/Pl+3PlO:    ê-wîcihikocik
-     PV/ê+wîcihêw+V+TA+Cnj+5Sg/Pl+4Sg/PlO: ê-wîcihikoyit
+     PV/ê+wîcihêw+V+TA+Cnj+5Sg/Pl+4Sg/PlO: ê-wîcihikonit
 
 ## FUTURE CONDITIONAL ##
      wîcihêw+V+TA+Cond+2Sg+1SgO:    wîcihiyani # LOCAL DIR
@@ -169,13 +169,13 @@ Tests:
 
      wîcihêw+V+TA+Cond+3Sg+4Sg/PlO:    wîcihâci # THIRD DIR
      wîcihêw+V+TA+Cond+3Pl+4Sg/PlO:    wîcihâtwâwi
-     wîcihêw+V+TA+Cond+4Sg/Pl+5Sg/PlO: wîcihâyici
+     wîcihêw+V+TA+Cond+4Sg/Pl+5Sg/PlO: wîcihânici
      wîcihêw+V+TA+Cond+3Sg+5Sg/PlO:    wîcihimâci
      wîcihêw+V+TA+Cond+3Pl+5Sg/PlO:    wîcihimâtwâwi
 
      wîcihêw+V+TA+Cond+4Sg/Pl+3SgO:    wîcihikoci # THIRD INV
      wîcihêw+V+TA+Cond+4Sg/Pl+3PlO:    wîcihikotwâwi
-     wîcihêw+V+TA+Cond+5Sg/Pl+4Sg/PlO: wîcihikoyici
+     wîcihêw+V+TA+Cond+5Sg/Pl+4Sg/PlO: wîcihikonici
 
 ## IMPERATIVE ##
 #LOCAL IMMEDIATE#
