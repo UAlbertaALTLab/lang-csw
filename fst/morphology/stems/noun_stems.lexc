@@ -72,7 +72,7 @@ mîpit:îpit NID "tooth" ; ! AEW NDI-1 (Vowel Initial Regular stem)
 miskotâkay:skotâkay NID "coat/dress" ; ! AEW NDI-2 (Consonant Initial VW stem)
 mîstakay:îstakay NID "hair" ; ! AEW NDI-1 (Vowel Initial VW stem)
 miskîsik:skîsikw NID "eye" ; ! AEW NDI-3 (Consonant Initial Cw stem)
-mathakask:athakaskw NID "palate" ; ! AEW NDI-3 (Vowel Initial Cw stem)
+man1akask:an1akaskw NID "palate" ; ! AEW NDI-3 (Vowel Initial Cw stem)
 @P.number.SG@mîni:@P.number.SG@în NID_SG/I "bone-marrow" ; ! AEW NDI-4 (Vowel Initial Single Syllable NDI-4 stem) N.B. might cause issue with <î>, also is a mass noun that is never plural.
 
 LEXICON NOUN_DEP_KINSHIP_STEMS
@@ -124,7 +124,7 @@ LEXICON NOUN_INDEP_STEMS
 pahkwêsikan NA_POSS/IM "bannock" ; ! AEW NA-1 (Consonant-Initial Regular NA Stem)
 asikan NA "sock" ; ! AEW NA-1 (Vowel-Initial Regular NA Stem)
 kihc-ôkiniy NA "tomato" ; ! AEW NA-2 (Consonant-Initial Vowel-Glide NA Stem)
-athapiy NA "net" ; ! AEW NA-2 (Vowel-Initial Vowel-Glide NA Stem)
+an1apiy NA "net" ; ! AEW NA-2 (Vowel-Initial Vowel-Glide NA Stem)
 kwâpahikan NA "ladle" ; ! AEW NA-1 (Consonant-Initial Regular NA Stem)
 masinahikanâhtik:masinahikanâhtikw NA "pencil" ; ! AEW NA-3 (Consonant-Initial Consonant-/w/ NA Stem)
 askihk:askihkw NA_POSS/IM "kettle, pail" ; ! AEW NA-3 (Vowel-Initial Consonant-/w/ NA Stem)
