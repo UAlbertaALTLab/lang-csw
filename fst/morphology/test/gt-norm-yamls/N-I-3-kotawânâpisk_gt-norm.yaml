@@ -12,7 +12,7 @@ Tests:
       # Nonposs
       kotawânâpisk+N+I+Sg: kotawânâpisk   #  a stove, an oven, a cook-stove
       kotawânâpisk+N+I+Pl: kotawânâpiskwa   #  stoves, ovens, cook-stoves
-      kotawânâpisk+N+I+Loc: [kotawânâpiskohk, kotawânâpiskoh]   #  in a stove, in an oven, in a cook-stove
+      kotawânâpisk+N+I+Loc: kotawânâpiskohk   #  in a stove, in an oven, in a cook-stove
 
       # Poss
       kotawânâpisk+N+I+Px1Sg+Sg: nikotawânâpisk   #  my stove, my oven, my cook-stove
@@ -22,7 +22,7 @@ Tests:
       # Nonposs
       kotawânâpisk+N+I+Sg: kotawânâpisk   #  a stove, an oven, a cook-stove
       kotawânâpisk+N+I+Pl: kotawânâpiskwa   #  stoves, ovens, cook-stoves
-      kotawânâpisk+N+I+Loc: [kotawânâpiskohk, kotawânâpiskoh]   #  in a stove, in an oven, in a cook-stove
+      kotawânâpisk+N+I+Loc: kotawânâpiskohk   #  in a stove, in an oven, in a cook-stove
       
 
       # Der/Dim
@@ -52,13 +52,13 @@ Tests:
       
 
       # Poss # Loc
-      kotawânâpisk+N+I+Px1Sg+Loc: [nikotawânâpiskohk, nikotawânâpiskoh]   #  in my stove, in my oven, in my cook-stove
-      kotawânâpisk+N+I+Px2Sg+Loc: [kikotawânâpiskohk, kikotawânâpiskoh]   #  in your stove, in your oven, in your cook-stove
-      kotawânâpisk+N+I+Px3Sg+Loc: [okotawânâpiskohk, okotawânâpiskoh]   #  in his/her stove, in his/her oven, in his/her cook-stove
-      kotawânâpisk+N+I+Px1Pl+Loc: [nikotawânâpiskonâhk, nikotawânâpiskonâh]   #  in our stove, in our oven, in our cook-stove
-      kotawânâpisk+N+I+Px12Pl+Loc: [kikotawânâpiskonâhk, kikotawânâpiskonâh]   #  in your and our stove, in your and our oven, in your and our cook-stove
-      kotawânâpisk+N+I+Px2Pl+Loc: [kikotawânâpiskowâhk, kikotawânâpiskowâh]   #  in your stove, in your oven, in your cook-stove
-      kotawânâpisk+N+I+Px3Pl+Loc: [okotawânâpiskowâhk, okotawânâpiskowâh]   #  in their stove, in their oven, in their cook-stove
-      kotawânâpisk+N+I+Px4Sg/Pl+Loc: [okotawânâpiskonihk, okotawânâpiskonih]   #  in another's/others' stove, in another's/others' oven, in another's/others' cook-stove
+      kotawânâpisk+N+I+Px1Sg+Loc: nikotawânâpiskohk   #  in my stove, in my oven, in my cook-stove
+      kotawânâpisk+N+I+Px2Sg+Loc: kikotawânâpiskohk   #  in your stove, in your oven, in your cook-stove
+      kotawânâpisk+N+I+Px3Sg+Loc: okotawânâpiskohk   #  in his/her stove, in his/her oven, in his/her cook-stove
+      kotawânâpisk+N+I+Px1Pl+Loc: nikotawânâpiskonâhk   #  in our stove, in our oven, in our cook-stove
+      kotawânâpisk+N+I+Px12Pl+Loc: kikotawânâpiskonâhk   #  in your and our stove, in your and our oven, in your and our cook-stove
+      kotawânâpisk+N+I+Px2Pl+Loc: kikotawânâpiskowâhk    #  in your stove, in your oven, in your cook-stove
+      kotawânâpisk+N+I+Px3Pl+Loc: okotawânâpiskowâhk    #  in their stove, in their oven, in their cook-stove
+      kotawânâpisk+N+I+Px4Sg/Pl+Loc: okotawânâpiskonihk    #  in another's/others' stove, in another's/others' oven, in another's/others' cook-stove
       
 
