@@ -42,13 +42,13 @@ Tests:
       
 
       # Poss # Loc
-      nîki+N+I+D+Px1Sg+Loc: [nîkihk, nîkih]   #  in my home, in my dwelling, in my house
-      nîki+N+I+D+Px2Sg+Loc: [kîkihk, kîkih]   #  in your home, in your dwelling, in your house
-      nîki+N+I+D+Px3Sg+Loc: [wîkihk, wîkih]   #  in his/her home, in his/her dwelling, in his/her house
-      nîki+N+I+D+Px1Pl+Loc: [nîkinâhk, nîkinâh]   #  in our home, in our dwelling, in our house
-      nîki+N+I+D+Px12Pl+Loc: [kîkinâhk, kîkinâh]   #  in your and our home, in your and our dwelling, in your and our house
-      nîki+N+I+D+Px2Pl+Loc: [kîkiwâhk, kîkiwâh]   #  in your home, in your dwelling, in your house
-      nîki+N+I+D+Px3Pl+Loc: [wîkiwâhk, wîkiwâh]   #  in their home, in their dwelling, in their house
-      nîki+N+I+D+Px4Sg/Pl+Loc: [wîkinihk, wîkinih]   #  in another's/others' home, in another's/others' dwelling, in another's/others' house
+      nîki+N+I+D+Px1Sg+Loc: [nîkihk]   #  in my home, in my dwelling, in my house
+      nîki+N+I+D+Px2Sg+Loc: [kîkihk]   #  in your home, in your dwelling, in your house
+      nîki+N+I+D+Px3Sg+Loc: [wîkihk]   #  in his/her home, in his/her dwelling, in his/her house
+      nîki+N+I+D+Px1Pl+Loc: [nîkinâhk]   #  in our home, in our dwelling, in our house
+      nîki+N+I+D+Px12Pl+Loc: [kîkinâhk]   #  in your and our home, in your and our dwelling, in your and our house
+      nîki+N+I+D+Px2Pl+Loc: [kîkiwâhk]   #  in your home, in your dwelling, in your house
+      nîki+N+I+D+Px3Pl+Loc: [wîkiwâhk]   #  in their home, in their dwelling, in their house
+      nîki+N+I+D+Px4Sg/Pl+Loc: [wîkinihk]   #  in another's/others' home, in another's/others' dwelling, in another's/others' house
       
 
