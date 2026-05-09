@@ -12,7 +12,7 @@ Tests:
       # Nonposs
       astotin+N+I+Sg: astotin
       astotin+N+I+Pl: astotina
-      astotin+N+I+Loc: [astotinihk, astotinih]
+      astotin+N+I+Loc: [astotinihk]
 
 
       # Poss
@@ -23,7 +23,7 @@ Tests:
       # Nonposs
       astotin+N+I+Sg: astotin
       astotin+N+I+Pl: astotina
-      astotin+N+I+Loc: [astotinihk, astotinih]
+      astotin+N+I+Loc: [astotinihk]
       
 
       # Der/Dim
@@ -56,13 +56,13 @@ Tests:
       
 
       # Poss # Loc
-      astotin+N+I+Px1Sg+Loc: [nitastotinihk, nitastotinih]
-      astotin+N+I+Px2Sg+Loc: [kitastotinihk, kitastotinih]
-      astotin+N+I+Px3Sg+Loc: [otastotinihk, otastotinih]
-      astotin+N+I+Px1Pl+Loc: [nitastotininâhk, nitastotininâh]
-      astotin+N+I+Px12Pl+Loc: [kitastotininâhk, kitastotininâh]
-      astotin+N+I+Px2Pl+Loc: [kitastotiniwâhk, kitastotiniwâh]
-      astotin+N+I+Px3Pl+Loc: [otastotiniwâhk, otastotiniwâh]
-      astotin+N+I+Px4Sg/Pl+Loc: [otastotininihk, otastotininih]
+      astotin+N+I+Px1Sg+Loc: [nitastotinihk]
+      astotin+N+I+Px2Sg+Loc: [kitastotinihk]
+      astotin+N+I+Px3Sg+Loc: [otastotinihk]
+      astotin+N+I+Px1Pl+Loc: [nitastotininâhk]
+      astotin+N+I+Px12Pl+Loc: [kitastotininâhk]
+      astotin+N+I+Px2Pl+Loc: [kitastotiniwâhk]
+      astotin+N+I+Px3Pl+Loc: [otastotiniwâhk]
+      astotin+N+I+Px4Sg/Pl+Loc: [otastotininihk]
       
 
