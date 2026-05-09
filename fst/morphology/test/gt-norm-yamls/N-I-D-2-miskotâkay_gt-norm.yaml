@@ -44,15 +44,15 @@ Tests:
       
 
       # Poss # Loc
-      miskotâkay+N+I+D+Px1Sg+Loc: [niskotâkâhk, niskotâkâh]   #  in my dress, in my skirt, in my coat, in my jacket
-      miskotâkay+N+I+D+Px2Sg+Loc: [kiskotâkâhk, kiskotâkâh]   #  in your dress, in your skirt, in your coat, in your jacket
-      miskotâkay+N+I+D+Px3Sg+Loc: [oskotâkâhk, oskotâkâh]   #  in his/her dress, in his/her skirt, in his/her coat, in his/her jacket
-      miskotâkay+N+I+D+Px1Pl+Loc: [niskotâkânâhk, niskotâkânâh]   #  in our dress, in our skirt, in our coat, in our jacket
-      miskotâkay+N+I+D+Px12Pl+Loc: [kiskotâkânâhk, kiskotâkânâh]   #  in your and our dress, in your and our skirt, in your and our coat, in your and our jacket
-      miskotâkay+N+I+D+Px2Pl+Loc: [kiskotâkâwâhk, kiskotâkâwâh]   #  in your dress, in your skirt, in your coat, in your jacket
-      miskotâkay+N+I+D+Px3Pl+Loc: [oskotâkâwâhk, oskotâkâwâh]   #  in their dress, in their skirt, in their coat, in their jacket
-      miskotâkay+N+I+D+Px4Sg/Pl+Loc: [oskotâkânihk, oskotâkânih]   #  in another's/others' dress, in another's/others' skirt, in another's/others' coat, in another's/others' jacket
-      miskotâkay+N+I+D+PxX+Loc: [miskotâkâhk, miskotâkâh]   #  in someone's dress, in someone's skirt, in someone's coat, in someone's jacket
+      miskotâkay+N+I+D+Px1Sg+Loc: [niskotâkâhk]   #  in my dress, in my skirt, in my coat, in my jacket
+      miskotâkay+N+I+D+Px2Sg+Loc: [kiskotâkâhk]   #  in your dress, in your skirt, in your coat, in your jacket
+      miskotâkay+N+I+D+Px3Sg+Loc: [oskotâkâhk]   #  in his/her dress, in his/her skirt, in his/her coat, in his/her jacket
+      miskotâkay+N+I+D+Px1Pl+Loc: [niskotâkânâhk]   #  in our dress, in our skirt, in our coat, in our jacket
+      miskotâkay+N+I+D+Px12Pl+Loc: [kiskotâkânâhk]   #  in your and our dress, in your and our skirt, in your and our coat, in your and our jacket
+      miskotâkay+N+I+D+Px2Pl+Loc: [kiskotâkâwâhk]   #  in your dress, in your skirt, in your coat, in your jacket
+      miskotâkay+N+I+D+Px3Pl+Loc: [oskotâkâwâhk]   #  in their dress, in their skirt, in their coat, in their jacket
+      miskotâkay+N+I+D+Px4Sg/Pl+Loc: [oskotâkânihk]   #  in another's/others' dress, in another's/others' skirt, in another's/others' coat, in another's/others' jacket
+      miskotâkay+N+I+D+PxX+Loc: [miskotâkâhk]   #  in someone's dress, in someone's skirt, in someone's coat, in someone's jacket
 
       
 
