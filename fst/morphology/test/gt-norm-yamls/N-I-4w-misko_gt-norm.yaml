@@ -37,7 +37,7 @@ Tests:
       misko+N+I+Px12Pl+Sg: kimiskominaw   #  your and our blood
       misko+N+I+Px2Pl+Sg: kimiskomiwâw   #  your blood
       misko+N+I+Px3Pl+Sg: omiskomiwâw   #  their blood
-      misko+N+I+Px4Sg/Pl+Sg: omiskomithiw   #  another's/others' blood
+      misko+N+I+Px4Sg/Pl+Sg: omiskominiw   #  another's/others' blood
       
 
       # Poss # Pl
@@ -48,7 +48,7 @@ Tests:
       # misko+N+I+Px12Pl+Pl: kimiskominawa   #  your and our bloods
       # misko+N+I+Px2Pl+Pl: kimiskomiwâwa   #  your bloods
       # misko+N+I+Px3Pl+Pl: omiskomiwâwa   #  their bloods
-      # misko+N+I+Px4Sg/Pl+Pl: omiskomithiwa   #  another's/others' bloods
+      # misko+N+I+Px4Sg/Pl+Pl: omiskomitniwa   #  another's/others' bloods
       
 
       # Poss # Loc
@@ -59,6 +59,6 @@ Tests:
       misko+N+I+Px12Pl+Loc: [kimiskominâhk, kimiskominâh]   #  in your and our blood
       misko+N+I+Px2Pl+Loc: [kimiskomiwâhk, kimiskomiwâh]   #  in your blood
       misko+N+I+Px3Pl+Loc: [omiskomiwâhk, omiskomiwâh]   #  in their blood
-      misko+N+I+Px4Sg/Pl+Loc: [omiskomithihk, omiskomithih]   #  in another's/others' blood
+      misko+N+I+Px4Sg/Pl+Loc: [omiskominihk, omiskominih]   #  in another's/others' blood
       
 

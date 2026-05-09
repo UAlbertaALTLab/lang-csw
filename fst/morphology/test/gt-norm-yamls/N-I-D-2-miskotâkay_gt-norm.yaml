@@ -27,7 +27,7 @@ Tests:
       miskotâkay+N+I+D+Px12Pl+Sg: kiskotâkânaw   #  your and our dress, your and our skirt, your and our coat, your and our jacket
       miskotâkay+N+I+D+Px2Pl+Sg: kiskotâkâwâw   #  your dress, your skirt, your coat, your jacket
       miskotâkay+N+I+D+Px3Pl+Sg: oskotâkâwâw   #  their dress, their skirt, their coat, their jacket
-      miskotâkay+N+I+D+Px4Sg/Pl+Sg: oskotâkâthiw   #  a dress, a skirt, a coat, a jacket
+      miskotâkay+N+I+D+Px4Sg/Pl+Sg: oskotâkâniw   #  a dress, a skirt, a coat, a jacket
       miskotâkay+N+I+D+PxX+Sg: miskotâkay   #  someone's dress, someone's skirt, someone's coat, someone's jacket
       
 
@@ -39,7 +39,7 @@ Tests:
       miskotâkay+N+I+D+Px12Pl+Pl: kiskotâkânawa   #  your and our dresses, your and our skirts, your and our coats, your and our jackets
       miskotâkay+N+I+D+Px2Pl+Pl: kiskotâkâwâwa   #  your dresses, your skirts, your coats, your jackets
       miskotâkay+N+I+D+Px3Pl+Pl: oskotâkâwâwa   #  their dresses, their skirts, their coats, their jackets
-      miskotâkay+N+I+D+Px4Sg/Pl+Pl: oskotâkâthiwa   #  dresses, skirts, coats, jackets
+      miskotâkay+N+I+D+Px4Sg/Pl+Pl: oskotâkâniwa   #  dresses, skirts, coats, jackets
       miskotâkay+N+I+D+PxX+Pl: miskotâkaya   #  someone's dresses, someone's skirts, someone's coats, someone's jackets
       
 
@@ -51,7 +51,7 @@ Tests:
       miskotâkay+N+I+D+Px12Pl+Loc: [kiskotâkânâhk, kiskotâkânâh]   #  in your and our dress, in your and our skirt, in your and our coat, in your and our jacket
       miskotâkay+N+I+D+Px2Pl+Loc: [kiskotâkâwâhk, kiskotâkâwâh]   #  in your dress, in your skirt, in your coat, in your jacket
       miskotâkay+N+I+D+Px3Pl+Loc: [oskotâkâwâhk, oskotâkâwâh]   #  in their dress, in their skirt, in their coat, in their jacket
-      miskotâkay+N+I+D+Px4Sg/Pl+Loc: [oskotâkâthihk, oskotâkâthih]   #  in another's/others' dress, in another's/others' skirt, in another's/others' coat, in another's/others' jacket
+      miskotâkay+N+I+D+Px4Sg/Pl+Loc: [oskotâkânihk, oskotâkânih]   #  in another's/others' dress, in another's/others' skirt, in another's/others' coat, in another's/others' jacket
       miskotâkay+N+I+D+PxX+Loc: [miskotâkâhk, miskotâkâh]   #  in someone's dress, in someone's skirt, in someone's coat, in someone's jacket
 
       

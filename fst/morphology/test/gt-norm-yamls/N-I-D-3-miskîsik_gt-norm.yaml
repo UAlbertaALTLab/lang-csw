@@ -27,7 +27,7 @@ Tests:
       miskîsik+N+I+D+Px12Pl+Sg: kiskîsikonaw   #  your and our eye
       miskîsik+N+I+D+Px2Pl+Sg: kiskîsikowâw   #  your eye
       miskîsik+N+I+D+Px3Pl+Sg: oskîsikowâw   #  their eye
-      miskîsik+N+I+D+Px4Sg/Pl+Sg: oskîsikothiw   #  a eye
+      miskîsik+N+I+D+Px4Sg/Pl+Sg: oskîsikoniw   #  a eye
       miskîsik+N+I+D+PxX+Sg: miskîsik   #  someone's eye
       
 
@@ -39,7 +39,7 @@ Tests:
       miskîsik+N+I+D+Px12Pl+Pl: kiskîsikonawa   #  your and our eyes
       miskîsik+N+I+D+Px2Pl+Pl: kiskîsikowâwa   #  your eyes
       miskîsik+N+I+D+Px3Pl+Pl: oskîsikowâwa   #  their eyes
-      miskîsik+N+I+D+Px4Sg/Pl+Pl: oskîsikothiwa   #  eyes
+      miskîsik+N+I+D+Px4Sg/Pl+Pl: oskîsikoniwa   #  eyes
       miskîsik+N+I+D+PxX+Pl: miskîsikwa   #  someone's eyes
       
 
@@ -51,7 +51,7 @@ Tests:
       miskîsik+N+I+D+Px12Pl+Loc: [kiskîsikonâhk, kiskîsikonâh]   #  in your and our eye
       miskîsik+N+I+D+Px2Pl+Loc: [kiskîsikowâhk, kiskîsikowâh]   #  in your eye
       miskîsik+N+I+D+Px3Pl+Loc: [oskîsikowâhk, oskîsikowâh]   #  in their eye
-      miskîsik+N+I+D+Px4Sg/Pl+Loc: [oskîsikothihk, oskîsikothih]   #  in another's/others' eye
+      miskîsik+N+I+D+Px4Sg/Pl+Loc: [oskîsikonihk, oskîsikonih]   #  in another's/others' eye
       miskîsik+N+I+D+PxX+Loc: [miskîsikohk, miskîsikoh]   #  in someone's eye
       
 

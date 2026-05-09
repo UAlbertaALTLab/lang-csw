@@ -37,7 +37,7 @@ Tests:
       cîmân+N+I+Px12Pl+Sg: kicîmâninaw   #  your and our canoe
       cîmân+N+I+Px2Pl+Sg: kicîmâniwâw   #  your canoe
       cîmân+N+I+Px3Pl+Sg: ocîmâniwâw   #  their canoe
-      cîmân+N+I+Px4Sg/Pl+Sg: ocîmânithiw   #  another's/others' canoe
+      cîmân+N+I+Px4Sg/Pl+Sg: ocîmâniniw   #  another's/others' canoe
       
 
       # Poss # Pl
@@ -48,7 +48,7 @@ Tests:
       cîmân+N+I+Px12Pl+Pl: kicîmâninawa   #  your and our canoes
       cîmân+N+I+Px2Pl+Pl: kicîmâniwâwa   #  your canoes
       cîmân+N+I+Px3Pl+Pl: ocîmâniwâwa   #  their canoes
-      cîmân+N+I+Px4Sg/Pl+Pl: ocîmânithiwa   #  another's/others' canoes
+      cîmân+N+I+Px4Sg/Pl+Pl: ocîmâniniwa   #  another's/others' canoes
       
 
       # Poss # Loc
@@ -59,6 +59,6 @@ Tests:
       cîmân+N+I+Px12Pl+Loc: [kicîmâninâhk, kicîmâninâh]   #  in your and our canoe
       cîmân+N+I+Px2Pl+Loc: [kicîmâniwâhk, kicîmâniwâh]   #  in your canoe
       cîmân+N+I+Px3Pl+Loc: [ocîmâniwâhk, ocîmâniwâh]   #  in their canoe
-      cîmân+N+I+Px4Sg/Pl+Loc: [ocîmânithihk, ocîmânithih]   #  in another's/others' canoe
+      cîmân+N+I+Px4Sg/Pl+Loc: [ocîmâninihk, ocîmâninih]   #  in another's/others' canoe
       
 

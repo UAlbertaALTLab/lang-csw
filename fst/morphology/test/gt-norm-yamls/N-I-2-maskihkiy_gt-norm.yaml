@@ -37,7 +37,7 @@ Tests:
       maskihkiy+N+I+Px12Pl+Sg: kimaskihkînaw   #  your and our medicine
       maskihkiy+N+I+Px2Pl+Sg: kimaskihkîwâw   #  your medicine
       maskihkiy+N+I+Px3Pl+Sg: omaskihkîwâw   #  their medicine
-      maskihkiy+N+I+Px4Sg/Pl+Sg: omaskihkîthiw   #  another's/others' medicine
+      maskihkiy+N+I+Px4Sg/Pl+Sg: omaskihkîniw   #  another's/others' medicine
       
 
       # Poss # Pl
@@ -48,7 +48,7 @@ Tests:
       maskihkiy+N+I+Px12Pl+Pl: kimaskihkînawa   #  your and our medicines
       maskihkiy+N+I+Px2Pl+Pl: kimaskihkîwâwa   #  your medicines
       maskihkiy+N+I+Px3Pl+Pl: omaskihkîwâwa   #  their medicines
-      maskihkiy+N+I+Px4Sg/Pl+Pl: omaskihkîthiwa   #  another's/others' medicines
+      maskihkiy+N+I+Px4Sg/Pl+Pl: omaskihkîniwa   #  another's/others' medicines
       
 
       # Poss # Loc
@@ -59,7 +59,7 @@ Tests:
       maskihkiy+N+I+Px12Pl+Loc: [kimaskihkînâhk, kimaskihkînâh]   #  in your and our medicine
       maskihkiy+N+I+Px2Pl+Loc: [kimaskihkîwâhk, kimaskihkîwâh]   #  in your medicine
       maskihkiy+N+I+Px3Pl+Loc: [omaskihkîwâhk, omaskihkîwâh]   #  in their medicine
-      maskihkiy+N+I+Px4Sg/Pl+Loc: [omaskihkîthihk, omaskihkîthih]   #  in another's/others' medicine
+      maskihkiy+N+I+Px4Sg/Pl+Loc: [omaskihkînihk, omaskihkînih]   #  in another's/others' medicine
 
       
 
