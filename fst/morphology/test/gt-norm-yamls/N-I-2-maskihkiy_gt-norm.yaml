@@ -1,0 +1,65 @@
+Config:
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+   Lemma - maskihkiy :
+
+      # Core
+
+      # Nonposs
+      maskihkiy+N+I+Sg: maskihkiy   #  a medicine
+      maskihkiy+N+I+Pl: maskihkiya   #  medicines
+      maskihkiy+N+I+Loc: [maskihkîhk, maskihkîh]   #  in a medicine
+
+      # Poss
+      maskihkiy+N+I+Px1Sg+Sg: nimaskihkiy   #  my medicine
+      maskihkiy+N+I+Px3Sg+Sg: omaskihkiy   #  his/her medicine
+      
+
+      # Nonposs
+      maskihkiy+N+I+Sg: maskihkiy   #  a medicine
+      maskihkiy+N+I+Pl: maskihkiya   #  medicines
+      maskihkiy+N+I+Loc: [maskihkîhk, maskihkîh]   #  in a medicine
+      
+
+      # Der/Dim
+      maskihkiy+N+I+Der/Dim+N+I+Sg: [maskihkîs, maskihkîsis]   #  a little medicine
+      
+
+      # Poss # Sg
+      maskihkiy+N+I+Px1Sg+Sg: nimaskihkiy   #  my medicine
+      maskihkiy+N+I+Px2Sg+Sg: kimaskihkiy   #  your medicine
+      maskihkiy+N+I+Px3Sg+Sg: omaskihkiy   #  his/her medicine
+      maskihkiy+N+I+Px1Pl+Sg: nimaskihkînân   #  our medicine
+      maskihkiy+N+I+Px12Pl+Sg: kimaskihkînaw   #  your and our medicine
+      maskihkiy+N+I+Px2Pl+Sg: kimaskihkîwâw   #  your medicine
+      maskihkiy+N+I+Px3Pl+Sg: omaskihkîwâw   #  their medicine
+      maskihkiy+N+I+Px4Sg/Pl+Sg: omaskihkîthiw   #  another's/others' medicine
+      
+
+      # Poss # Pl
+      maskihkiy+N+I+Px1Sg+Pl: nimaskihkiya   #  my medicines
+      maskihkiy+N+I+Px2Sg+Pl: kimaskihkiya   #  your medicines
+      maskihkiy+N+I+Px3Sg+Pl: omaskihkiya   #  his/her medicines
+      maskihkiy+N+I+Px1Pl+Pl: nimaskihkînâna   #  our medicines
+      maskihkiy+N+I+Px12Pl+Pl: kimaskihkînawa   #  your and our medicines
+      maskihkiy+N+I+Px2Pl+Pl: kimaskihkîwâwa   #  your medicines
+      maskihkiy+N+I+Px3Pl+Pl: omaskihkîwâwa   #  their medicines
+      maskihkiy+N+I+Px4Sg/Pl+Pl: omaskihkîthiwa   #  another's/others' medicines
+      
+
+      # Poss # Loc
+      maskihkiy+N+I+Px1Sg+Loc: [nimaskihkîhk, nimaskihkîh]   #  in my medicine
+      maskihkiy+N+I+Px2Sg+Loc: [kimaskihkîhk, kimaskihkîh]   #  in your medicine
+      maskihkiy+N+I+Px3Sg+Loc: [omaskihkîhk, omaskihkîh]   #  in his/her medicine
+      maskihkiy+N+I+Px1Pl+Loc: [nimaskihkînâhk, nimaskihkînâh]   #  in our medicine
+      maskihkiy+N+I+Px12Pl+Loc: [kimaskihkînâhk, kimaskihkînâh]   #  in your and our medicine
+      maskihkiy+N+I+Px2Pl+Loc: [kimaskihkîwâhk, kimaskihkîwâh]   #  in your medicine
+      maskihkiy+N+I+Px3Pl+Loc: [omaskihkîwâhk, omaskihkîwâh]   #  in their medicine
+      maskihkiy+N+I+Px4Sg/Pl+Loc: [omaskihkîthihk, omaskihkîthih]   #  in another's/others' medicine
+
+      
+

@@ -1,0 +1,50 @@
+Config:
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+   Lemma - nîskwa :
+
+      # Core
+
+      # Poss
+      nîskwa+N+A+D+Px1Sg+Sg: nîskwa   #  my fellow wife, my husband's ex-wife
+      nîskwa+N+A+D+Px2Sg+Sg: kîskwa   #  your fellow wife, your husband's ex-wife
+      nîskwa+N+A+D+Px3Sg+Obv: wîskwa   #  his/her other fellow wife(s), his/her other husband's ex-wife(s)
+      
+
+      # Der/Dim
+      nîskwa+N+A+D+Der/Dim+N+A+D+Px1Sg+Sg: [nîskos, nîskosis]   #  a little fellow wife, a little husband's ex-wife
+      
+
+      # Poss # Sg
+      nîskwa+N+A+D+Px1Sg+Sg: nîskwa   #  my fellow wife, my husband's ex-wife
+      nîskwa+N+A+D+Px2Sg+Sg: kîskwa   #  your fellow wife, your husband's ex-wife
+      
+      nîskwa+N+A+D+Px1Pl+Sg: nîskonân   #  our fellow wife, our husband's ex-wife
+      nîskwa+N+A+D+Px12Pl+Sg: kîskonaw   #  your and our fellow wife, your and our husband's ex-wife
+      nîskwa+N+A+D+Px2Pl+Sg: kîskowâw   #  your fellow wife, your husband's ex-wife
+      
+      
+      # Poss # Pl
+      nîskwa+N+A+D+Px1Sg+Pl: nîskwak   #  my fellow wives, my husband's ex-wifes
+      nîskwa+N+A+D+Px2Sg+Pl: kîskwak   #  your fellow wives, your husband's ex-wifes
+      
+      nîskwa+N+A+D+Px1Pl+Pl: nîskonânak   #  our fellow wives, our husband's ex-wifes
+      nîskwa+N+A+D+Px12Pl+Pl: kîskonawak   #  your and our fellow wives, your and our husband's ex-wifes
+      nîskwa+N+A+D+Px2Pl+Pl: kîskowâwak   #  your fellow wives, your husband's ex-wifes
+      
+      
+      # Poss # Obv
+      nîskwa+N+A+D+Px1Sg+Obv: nîskwa   #  my other fellow wife(s), my other husband's ex-wife(s)
+      nîskwa+N+A+D+Px2Sg+Obv: kîskwa   #  your other fellow wife(s), your other husband's ex-wife(s)
+      nîskwa+N+A+D+Px3Sg+Obv: wîskwa   #  his/her other fellow wife(s), his/her other husband's ex-wife(s)
+      nîskwa+N+A+D+Px1Pl+Obv: nîskonâna   #  our other fellow wife(s), our other husband's ex-wife(s)
+      nîskwa+N+A+D+Px12Pl+Obv: kîskonawa   #  your and our other fellow wife(s), your and our other husband's ex-wife(s)
+      nîskwa+N+A+D+Px2Pl+Obv: kîskowâwa   #  your other fellow wife(s), your other husband's ex-wife(s)
+      nîskwa+N+A+D+Px3Pl+Obv: wîskowâwa   #  their other fellow wife(s), their other husband's ex-wife(s)
+      nîskwa+N+A+D+Px4Sg/Pl+Obv: wîskothiwa   #  another's/others' other fellow wife(s), another's/others' other husband's ex-wife(s)
+      
+

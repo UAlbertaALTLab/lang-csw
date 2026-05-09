@@ -1,0 +1,65 @@
+Config:
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+   Lemma - kîhtî-aya :
+
+      # Core
+
+      # Nonposs
+      kîhtî-aya+N+A+Sg: kîhtî-aya   #  an elder, an old-one, an old person
+      kîhtî-aya+N+A+Pl: kîhtî-ayak   #  elders, old-ones, old persons
+      kîhtî-aya+N+A+Obv: kîhtî-aya   #  an/other elder(s), an/other old-one(s), an/other old person(s)
+
+      # Poss
+      kîhtî-aya+N+A+Px1Sg+Sg: nikîhtî-ayim   #  my elder, my old-one, my old person
+      kîhtî-aya+N+A+Px3Sg+Obv: okîhtî-ayima   #  his/her other elder(s), his/her other old-one(s), his/her other old person(s)
+      
+
+      # Nonposs
+      kîhtî-aya+N+A+Sg: kîhtî-aya   #  a elder, an old-one, an old person
+      kîhtî-aya+N+A+Pl: kîhtî-ayak   #  elders, old-ones, old persons
+      kîhtî-aya+N+A+Obv: kîhtî-aya   #  an/other elder(s), an/other old-one(s), an/other old person(s)
+      kîhtî-aya+N+A+Distr: kîhtî-ayinâhk   #  among elders, among old-ones, among old persons
+      
+
+      # Der/Dim
+      kîhtî-aya+N+A+Der/Dim+N+A+Sg: [kîhcî-ayis, kîhcî-ayisis]   #  a little elder, a little old-one, a little old person
+      
+
+      # Poss # Sg
+      kîhtî-aya+N+A+Px1Sg+Sg: nikîhtî-ayim   #  my elder, my old-one, my old person
+      kîhtî-aya+N+A+Px2Sg+Sg: kikîhtî-ayim   #  your elder, your old-one, your old person
+      
+      kîhtî-aya+N+A+Px1Pl+Sg: nikîhtî-ayiminân   #  our elder, our old-one, our old person
+      kîhtî-aya+N+A+Px12Pl+Sg: kikîhtî-ayiminaw   #  your and our elder, your and our old-one, your and our old person
+      kîhtî-aya+N+A+Px2Pl+Sg: kikîhtî-ayimiwâw   #  your elder, your old-one, your old person
+      
+      
+      
+
+      # Poss # Pl
+      kîhtî-aya+N+A+Px1Sg+Pl: nikîhtî-ayimak   #  my elders, my old-ones, my old persons
+      kîhtî-aya+N+A+Px2Sg+Pl: kikîhtî-ayimak   #  your elders, your old-ones, your old persons
+      
+      kîhtî-aya+N+A+Px1Pl+Pl: nikîhtî-ayiminânak   #  our elders, our old-ones, our old persons
+      kîhtî-aya+N+A+Px12Pl+Pl: kikîhtî-ayiminawak   #  your and our elders, your and our old-ones, your and our old persons
+      kîhtî-aya+N+A+Px2Pl+Pl: kikîhtî-ayimiwâwak   #  your elders, your old-ones, your old persons
+      
+      
+      
+
+      # Poss # Obv
+      kîhtî-aya+N+A+Px1Sg+Obv: nikîhtî-ayima   #  my other elder(s), my other old-one(s), my other old person(s)
+      kîhtî-aya+N+A+Px2Sg+Obv: kikîhtî-ayima   #  your other elder(s), your other old-one(s), your other old person(s)
+      kîhtî-aya+N+A+Px3Sg+Obv: okîhtî-ayima   #  his/her other elder(s), his/her other old-one(s), his/her other old person(s)
+      kîhtî-aya+N+A+Px1Pl+Obv: nikîhtî-ayiminâna   #  our other elder(s), our other old-one(s), our other old person(s)
+      kîhtî-aya+N+A+Px12Pl+Obv: kikîhtî-ayiminawa   #  your and our other elder(s), your and our other old-one(s), your and our other old person(s)
+      kîhtî-aya+N+A+Px2Pl+Obv: kikîhtî-ayimiwâwa   #  your other elder(s), your other old-one(s), your other old person(s)
+      kîhtî-aya+N+A+Px3Pl+Obv: okîhtî-ayimiwâwa   #  their other elder(s), their other old-one(s), their other old person(s)
+      kîhtî-aya+N+A+Px4Sg/Pl+Obv: okîhtî-ayimithiwa   #  another's/others' other elder(s), another's/others' other old-one(s), another's/others' other old person(s)
+      
+

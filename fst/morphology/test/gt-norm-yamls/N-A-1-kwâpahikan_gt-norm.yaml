@@ -1,0 +1,69 @@
+Config:
+  xerox:
+    Gen: ../../../src/fst/generator-gt-norm.xfst
+    Morph:  ../../../src/fst/analyser-gt-norm.xfst
+  hfst:
+    Gen: ../../../src/fst/generator-gt-norm.hfst
+    Morph:  ../../../src/fst/analyser-gt-norm.hfst
+  App: lookup
+
+Tests:
+
+  Lemma - kwâpahikan :
+
+      # Core
+
+      # Nonposs
+      kwâpahikan+N+A+Sg: kwâpahikan #  a ladle, a dipper
+      kwâpahikan+N+A+Pl: kwâpahikanak   #  ladles, dippers
+      kwâpahikan+N+A+Obv: kwâpahikana   #  an/other ladle(s), an/other dipper(s)
+
+      # Poss
+      kwâpahikan+N+A+Px1Sg+Sg: nikwâpahikan   #  my ladle, my dipper
+      kwâpahikan+N+A+Px3Sg+Obv: okwâpahikana   #  his/her other ladle(s), his/her other dipper(s)
+      
+
+      # Nonposs
+      kwâpahikan+N+A+Sg: kwâpahikan   #  a ladle, a dipper
+      kwâpahikan+N+A+Pl: kwâpahikanak   #  ladles, dippers
+      kwâpahikan+N+A+Obv: kwâpahikana   #  an/other ladle(s), an/other dipper(s)
+      kwâpahikan+N+A+Distr: kwâpahikaninâhk   #  among ladles, among dippers
+      
+
+      # Der/Dim
+      kwâpahikan+N+A+Der/Dim+N+A+Sg: [kwâpahikanis, kwâpahikanisis]   #  a little ladle, a little dipper
+      
+
+      # Poss # Sg
+      kwâpahikan+N+A+Px1Sg+Sg: nikwâpahikan   #  my ladle, my dipper
+      kwâpahikan+N+A+Px2Sg+Sg: kikwâpahikan   #  your ladle, your dipper
+      
+      kwâpahikan+N+A+Px1Pl+Sg: nikwâpahikaninân   #  our ladle, our dipper
+      kwâpahikan+N+A+Px12Pl+Sg: kikwâpahikaninaw   #  your and our ladle, your and our dipper
+      kwâpahikan+N+A+Px2Pl+Sg: kikwâpahikaniwâw   #  your ladle, your dipper
+      
+      
+      
+
+      # Poss # Pl
+      kwâpahikan+N+A+Px1Sg+Pl: nikwâpahikanak   #  my ladles, my dippers
+      kwâpahikan+N+A+Px2Sg+Pl: kikwâpahikanak   #  your ladles, your dippers
+      
+      kwâpahikan+N+A+Px1Pl+Pl: nikwâpahikaninânak   #  our ladles, our dippers
+      kwâpahikan+N+A+Px12Pl+Pl: kikwâpahikaninawak   #  your and our ladles, your and our dippers
+      kwâpahikan+N+A+Px2Pl+Pl: kikwâpahikaniwâwak   #  your ladles, your dippers
+      
+      
+      
+
+      # Poss # Obv
+      kwâpahikan+N+A+Px1Sg+Obv: nikwâpahikana   #  my other ladle(s), my other dipper(s)
+      kwâpahikan+N+A+Px2Sg+Obv: kikwâpahikana   #  your other ladle(s), your other dipper(s)
+      kwâpahikan+N+A+Px3Sg+Obv: okwâpahikana   #  his/her other ladle(s), his/her other dipper(s)
+      kwâpahikan+N+A+Px1Pl+Obv: nikwâpahikaninâna   #  our other ladle(s), our other dipper(s)
+      kwâpahikan+N+A+Px12Pl+Obv: kikwâpahikaninawa   #  your and our other ladle(s), your and our other dipper(s)
+      kwâpahikan+N+A+Px2Pl+Obv: kikwâpahikaniwâwa   #  your other ladle(s), your other dipper(s)
+      kwâpahikan+N+A+Px3Pl+Obv: okwâpahikaniwâwa   #  their other ladle(s), their other dipper(s)
+      kwâpahikan+N+A+Px4Sg/Pl+Obv: okwâpahikanithiwa   #  another's/others' other ladle(s), another's/others' other dipper(s)
+      
+

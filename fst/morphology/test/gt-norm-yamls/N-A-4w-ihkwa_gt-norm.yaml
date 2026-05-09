@@ -1,0 +1,65 @@
+Config:
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+   Lemma - ihkwa :
+
+      # Core
+
+      # Nonposs
+      ihkwa+N+A+Sg: ihkwa   #  a louse
+      ihkwa+N+A+Pl: ihkwak   #  lice
+      ihkwa+N+A+Obv: ihkwa   #  an/other louse(s)
+
+      # Poss
+      ihkwa+N+A+Px1Sg+Sg: nitihkom   #  my louse
+      ihkwa+N+A+Px3Sg+Obv: otihkoma   #  his/her other louse(s)
+      
+
+      # Nonposs
+      ihkwa+N+A+Sg: ihkwa   #  a louse
+      ihkwa+N+A+Pl: ihkwak   #  lice
+      ihkwa+N+A+Obv: ihkwa   #  an/other louse(s)
+      ihkwa+N+A+Distr: ihkonâhk   #  among lice
+      
+
+      # Der/Dim
+      ihkwa+N+A+Der/Dim+N+A+Sg: [ihkos, ihkosis]   #  a little louse
+      
+
+      # Poss # Sg
+      ihkwa+N+A+Px1Sg+Sg: nitihkom   #  my louse
+      ihkwa+N+A+Px2Sg+Sg: kitihkom   #  your louse
+      
+      ihkwa+N+A+Px1Pl+Sg: nitihkominân   #  our louse
+      ihkwa+N+A+Px12Pl+Sg: kitihkominaw   #  your and our louse
+      ihkwa+N+A+Px2Pl+Sg: kitihkomiwâw   #  your louse
+      
+      
+      
+
+      # Poss # Pl
+      ihkwa+N+A+Px1Sg+Pl: nitihkomak   #  my lice
+      ihkwa+N+A+Px2Sg+Pl: kitihkomak   #  your lice
+      
+      ihkwa+N+A+Px1Pl+Pl: nitihkominânak   #  our lice
+      ihkwa+N+A+Px12Pl+Pl: kitihkominawak   #  your and our lice
+      ihkwa+N+A+Px2Pl+Pl: kitihkomiwâwak   #  your lice
+      
+      
+      
+
+      # Poss # Obv
+      ihkwa+N+A+Px1Sg+Obv: nitihkoma   #  my other louse(s)
+      ihkwa+N+A+Px2Sg+Obv: kitihkoma   #  your other louse(s)
+      ihkwa+N+A+Px3Sg+Obv: otihkoma   #  his/her other louse(s)
+      ihkwa+N+A+Px1Pl+Obv: nitihkominâna   #  our other louse(s)
+      ihkwa+N+A+Px12Pl+Obv: kitihkominawa   #  your and our other louse(s)
+      ihkwa+N+A+Px2Pl+Obv: kitihkomiwâwa   #  your other louse(s)
+      ihkwa+N+A+Px3Pl+Obv: otihkomiwâwa   #  their other louse(s)
+      ihkwa+N+A+Px4Sg/Pl+Obv: otihkomithiwa   #  another's/others' other louse(s)
+      
+

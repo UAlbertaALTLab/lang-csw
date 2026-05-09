@@ -1,0 +1,50 @@
+Config:
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+   Lemma - nîtim :
+
+      # Core
+
+      # Poss
+      nîtim+N+A+D+Px1Sg+Sg: nîtim   #  my cross-cousin
+      nîtim+N+A+D+Px2Sg+Sg: kîtim   #  your cross-cousin
+      nîtim+N+A+D+Px3Sg+Obv: wîtimwa   #  his/her other cross-cousin(s)
+      
+
+      # Der/Dim
+      nîtim+N+A+D+Der/Dim+N+A+D+Px1Sg+Sg: [nîcimos, nîcimosis]   #  a little cross-cousin
+      
+
+      # Poss # Sg
+      nîtim+N+A+D+Px1Sg+Sg: nîtim   #  my cross-cousin
+      nîtim+N+A+D+Px2Sg+Sg: kîtim   #  your cross-cousin
+      
+      nîtim+N+A+D+Px1Pl+Sg: nîtimonân   #  our cross-cousin
+      nîtim+N+A+D+Px12Pl+Sg: kîtimonaw   #  your and our cross-cousin
+      nîtim+N+A+D+Px2Pl+Sg: kîtimowâw   #  your cross-cousin
+            
+
+      # Poss # Pl
+      nîtim+N+A+D+Px1Sg+Pl: nîtimwak   #  my cross-cousins
+      nîtim+N+A+D+Px2Sg+Pl: kîtimwak   #  your cross-cousins
+      
+      nîtim+N+A+D+Px1Pl+Pl: nîtimonânak   #  our cross-cousins
+      nîtim+N+A+D+Px12Pl+Pl: kîtimonawak   #  your and our cross-cousins
+      nîtim+N+A+D+Px2Pl+Pl: kîtimowâwak   #  your cross-cousins
+      
+            
+      # Poss # Obv
+      nîtim+N+A+D+Px1Sg+Obv: nîtimwa   #  my other cross-cousin(s)
+      nîtim+N+A+D+Px2Sg+Obv: kîtimwa   #  your other cross-cousin(s)
+      nîtim+N+A+D+Px3Sg+Obv: wîtimwa   #  his/her other cross-cousin(s)
+      nîtim+N+A+D+Px1Pl+Obv: nîtimonâna   #  our other cross-cousin(s)
+      nîtim+N+A+D+Px12Pl+Obv: kîtimonawa   #  your and our other cross-cousin(s)
+      nîtim+N+A+D+Px2Pl+Obv: kîtimowâwa   #  your other cross-cousin(s)
+      nîtim+N+A+D+Px3Pl+Obv: wîtimowâwa   #  their other cross-cousin(s)
+      nîtim+N+A+D+Px4Sg/Pl+Obv: wîtimothiwa   #  another's/others' other cross-cousin(s)
+      
+

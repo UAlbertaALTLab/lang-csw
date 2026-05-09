@@ -1,0 +1,58 @@
+Config:
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+   Lemma - miskotâkay :
+
+      # Core
+
+      # Poss
+      miskotâkay+N+I+D+Px1Sg+Sg: niskotâkay   #  my dress, my skirt, my coat, my jacket
+      miskotâkay+N+I+D+Px2Sg+Sg: kiskotâkay   #  your dress, your skirt, your coat, your jacket
+      miskotâkay+N+I+D+Px3Sg+Sg: oskotâkay   #  his/her dress, his/her skirt, his/her coat, his/her jacket
+      
+
+      # Der/Dim
+      miskotâkay+N+I+D+Der/Dim+N+I+D+PxX+Sg: [miskocâkâs, miskocâkâsis]   #  a little dress, a little skirt, a little coat, a little jacket
+      
+
+      # Poss # Sg
+      miskotâkay+N+I+D+Px1Sg+Sg: niskotâkay   #  my dress, my skirt, my coat, my jacket
+      miskotâkay+N+I+D+Px2Sg+Sg: kiskotâkay   #  your dress, your skirt, your coat, your jacket
+      miskotâkay+N+I+D+Px3Sg+Sg: oskotâkay   #  his/her dress, his/her skirt, his/her coat, his/her jacket
+      miskotâkay+N+I+D+Px1Pl+Sg: niskotâkânân   #  our dress, our skirt, our coat, our jacket
+      miskotâkay+N+I+D+Px12Pl+Sg: kiskotâkânaw   #  your and our dress, your and our skirt, your and our coat, your and our jacket
+      miskotâkay+N+I+D+Px2Pl+Sg: kiskotâkâwâw   #  your dress, your skirt, your coat, your jacket
+      miskotâkay+N+I+D+Px3Pl+Sg: oskotâkâwâw   #  their dress, their skirt, their coat, their jacket
+      miskotâkay+N+I+D+Px4Sg/Pl+Sg: oskotâkâthiw   #  a dress, a skirt, a coat, a jacket
+      miskotâkay+N+I+D+PxX+Sg: miskotâkay   #  someone's dress, someone's skirt, someone's coat, someone's jacket
+      
+
+      # Poss # Pl
+      miskotâkay+N+I+D+Px1Sg+Pl: niskotâkaya   #  my dresses, my skirts, my coats, my jackets
+      miskotâkay+N+I+D+Px2Sg+Pl: kiskotâkaya   #  your dresses, your skirts, your coats, your jackets
+      miskotâkay+N+I+D+Px3Sg+Pl: oskotâkaya   #  his/her dresses, his/her skirts, his/her coats, his/her jackets
+      miskotâkay+N+I+D+Px1Pl+Pl: niskotâkânâna   #  our dresses, our skirts, our coats, our jackets
+      miskotâkay+N+I+D+Px12Pl+Pl: kiskotâkânawa   #  your and our dresses, your and our skirts, your and our coats, your and our jackets
+      miskotâkay+N+I+D+Px2Pl+Pl: kiskotâkâwâwa   #  your dresses, your skirts, your coats, your jackets
+      miskotâkay+N+I+D+Px3Pl+Pl: oskotâkâwâwa   #  their dresses, their skirts, their coats, their jackets
+      miskotâkay+N+I+D+Px4Sg/Pl+Pl: oskotâkâthiwa   #  dresses, skirts, coats, jackets
+      miskotâkay+N+I+D+PxX+Pl: miskotâkaya   #  someone's dresses, someone's skirts, someone's coats, someone's jackets
+      
+
+      # Poss # Loc
+      miskotâkay+N+I+D+Px1Sg+Loc: [niskotâkâhk, niskotâkâh]   #  in my dress, in my skirt, in my coat, in my jacket
+      miskotâkay+N+I+D+Px2Sg+Loc: [kiskotâkâhk, kiskotâkâh]   #  in your dress, in your skirt, in your coat, in your jacket
+      miskotâkay+N+I+D+Px3Sg+Loc: [oskotâkâhk, oskotâkâh]   #  in his/her dress, in his/her skirt, in his/her coat, in his/her jacket
+      miskotâkay+N+I+D+Px1Pl+Loc: [niskotâkânâhk, niskotâkânâh]   #  in our dress, in our skirt, in our coat, in our jacket
+      miskotâkay+N+I+D+Px12Pl+Loc: [kiskotâkânâhk, kiskotâkânâh]   #  in your and our dress, in your and our skirt, in your and our coat, in your and our jacket
+      miskotâkay+N+I+D+Px2Pl+Loc: [kiskotâkâwâhk, kiskotâkâwâh]   #  in your dress, in your skirt, in your coat, in your jacket
+      miskotâkay+N+I+D+Px3Pl+Loc: [oskotâkâwâhk, oskotâkâwâh]   #  in their dress, in their skirt, in their coat, in their jacket
+      miskotâkay+N+I+D+Px4Sg/Pl+Loc: [oskotâkâthihk, oskotâkâthih]   #  in another's/others' dress, in another's/others' skirt, in another's/others' coat, in another's/others' jacket
+      miskotâkay+N+I+D+PxX+Loc: [miskotâkâhk, miskotâkâh]   #  in someone's dress, in someone's skirt, in someone's coat, in someone's jacket
+
+      
+

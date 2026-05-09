@@ -1,0 +1,59 @@
+Config:
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+   Lemma - mitîh :
+
+      # Core
+
+      # Poss
+      mitîh+N+I+D+Px1Sg+Sg: nitîh   #  my heart
+      mitîh+N+I+D+Px2Sg+Sg: kitîh   #  your heart
+      mitîh+N+I+D+Px3Sg+Sg: otîh   #  his/her heart
+      
+
+      # Der/Dim
+      mitîh+N+I+D+Der/Dim+N+I+D+PxX+Sg: [micîhis, micîhisis]  #  a little heart
+      
+
+      # Poss # Sg
+      mitîh+N+I+D+Px1Sg+Sg: nitîh   #  my heart
+      mitîh+N+I+D+Px2Sg+Sg: kitîh   #  your heart
+      mitîh+N+I+D+Px3Sg+Sg: otîh   #  his/her heart
+      mitîh+N+I+D+Px1Pl+Sg: nitîhinân   #  our heart
+      mitîh+N+I+D+Px12Pl+Sg: kitîhinaw   #  your and our heart
+      mitîh+N+I+D+Px2Pl+Sg: kitîhiwâw   #  your heart
+      mitîh+N+I+D+Px3Pl+Sg: otîhiwâw   #  their heart
+      mitîh+N+I+D+Px4Sg/Pl+Sg: otîhithiw  #  a heart
+      mitîh+N+I+D+PxX+Sg: mitîh   #  someone's heart
+      
+
+      # Poss # Pl
+      mitîh+N+I+D+Px1Sg+Pl: nitîha   #  my hearts
+      mitîh+N+I+D+Px2Sg+Pl: kitîha   #  your hearts
+      mitîh+N+I+D+Px3Sg+Pl: otîha   #  his/her hearts
+      mitîh+N+I+D+Px1Pl+Pl: nitîhinâna   #  our hearts
+      mitîh+N+I+D+Px12Pl+Pl: kitîhinawa   #  your and our hearts
+      mitîh+N+I+D+Px2Pl+Pl: kitîhiwâwa   #  your hearts
+      mitîh+N+I+D+Px3Pl+Pl: otîhiwâwa   #  their hearts
+      mitîh+N+I+D+Px4Sg/Pl+Pl: otîhithiwa   #  hearts
+      mitîh+N+I+D+PxX+Pl: mitîha   #  someone's hearts
+      
+
+      # Poss # Loc
+      mitîh+N+I+D+Px1Sg+Loc: [nitîhihk, nitîhih]   #  in my heart
+      mitîh+N+I+D+Px2Sg+Loc: [kitîhihk, kitîhih]   #  in your heart
+      mitîh+N+I+D+Px3Sg+Loc: [otîhihk, otîhih]   #  in his/her heart
+      mitîh+N+I+D+Px1Pl+Loc: [nitîhinâhk, nitîhinâh]   #  in our heart
+      mitîh+N+I+D+Px12Pl+Loc: [kitîhinâhk, kitîhinâh]   #  in your and our heart
+      mitîh+N+I+D+Px2Pl+Loc: [kitîhiwâhk, kitîhiwâh]   #  in your heart
+      mitîh+N+I+D+Px3Pl+Loc: [otîhiwâhk, otîhiwâh]   #  in their heart
+      mitîh+N+I+D+Px4Sg/Pl+Loc: [otîhithihk, otîhithih]   #  in another's/others' heart
+      mitîh+N+I+D+PxX+Loc: [mitîhihk, mitîhih]   #  in someone's heart
+
+
+      
+

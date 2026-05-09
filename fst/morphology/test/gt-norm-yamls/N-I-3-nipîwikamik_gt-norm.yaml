@@ -1,0 +1,64 @@
+Config:
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+   Lemma - nipîwikamik :
+
+      # Core
+
+      # Nonposs
+      nipîwikamik+N+I+Sg: nipîwikamik   #  a bedroom
+      nipîwikamik+N+I+Pl: nipîwikamikwa   #  bedrooms
+      nipîwikamik+N+I+Loc: [nipîwikamikohk, nipîwikamikoh]   #  in a bedroom
+
+      # Poss
+      nipîwikamik+N+I+Px1Sg+Sg: ninipîwikamik   #  my bedroom
+      nipîwikamik+N+I+Px3Sg+Sg: onipîwikamik   #  his/her bedroom
+      
+
+      # Nonposs
+      nipîwikamik+N+I+Sg: nipîwikamik   #  a bedroom
+      nipîwikamik+N+I+Pl: nipîwikamikwa   #  bedrooms
+      nipîwikamik+N+I+Loc: [nipîwikamikohk, nipîwikamikoh]   #  in a bedroom
+      
+
+      # Der/Dim
+      nipîwikamik+N+I+Der/Dim+N+I+Sg: [nipîwikamikos, nipîwikamikosis]    #  a little bedroom
+      
+
+      # Poss # Sg
+      nipîwikamik+N+I+Px1Sg+Sg: ninipîwikamik   #  my bedroom
+      nipîwikamik+N+I+Px2Sg+Sg: kinipîwikamik   #  your bedroom
+      nipîwikamik+N+I+Px3Sg+Sg: onipîwikamik   #  his/her bedroom
+      nipîwikamik+N+I+Px1Pl+Sg: ninipîwikamikonân   #  our bedroom
+      nipîwikamik+N+I+Px12Pl+Sg: kinipîwikamikonaw   #  your and our bedroom
+      nipîwikamik+N+I+Px2Pl+Sg: kinipîwikamikowâw   #  your bedroom
+      nipîwikamik+N+I+Px3Pl+Sg: onipîwikamikowâw   #  their bedroom
+      nipîwikamik+N+I+Px4Sg/Pl+Sg: onipîwikamikothiw   #  another's/others' bedroom
+      
+
+      # Poss # Pl
+      nipîwikamik+N+I+Px1Sg+Pl: ninipîwikamikwa   #  my bedrooms
+      nipîwikamik+N+I+Px2Sg+Pl: kinipîwikamikwa   #  your bedrooms
+      nipîwikamik+N+I+Px3Sg+Pl: onipîwikamikwa   #  his/her bedrooms
+      nipîwikamik+N+I+Px1Pl+Pl: ninipîwikamikonâna   #  our bedrooms
+      nipîwikamik+N+I+Px12Pl+Pl: kinipîwikamikonawa   #  your and our bedrooms
+      nipîwikamik+N+I+Px2Pl+Pl: kinipîwikamikowâwa   #  your bedrooms
+      nipîwikamik+N+I+Px3Pl+Pl: onipîwikamikowâwa   #  their bedrooms
+      nipîwikamik+N+I+Px4Sg/Pl+Pl: onipîwikamikothiwa   #  another's/others' bedrooms
+      
+
+      # Poss # Loc
+      nipîwikamik+N+I+Px1Sg+Loc: [ninipîwikamikohk, ninipîwikamikoh]   #  in my bedroom
+      nipîwikamik+N+I+Px2Sg+Loc: [kinipîwikamikohk, kinipîwikamikoh]   #  in your bedroom
+      nipîwikamik+N+I+Px3Sg+Loc: [onipîwikamikohk, onipîwikamikoh]   #  in his/her bedroom
+      nipîwikamik+N+I+Px1Pl+Loc: [ninipîwikamikonâhk, ninipîwikamikonâh]   #  in our bedroom
+      nipîwikamik+N+I+Px12Pl+Loc: [kinipîwikamikonâhk, kinipîwikamikonâh]   #  in your and our bedroom
+      nipîwikamik+N+I+Px2Pl+Loc: [kinipîwikamikowâhk, kinipîwikamikowâh]   #  in your bedroom
+      nipîwikamik+N+I+Px3Pl+Loc: [onipîwikamikowâhk, onipîwikamikowâh]   #  in their bedroom
+      nipîwikamik+N+I+Px4Sg/Pl+Loc: [onipîwikamikothihk, onipîwikamikothih]   #  in another's/others' bedroom
+      
+

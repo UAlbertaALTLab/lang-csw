@@ -1,0 +1,65 @@
+Config:
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+   Lemma - pahkwîsikan :
+
+      # Core
+
+      # Nonposs
+      pahkwîsikan+N+A+Sg: pahkwîsikan
+      pahkwîsikan+N+A+Pl: pahkwîsikanak
+      pahkwîsikan+N+A+Obv: pahkwîsikana
+
+      # Poss
+      pahkwîsikan+N+A+Px1Sg+Sg: [nipahkwîsikan, nipahkwîsikanim]
+      pahkwîsikan+N+A+Px3Sg+Obv: [opahkwîsikana, opahkwîsikanima]
+      
+
+      # Nonposs
+      pahkwîsikan+N+A+Sg: pahkwîsikan
+      pahkwîsikan+N+A+Pl: pahkwîsikanak
+      pahkwîsikan+N+A+Obv: pahkwîsikana
+      pahkwîsikan+N+A+Distr: pahkwîsikaninâhk
+      
+
+      # Der/Dim
+      pahkwîsikan+N+A+Der/Dim+N+A+Sg: [pahkwîsikanis, pahkwîsikanisîs]
+      
+
+      # Poss # Sg
+      pahkwîsikan+N+A+Px1Sg+Sg: [nipahkwîsikan, nipahkwîsikanim]
+      pahkwîsikan+N+A+Px2Sg+Sg: [kipahkwîsikan, kipahkwîsikanim]
+      
+      pahkwîsikan+N+A+Px1Pl+Sg: [nipahkwîsikaninân, nipahkwîsikaniminân]
+      pahkwîsikan+N+A+Px12Pl+Sg: [kipahkwîsikaninaw, kipahkwîsikaniminaw]
+      pahkwîsikan+N+A+Px2Pl+Sg: [kipahkwîsikaniwâw, kipahkwîsikanimiwâw]
+      
+      
+      
+
+      # Poss # Pl
+      pahkwîsikan+N+A+Px1Sg+Pl: [nipahkwîsikanak, nipahkwîsikanimak]
+      pahkwîsikan+N+A+Px2Sg+Pl: [kipahkwîsikanak, kipahkwîsikanimak]
+      
+      pahkwîsikan+N+A+Px1Pl+Pl: [nipahkwîsikaninânak, nipahkwîsikaniminânak]
+      pahkwîsikan+N+A+Px12Pl+Pl: [kipahkwîsikaninawak, kipahkwîsikaniminawak]
+      pahkwîsikan+N+A+Px2Pl+Pl: [kipahkwîsikaniwâwak, kipahkwîsikanimiwâwak]
+      
+      
+      
+
+      # Poss # Obv
+      pahkwîsikan+N+A+Px1Sg+Obv: [nipahkwîsikana, nipahkwîsikanima]
+      pahkwîsikan+N+A+Px2Sg+Obv: [kipahkwîsikana, kipahkwîsikanima]
+      pahkwîsikan+N+A+Px3Sg+Obv: [opahkwîsikana, opahkwîsikanima]
+      pahkwîsikan+N+A+Px1Pl+Obv: [nipahkwîsikaninâna, nipahkwîsikaniminâna]
+      pahkwîsikan+N+A+Px12Pl+Obv: [kipahkwîsikaninawa, kipahkwîsikaniminawa]
+      pahkwîsikan+N+A+Px2Pl+Obv: [kipahkwîsikaniwâwa, kipahkwîsikanimiwâwa]
+      pahkwîsikan+N+A+Px3Pl+Obv: [opahkwîsikaniwâwa, opahkwîsikanimiwâwa]
+      pahkwîsikan+N+A+Px4Sg/Pl+Obv: [opahkwîsikanithiwa, opahkwîsikanimithiwa]
+      
+

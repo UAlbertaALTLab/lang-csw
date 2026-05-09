@@ -1,0 +1,57 @@
+Config:
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+   Lemma - miskîsik :
+
+      # Core
+
+      # Poss
+      miskîsik+N+I+D+Px1Sg+Sg: niskîsik   #  my eye
+      miskîsik+N+I+D+Px2Sg+Sg: kiskîsik   #  your eye
+      miskîsik+N+I+D+Px3Sg+Sg: oskîsik   #  his/her eye
+      
+
+      # Der/Dim
+      miskîsik+N+I+D+Der/Dim+N+I+D+PxX+Sg: [miskîsikos, miskîsikosis]   #  a little eye
+      
+
+      # Poss # Sg
+      miskîsik+N+I+D+Px1Sg+Sg: niskîsik   #  my eye
+      miskîsik+N+I+D+Px2Sg+Sg: kiskîsik   #  your eye
+      miskîsik+N+I+D+Px3Sg+Sg: oskîsik   #  his/her eye
+      miskîsik+N+I+D+Px1Pl+Sg: niskîsikonân   #  our eye
+      miskîsik+N+I+D+Px12Pl+Sg: kiskîsikonaw   #  your and our eye
+      miskîsik+N+I+D+Px2Pl+Sg: kiskîsikowâw   #  your eye
+      miskîsik+N+I+D+Px3Pl+Sg: oskîsikowâw   #  their eye
+      miskîsik+N+I+D+Px4Sg/Pl+Sg: oskîsikothiw   #  a eye
+      miskîsik+N+I+D+PxX+Sg: miskîsik   #  someone's eye
+      
+
+      # Poss # Pl
+      miskîsik+N+I+D+Px1Sg+Pl: niskîsikwa   #  my eyes
+      miskîsik+N+I+D+Px2Sg+Pl: kiskîsikwa   #  your eyes
+      miskîsik+N+I+D+Px3Sg+Pl: oskîsikwa   #  his/her eyes
+      miskîsik+N+I+D+Px1Pl+Pl: niskîsikonâna   #  our eyes
+      miskîsik+N+I+D+Px12Pl+Pl: kiskîsikonawa   #  your and our eyes
+      miskîsik+N+I+D+Px2Pl+Pl: kiskîsikowâwa   #  your eyes
+      miskîsik+N+I+D+Px3Pl+Pl: oskîsikowâwa   #  their eyes
+      miskîsik+N+I+D+Px4Sg/Pl+Pl: oskîsikothiwa   #  eyes
+      miskîsik+N+I+D+PxX+Pl: miskîsikwa   #  someone's eyes
+      
+
+      # Poss # Loc
+      miskîsik+N+I+D+Px1Sg+Loc: [niskîsikohk, niskîsikoh]   #  in my eye
+      miskîsik+N+I+D+Px2Sg+Loc: [kiskîsikohk, kiskîsikoh]   #  in your eye
+      miskîsik+N+I+D+Px3Sg+Loc: [oskîsikohk, oskîsikoh]   #  in his/her eye
+      miskîsik+N+I+D+Px1Pl+Loc: [niskîsikonâhk, niskîsikonâh]   #  in our eye
+      miskîsik+N+I+D+Px12Pl+Loc: [kiskîsikonâhk, kiskîsikonâh]   #  in your and our eye
+      miskîsik+N+I+D+Px2Pl+Loc: [kiskîsikowâhk, kiskîsikowâh]   #  in your eye
+      miskîsik+N+I+D+Px3Pl+Loc: [oskîsikowâhk, oskîsikowâh]   #  in their eye
+      miskîsik+N+I+D+Px4Sg/Pl+Loc: [oskîsikothihk, oskîsikothih]   #  in another's/others' eye
+      miskîsik+N+I+D+PxX+Loc: [miskîsikohk, miskîsikoh]   #  in someone's eye
+      
+
