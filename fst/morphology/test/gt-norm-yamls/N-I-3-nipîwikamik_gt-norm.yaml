@@ -12,7 +12,7 @@ Tests:
       # Nonposs
       nipîwikamik+N+I+Sg: nipîwikamik   #  a bedroom
       nipîwikamik+N+I+Pl: nipîwikamikwa   #  bedrooms
-      nipîwikamik+N+I+Loc: [nipîwikamikohk, nipîwikamikoh]   #  in a bedroom
+      nipîwikamik+N+I+Loc: nipîwikamikohk   #  in a bedroom
 
       # Poss
       nipîwikamik+N+I+Px1Sg+Sg: ninipîwikamik   #  my bedroom
@@ -22,7 +22,7 @@ Tests:
       # Nonposs
       nipîwikamik+N+I+Sg: nipîwikamik   #  a bedroom
       nipîwikamik+N+I+Pl: nipîwikamikwa   #  bedrooms
-      nipîwikamik+N+I+Loc: [nipîwikamikohk, nipîwikamikoh]   #  in a bedroom
+      nipîwikamik+N+I+Loc: nipîwikamikohk   #  in a bedroom
       
 
       # Der/Dim
@@ -52,13 +52,13 @@ Tests:
       
 
       # Poss # Loc
-      nipîwikamik+N+I+Px1Sg+Loc: [ninipîwikamikohk, ninipîwikamikoh]   #  in my bedroom
-      nipîwikamik+N+I+Px2Sg+Loc: [kinipîwikamikohk, kinipîwikamikoh]   #  in your bedroom
-      nipîwikamik+N+I+Px3Sg+Loc: [onipîwikamikohk, onipîwikamikoh]   #  in his/her bedroom
-      nipîwikamik+N+I+Px1Pl+Loc: [ninipîwikamikonâhk, ninipîwikamikonâh]   #  in our bedroom
-      nipîwikamik+N+I+Px12Pl+Loc: [kinipîwikamikonâhk, kinipîwikamikonâh]   #  in your and our bedroom
-      nipîwikamik+N+I+Px2Pl+Loc: [kinipîwikamikowâhk, kinipîwikamikowâh]   #  in your bedroom
-      nipîwikamik+N+I+Px3Pl+Loc: [onipîwikamikowâhk, onipîwikamikowâh]   #  in their bedroom
-      nipîwikamik+N+I+Px4Sg/Pl+Loc: [onipîwikamikonihk, onipîwikamikonih]   #  in another's/others' bedroom
+      nipîwikamik+N+I+Px1Sg+Loc: ninipîwikamikohk    #  in my bedroom
+      nipîwikamik+N+I+Px2Sg+Loc: kinipîwikamikohk   #  in your bedroom
+      nipîwikamik+N+I+Px3Sg+Loc: onipîwikamikohk    #  in his/her bedroom
+      nipîwikamik+N+I+Px1Pl+Loc: ninipîwikamikonâhk   #  in our bedroom
+      nipîwikamik+N+I+Px12Pl+Loc: kinipîwikamikonâhk  #  in your and our bedroom
+      nipîwikamik+N+I+Px2Pl+Loc: kinipîwikamikowâhk   #  in your bedroom
+      nipîwikamik+N+I+Px3Pl+Loc: onipîwikamikowâhk    #  in their bedroom
+      nipîwikamik+N+I+Px4Sg/Pl+Loc: onipîwikamikonihk   #  in another's/others' bedroom
       
 
