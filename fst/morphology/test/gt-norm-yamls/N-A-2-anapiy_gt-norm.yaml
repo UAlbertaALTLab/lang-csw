@@ -1,0 +1,65 @@
+Config:
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+   Lemma - anapiy :
+
+      # Core
+
+      # Nonposs
+      anapiy+N+A+Sg: anapiy   #  a net, a fishing-net, a gill net
+      anapiy+N+A+Pl: anapiyak   #  nets, fishing-nets, gill nets
+      anapiy+N+A+Obv: anapiya   #  an/other net(s), an/other fishing-net(s), an/other gill net(s)
+
+      # Poss
+      anapiy+N+A+Px1Sg+Sg: nitanapiy   #  my net, my fishing-net, my gill net
+      anapiy+N+A+Px3Sg+Obv: otanapiya   #  his/her other net(s), his/her other fishing-net(s), his/her other gill net(s)
+      
+
+      # Nonposs
+      anapiy+N+A+Sg: anapiy   #  a net, a fishing-net, a gill net
+      anapiy+N+A+Pl: anapiyak   #  nets, fishing-nets, gill nets
+      anapiy+N+A+Obv: anapiya   #  an/other net(s), an/other fishing-net(s), an/other gill net(s)
+      anapiy+N+A+Distr: anapînâhk   #  among nets, among fishing-nets, among gill nets
+      
+
+      # Der/Dim
+      anapiy+N+A+Der/Dim+N+A+Sg: [anapîs, anapîsis]  #  a little net, a little fishing-net, a little gill net
+      
+
+      # Poss # Sg
+      anapiy+N+A+Px1Sg+Sg: nitanapiy   #  my net, my fishing-net, my gill net
+      anapiy+N+A+Px2Sg+Sg: kitanapiy   #  your net, your fishing-net, your gill net
+      
+      anapiy+N+A+Px1Pl+Sg: nitanapînân   #  our net, our fishing-net, our gill net
+      anapiy+N+A+Px12Pl+Sg: kitanapînaw   #  your and our net, your and our fishing-net, your and our gill net
+      anapiy+N+A+Px2Pl+Sg: kitanapîwâw   #  your net, your fishing-net, your gill net
+      
+      
+      
+
+      # Poss # Pl
+      anapiy+N+A+Px1Sg+Pl: nitanapiyak   #  my nets, my fishing-nets, my gill nets
+      anapiy+N+A+Px2Sg+Pl: kitanapiyak   #  your nets, your fishing-nets, your gill nets
+      
+      anapiy+N+A+Px1Pl+Pl: nitanapînânak   #  our nets, our fishing-nets, our gill nets
+      anapiy+N+A+Px12Pl+Pl: kitanapînawak   #  your and our nets, your and our fishing-nets, your and our gill nets
+      anapiy+N+A+Px2Pl+Pl: kitanapîwâwak   #  your nets, your fishing-nets, your gill nets
+      
+      
+      
+
+      # Poss # Obv
+      anapiy+N+A+Px1Sg+Obv: nitanapiya   #  my other net(s), my other fishing-net(s), my other gill net(s)
+      anapiy+N+A+Px2Sg+Obv: kitanapiya   #  your other net(s), your other fishing-net(s), your other gill net(s)
+      anapiy+N+A+Px3Sg+Obv: otanapiya   #  his/her other net(s), his/her other fishing-net(s), his/her other gill net(s)
+      anapiy+N+A+Px1Pl+Obv: nitanapînâna   #  our other net(s), our other fishing-net(s), our other gill net(s)
+      anapiy+N+A+Px12Pl+Obv: kitanapînawa   #  your and our other net(s), your and our other fishing-net(s), your and our other gill net(s)
+      anpiy+N+A+Px2Pl+Obv: kitanapîwâwa   #  your other net(s), your other fishing-net(s), your other gill net(s)
+      anapiy+N+A+Px3Pl+Obv: otanapîwâwa   #  their other net(s), their other fishing-net(s), their other gill net(s)
+      anapiy+N+A+Px4Sg/Pl+Obv: otanapîniwa   #  another's/others' other net(s), another's/others' other fishing-net(s), another's/others' other gill net(s)
+      
+
