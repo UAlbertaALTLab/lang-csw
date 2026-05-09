@@ -12,7 +12,7 @@ Tests:
       # Nonposs
       cîmân+N+I+Sg: cîmân   #  a canoe
       cîmân+N+I+Pl: cîmâna   #  canoes
-      cîmân+N+I+Loc: [cîmânihk, cîmânih]   #  in a canoe
+      cîmân+N+I+Loc: cîmânihk   #  in a canoe
 
       # Poss
       cîmân+N+I+Px1Sg+Sg: nicîmân   #  my canoe
@@ -22,7 +22,7 @@ Tests:
       # Nonposs
       cîmân+N+I+Sg: cîmân   #  a canoe
       cîmân+N+I+Pl: cîmâna   #  canoes
-      cîmân+N+I+Loc: [cîmânihk, cîmânih]   #  in a canoe
+      cîmân+N+I+Loc: cîmânihk   #  in a canoe
 
 
       # Der/Dim
