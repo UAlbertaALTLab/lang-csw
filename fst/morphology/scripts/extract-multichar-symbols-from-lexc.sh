@@ -7,7 +7,9 @@
 # Usage:
 #    cat lexicon.lexc | scripts/extract-multichar-symbols-from-lexc.sh
 
-gawk 'BEGIN { pos["+N"]="+N"; pos["+V"]="+V"; pos["+Ipc"]="+Ipc"; pos["+Pron"]="+Pron"; 
+gawk 'BEGIN { pos["+N"]="+N"; pos["+V"]="+V"; pos["+Ipc"]="+Ipc"; pos["+Pron"]="+Pron";
+  prefregex="((P[VN][^\\+]+\\+)|(Rdpl[SW]\\+))";
+  sufregex="(\\+(N|V|Pron|Num|Ipc)";
 } 
 { line=$0;
   sub("!.*$", "", line);
@@ -44,7 +46,15 @@ gawk 'BEGIN { pos["+N"]="+N"; pos["+V"]="+V"; pos["+Ipc"]="+Ipc"; pos["+Pron"]="
 END { PROCINFO["sorted_in"]="@ind_str_asc";
   print "!! Tags";
   for(tag in tags)
-     print tag;
+     {
+       check="";
+       if(match(tag, "\\+$")!=0)
+         if(match(tag, prefregex)==0)
+           check=" ! Check: Prefix?";
+         else
+           check="";
+       printf "%s%s\n", tag, check;
+     }
   print "";
   printf "!! Flags !!\n\n";
   for(flag in flags)
