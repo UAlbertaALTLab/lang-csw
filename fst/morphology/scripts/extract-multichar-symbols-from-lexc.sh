@@ -4,7 +4,12 @@
 
 # Script to extract multicharacter symbols candidates from LEXC code
 
-gawk '{ line=$0;
+# Usage:
+#    cat lexicon.lexc | scripts/extract-multichar-symbols-from-lexc.sh
+
+gawk 'BEGIN { pos["+N"]="+N"; pos["+V"]="+V"; pos["+Ipc"]="+Ipc"; pos["+Pron"]="+Pron"; 
+} 
+{ line=$0;
   sub("!.*$", "", line);
   if(match(line, "^[^;]+;", f)!=0)
     {
@@ -24,12 +29,48 @@ gawk '{ line=$0;
            for(j=1; j<=m; j++)
              trigs[ff[j]]++;
          }
+      if(n==2)
+        {
+          # m=patsplit(f[1], ff, "P[NV]/[^\\+]+\\+");
+          m=patsplit(f[1], ff, "[^\\+@]+\\+");
+          for(j=1; j<=m; j++)
+             tags[ff[j]]++;
+          m=patsplit(f[1], ff, "\\+[^\\+@]+");
+          for(j=1; j<=m; j++)
+             tags[ff[j]]++;
+        }
     }
 }
 END { PROCINFO["sorted_in"]="@ind_str_asc";
-  print "!! Flags";
+  print "!! Tags";
+  for(tag in tags)
+     print tag;
+  print "";
+  printf "!! Flags !!\n\n";
   for(flag in flags)
-     print flag;
+     # print flag;
+     if(match(flag, "@(.)\\.([^\\.]+)(\\.([^@]+))?@", f)!=0)
+       {
+         type=f[1]; var=f[2]; val=f[4];
+         fparse[var][val][type]++;
+       }
+  for(var in fparse)
+     {
+       printf "!! %s\n", var;
+       for(val in fparse[var])
+          {
+            if(val!="")
+              printf "!  %s.%s\n", var, val;
+            for(type in fparse[var][val])
+               if(val!="")
+                 printf "@%s.%s.%s@\n", type, var, val;
+               else
+                 printf "@%s.%s@\n", type, var;
+            # print "";
+          }
+       printf "\n";
+     }
+
   print "";
   print "!! Morphophonemic special characters";
   for(spec in specs)
